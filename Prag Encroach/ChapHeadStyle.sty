@@ -1,0 +1,28 @@
+\makeatletter
+\def\@makechapterhead#1{%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+%        \huge\bfseries \@chapapp\space \thechapter
+%        \par\nobreak
+%        \vskip 20\p@
+%    \fi
+%    \vskip 50\p@	
+%   \setlength\topmargin{-1in}	
+    \interlinepenalty\@M
+    \Huge \bfseries \thechapter \par
+    \bigskip
+    \Huge \bfseries #1 \par\nobreak
+%    \titleline
+%    \hline \\
+
+      \vspace{4pt}
+    \hrule
+        \vskip 20\p@ \fi 
+
+%   \setlength\topmargin{0in}	
+  }
+%% \IfSubStringInString{substring}{string}{true part}{false part}
+%% This command searches <substring> in <string> and executes the 
+%% <true part> if it is and else the <else part>
+}
+\makeatother

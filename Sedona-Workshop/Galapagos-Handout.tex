@@ -1,0 +1,347 @@
+\def\mytitle{Interests, Evidence and Games}
+\def\myauthor{Brian Weatherson}
+\def\mydate{July, 2017}
+\def\latexmode{Article}
+\input{../styles/Handout-top}
+
+\subsection*{Summary}
+
+\begin{itemize}
+\item The best model of pragmatic encroachment assumes that we are given a notion of evidence.
+\item But the best arguments for pragmatic encroachment generalise to show that evidence is interest-relative.
+\item So we need a model that solves simultaneously for the variables \textit{What is the evidence?} and \textit{What is known?}, given the physical situation and the interests.
+\item The motivating idea here comes from radical interpretation: the evidence is what the radical interpreter would interpret the evidence to be.
+\item I then use some tools from game theory to fill out how this interpretation might get done, and show how to allow the `best model' to work while evidence itself is interest-relative.
+\end{itemize}
+
+\subsection*{The Red-Blue Game}
+\begin{enumerate}
+\item Two sentences will be written on the board, one in red, one in blue.
+
+\item The player will make two choices.
+
+\item First, they will pick a colour, red or blue.
+
+\item Second, they say whether the sentence in that colour is true or false.
+
+\item If they are right, they win. If not, they lose.
+
+\item If they win, they get \$50, and if they lose, they get nothing.
+
+\end{enumerate}
+Parveen knows the rules and nothing else, and plays the game with these two sentences.
+
+\begin{description}
+\item[Red] Two Plus Two Equals Four.
+\item[Blue] \emph{Knowledge and Lotteries} was published before \emph{Knowledge and Practical Interests}.
+\end{description}
+
+\begin{enumerate}
+\item The only rational play is Red-True.
+\item If Parveen knew \textbf{Blue}, then Blue-True would be rational.
+\item So Parveen (while playing the game) doesn't know \textbf{Blue}.
+\item This generalises to scepticism unless knowledge is interest-relative.
+\item So scepticism is true, or knowledge is interest-relative
+\end{enumerate}
+If super-knowledge is required for action, then we can't explain why Red-True is rationally required. If Parveen knows \textbf{Blue}, we can't distinguish this game from the following one where Red-True is not rationally required.
+
+\begin{itemize}
+\item A single sentence, in this case \textit{Two Plus Two Equals Four} is written in red.
+\item There are four choices: Red-True, Red-False, Blue or Green.
+\item If Red-True, get \$50 if the sentence is true, \$0 otherwise. Red-False is other way around.
+\item If Blue, get \$50.
+\item If Green, get nothing.
+\item Player knows these rules, the identity of the sentence, and nothing else.
+\end{itemize}
+We get interest-relativity (or pragmatic encroachment if you prefer), but it's odds that matter, not stakes. After all, \$50 is low stakes. 
+
+\pagebreak
+\noindent I endorse these principles, and take them to be both extensionally adequate and explanatory.
+
+\begin{itemize}
+\item If the agent knows that \emph{p}, then for any question they have an interest in, the answer to that question is identical to the answer to that question conditional on \emph{p}.
+
+\item When an agent is considering the choice between two options, the question of which option has a higher expected utility given their evidence is a question they have an interest in.
+
+\end{itemize}
+
+\section*{The Problem with Evidence}
+Go back to the red-blue game. Consider a version of the game where:
+
+\begin{itemize}
+\item The red sentence is that two plus two equals four.
+
+\item The blue sentence is something that, if known, would be part of the agent's evidence.
+
+\end{itemize}
+Here's the problem. Red-True is still the only rational play. But we can't explain that in terms of evidential probabilities, because what's at issue is whether \textbf{Blue} is part of the evdience. Here are some ways out.
+
+\begin{enumerate}
+\item Make evidence psychological, and infallible, so that Red-True is not the unique rational choice.
+\item Deny that the story of the last section is explanatory.
+\end{enumerate}
+These seem bad, so I'm going to look for a different approach.
+
+\section*{A Simple, but Unsatisfying, Solution}
+Start with this abstract version of the case.
+\begin{itemize} 
+\item We have agent \emph{S} with option \emph{O}, and value function \emph{V}.
+\item It really matters whether $V(O) \geq x$, and nothing else about $O$ matters.
+\item It is uncontroversial that the evidence includes $K$.
+\item It is controversial whether the evidence includes $p$, and $p$ is relevant to $O$ and nothing else.
+\item And assume (controversially) that there is a `prior' value function $V^-$, so for any choice $C$, $V(C) = V^-(C | E)$, where $E$ is the evidence the agent has.
+\end{itemize}
+Hypothesis: The agent knows $p$ only if this obtains:
+
+\begin{quote}
+
+$\frac{V^-(O | K) + V^-(O | K \wedge p)}{2} \geq x$
+\end{quote}
+That is, we work out the value of $O$ with and without $p$, and if the average is greater than $x$, good enough!
+
+\begin{itemize}
+\item Good news: This gets the above cases right.
+\item Bad news: This is absurdly ad hoc.
+\item Worse news: We don't even have a way to generalise it to cases with multiple options, multiple things $p$ is relevant to, etc.
+\end{itemize}
+It's time for some game theory.
+
+\pagebreak
+\section*{Gamifying Problems}
+\label{gamifyingtheproblem}
+
+We can usefully think of several philosophical problems as games. Here, for example, is the game table for Newcomb's problem, with Row as Human, and Column as Demon. Note that in all these games, Row chooses a row, and Column chooses a column, and that determines the cell that is the outcome of the game. The cells include two numbers. The first is Row's payout, and the second is Column's. The games are non-competitive; the players are simply trying to maximise their own returns.
+
+
+\begin{center}
+\begin{tabular}{r | c c}
+ & Predict 1 Box & Predict 2 Boxes \\ \hline
+Choose 1 Box & 1000, 1 & 0,0 \\
+Choose 2 Boxes & 1001, 0 & 1, 1
+\end{tabular}
+\end{center}
+This game has a unique Nash equilbrium; the bottom right corner. A Nash equilibrium is an outcome of the game where every player does as well as they can given the moves of the other players. Equivalently, it is an outcome where no player can improve their payout by unilaterally defecting from the equilibrium.
+
+\section*{The Interpretation Game}
+The game has two players: Human and The Radical Interpreter. Our first job is to set their value function, via thinking about their goals.
+
+\begin{itemize}
+\item The Radical Interpreter assigns mental states to Human in such a way as to predict Human's actions given Human rationality. We'll assume here that evidence is a mental state, so saying what evidence Human has is among Radical Interpreter's tasks. (Indeed, in the game play to come, it will be their primary task.)
+
+\item Human acts so as to maximise the expected utility of their action, conditional on the evidence that they have. Human doesn't always know what evidence they have; it depends on The Radical Interpreter.
+\end{itemize}
+The result is that the game is a coordination game. The Radical Interpreter wants to assign evidence in a way that predicts rational Human action, and Human wants to do what's rational given that assignment of evidence. Coordination games typically have multiple equilibria, and this one is no exception.
+
+\begin{itemize}
+\item Human is offered a choice to Take or Decline a bet on \emph{p}. 
+\item If the bet wins, it wins 1 util; if the bet loses, it loses 100 utils.
+\item If $p$ is known, it is part of Human's evidence, but it is not obviously known.
+\item Let $K$ be the rest of Human's evidence (apart from $p$, and things entailed by $K \cup \{p\}$), and stipulate that $\Pr(p | K) = 0.9$. 
+\item The Radical Interpreter has to choose whether \emph{p} is part of Human's evidence or not.
+\item Human has to decide whether to Take or Decline the bet.
+\end{itemize}
+The Radical Interpreter achieves their goal if human takes the bet iff \emph{p} is part of their evidence.  So we get the following table for the game.
+
+
+\begin{center}
+\begin{tabular}{r | c c}
+& $p \in E$ & $p \notin E$ \\ \hline
+Take the bet & 1, 1 & -9.1, 0 \\
+Decline the bet & 0, 0 & 0, 1
+\end{tabular}
+\end{center}
+A quick explanation of Human's payouts. In the bottom row, they are guaranteed 0, since the bet is declined. In the top-left, the bet is a sure winner; their evidence entails it wins. So they get a payout of 1. In the top-right, the bet wins with probability 0.9, so the expected return of taking it is $1 \times 0.9 - 100 \times 0.1 = -9.1$.
+
+There are two Nash equilibria for the game, top-left and bottom-right. To make more progress, we need to go beyond equilibrium analysis, to principles that select among equilibria. And we'll do it via an example of Rousseau's.
+
+\section*{Equilibrium Selection Principles}
+\label{equilibriumselectionprinciples}
+\begin{multicols}{2}
+\noindent Here's a maximally abstract version of a 2x2 game.
+
+\begin{center}
+\begin{tabular}{r | c c}
+& $a$ & $b$  \\\hline
+$A$ & $r_{11}$, $c_{11}$ & $r_{12}$, $c_{12}$ \\
+$B$ & $r_{21}$, $c_{21}$ & $r_{22}$, $c_{22}$
+\end{tabular}
+\end{center}
+We're going to focus on games that have the eight properties listed to the right:
+\columnbreak
+
+\begin{itemize}
+\item $r_{11} > r_{21}$
+
+\item $r_{22} > r_{12}$
+
+\item $c_{11} > c_{12}$
+
+\item $c_{22} > c_{21}$
+
+\item $r_{11} > r_{22}$
+
+\item $c_{11} \geq c_{22}$
+
+\item $\frac{r_{21}+r_{22}}{2} > \frac{r_{11}+r_{12}}{2}$
+
+\item $\frac{c_{12}+c_{22}}{2} \geq \frac{c_{11}+c_{21}}{2}$
+
+\end{itemize}
+\end{multicols}
+\begin{itemize}
+\item Clauses 1-4 imply $Aa$ and $Bb$ are the only pure strict Nash equilibria.
+\item Clauses 5 and 6  say that the $Aa$ equilibria is \textbf{Pareto-optimal}: no one prefers the other equilibria to it. 
+\item Clauses 7 and 8 say that the $Bb$ equilibria is \textbf{risk-optimal}. Roughly, each would prefer it if they thought the other would flip a coin between the equilibrium choices.
+\end{itemize}
+I claim in these cases, the risk-optimal equilibrium is the rational one. Games satisfying these eight inequalities are sometimes called \emph{Stag Hunt} games. The name comes from a thought experiment in Rousseau's \emph{Discourse on Inequality}. 
+
+\begin{quote}
+
+[T]hey were perfect strangers to foresight, and were so far from troubling themselves about the distant future, that they hardly thought of the morrow. If a deer was to be taken, every one saw that, in order to succeed, he must abide faithfully by his post: but if a hare happened to come within the reach of any one of them, it is not to be doubted that he pursued it without scruple, and, having seized his prey, cared very little, if by so doing he caused his companions to miss theirs. 
+\end{quote}
+Rousseau assumes here, rightly I think, that the (short-term) rational play is the uncooperative one.
+
+There is a recent argument to the same conclusion by Hans Carlsson and Eric van Damme. Assume that the payoffs are not perfectly known - some of them include small (and symmetric) error bars. Then iterated strict dominance reasoning implies that the risk-optimal strategy is uniquely rational. (This is not at all obvious, but it would be a big detour to prove it here. I'll say more in Q \& A if people are interested.)
+
+\section*{Back to Interpretation}
+The risk-dominant equilibria in the Interpretation Game we had is that $p \notin E$, and Human declines the bet. I think this is rational for both players, and since The Radical Interpreter does what is rational, it is true that $p \notin E$. And that's the general case; the evidence is what The Radical Interpreter says the evidence is, assuming that they choose risk-dominant equilibria. This view has a number of striking features:
+
+\begin{itemize}
+\item It is interest-relative.
+\item It is systematic; we can apply it to more than simple cases, though computing risk-dominant equilibria gets non-trivial after a while.
+\item It is not (completely) ad hoc; it follows from independent principles about strategy choice.
+\item It is reductive, or at least as reductive as the original interest-relative story.
+\end{itemize}
+So the interest-relative theorist can keep their general story of how interests matter, and allow evidence to be interest-relative too.
+
+\end{document}
+To make matters a little easier, we'll focus on a very particular instance of Stag Hunt, as shown here. (From here I'm following Carlsson and van Damme very closely; this is their example, with just the labelling slightly altered.)
+
+
+\begin{center}
+\begin{tabular}{r | c c}
+& $a$ & $b$  \\\hline
+$A$ & 4, 4 & 0, 3 \\
+$B$ & 3, 0 & 3, 3
+\end{tabular}
+\end{center}
+
+
+At first glance it might seem like $Aa$ is the right choice; it produces the best outcome. This isn't like Prisoners Dilemma, where the best collective outcome is dominated. In fact $Aa$ is the best outcome for each individual. But it is risky, and Carlsson and van Damme show how to turn that risk into an argument for choosing $Bb$.
+
+Embed this game in what they call a \emph{global game}. We'll start the game with each player knowing just that they will play a game with the following payout table, with $x$ to be selected at random from a flat distribution over $[-1, 5]$.
+
+
+\begin{center}
+\begin{tabular}{r | c c}
+& $a$ & $b$  \\\hline
+$A$ & 4, 4 & 0, x \\
+$B$ & x, 0 & x, x
+\end{tabular}
+\end{center}
+
+
+Before they play the game, each player will get a noisy signal about the value of $x$. There will be signals $s_R$ and $s_C$ chosen (independently) from a flat distribution over $[x - 0.25, x + 0.25]$, and shown to Row and Column respectively. So each player will know the value of $x$ to within $\frac{1}{4}$, and know that the other player knows it to within $\frac{1}{4}$ as well. But this is a margin of error model, and in those models there is very little that is common knowledge. That, they argue, makes a huge difference.
+
+In particular, they prove that iterated deletion of strictly dominated strategies (almost) removes all but one strategy pair.\footnote{A sketch of the proof is in Appendix One.} Each player will play $A$\slash $a$ if the signal is greater than 2, and $B$\slash $b$ otherwise.\footnote{Strictly speaking, we can't rule out various mixed strategies when the signal is precisely 2, but this makes little difference, since that occurs with probability 0.} Surprisingly, this shows that players should play the risk-optimal strategy even when they know the other strategy is Pareto-optimal. When a player gets a signal in $(2, 3.75)$, then they know that $x < 4$, so $Bb$ is the Pareto-optimal equilibrium. But the logic of the global game suggests the risk-dominant equilibrium is what to play.
+
+Carlsson and van Damme go on to show that many of the details of this case don't matter. As long as (a) there is a margin of error in each side's estimation of the payoffs, and (b) every choice is a dominant option in some version of the global game, then iterated deletion of strongly dominant strategies will lead to each player making the risk-dominant choice.
+
+I conclude from that that risk-dominant choices are rational in these games. There is a limit assumption involved here; what's true for games with arbitrarily small margins of error is true for games with no margin of error. (We'll come back to that assumption below.) And since The Radical Interpreter is rational, they will play the strategy that is not eliminated by deleting dominant strategies. That is, they will play the risk-dominant strategy. 
+
+In the case of Human, that means they will say that $p \notin E$. And in the case of Parveen and Rahul, that means they will say that it is not part of Parveen's evidence that Rahul is in the restaurant. And this is an interest-relative theory of evidence; had Parveen been playing a different game, The Radical Interpreter would have said that it is part of Parveen's evidence that Rahul was in the restaurant. 
+
+And from this point we can say all the things we wanted to say about the case. If it is part of Parveen's evidence that Rahul is in the restaurant, then she knows this. Conversely, if she knows it, then The Radical Interpreter would have said it is part of her evidence, so it is part of her evidence. Parveen will perform the action that maximises expected utility given her evidence. And she will lose knowledge when that disposition makes her do things that would be known to be sub-optimal if she didn't lose knowledge.
+
+In short, this model gives us a way to keep what was good about the pragmatic encroachment theory, while also allowing that evidence can be interest-relative. It does require a slightly more complex theory of rationality than we had previously used. Rather than just say that agents maximise evidential expected utility, we have to say that they play risk-dominant strategies in coordination games. But it turns out that this is little more than saying that they maximise evidential expected utility, and they expect others (at least perfectly rational abstract others) to do the same, and they expect those others to expect they will maximise expected utility, and so on.
+
+
+%\end{multicols}
+\end{document}
+
+\subsection*{Games}
+
+\begin{center}
+\begin{tabular}{r | c c}
+& Predict 1 Box & Predict 2 Boxes \\ \hline
+Choose 1 Box & 1000, 1 & 0,0 \\
+Choose 2 Boxes & 1001, 0 & 1, 1
+\end{tabular}
+
+\medskip
+\textit{Game 1: Newcomb}
+
+\bigskip
+\bigskip
+
+\begin{tabular}{r | c c}
+& $p \in E$ & $p \notin E$ \\ \hline
+Take the bet & \textbf{1, 1} & -9.1, 0 \\
+Decline the bet & 0, 0 & \textbf{0, 1}
+\end{tabular}
+
+\medskip
+\textit{Game 2: Interpretation}
+
+\bigskip
+\bigskip
+
+\begin{tabular}{r | c c}
+& $a$ & $b$  \\\hline
+$A$ & 5, 5 & 0, 4 \\
+$B$ & 4, 0 & 2, 2
+\end{tabular}
+
+\medskip
+\textit{Game 3: Stag Hunt}
+
+\bigskip
+\bigskip
+
+\begin{tabular}{r | c c}
+& $a$ & $b$ \\ \hline
+$A$ & 4, 4 & 0, 4 \\
+$B$ & 4, 0 & 2, 2
+\end{tabular}
+
+\medskip
+\textit{Game 4: Pareto Dominant is Weakly Dominated}
+
+\bigskip
+\bigskip
+
+\begin{tabular}{r | c c}
+& $p \in E$ & $p \notin E$ \\ \hline
+Take the bet & 1, 1 & -0.6, 0 \\
+Decline the bet & 0, 0 & 0, 1
+\end{tabular}
+
+\medskip
+\textit{Game 5: Interpretation Game with Low Odds}
+\end{center}
+
+\columnbreak
+
+\subsection*{Rules for Interpretation Game}
+
+There are two players:
+
+\begin{enumerate}
+\item Human (on row)
+\item Radical Interpreter (on column)
+\end{enumerate}
+Here are their goals:
+
+\begin{itemize}
+\item Radical interpreter assigns mental states (including evidence) to human in such a way as to correctly predict human's actions (assuming human is rational).
+\item Human acts so as to maximise evidential expected utility, where the evidence is what the radical interpreter says the evidence is.
+\end{itemize}
+
+\subsection*{Key Concepts}
+\begin{itemize}
+\item A set of plays is a \textbf{Nash equilibrium} if no player can improve their situation by unilaterally changing their play.
+\item A Nash equilibrium is \textbf{Pareto dominant} if no player prefers some other Nash equilibrium to it.
+\item A Nash equilibrium is \textbf{risk dominant} if (roughly) it maximises expected utility assuming other players will randomly choose between equilibrium strategies.
+\end{itemize}
+\end{multicols}
+\end{document}

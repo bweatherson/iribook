@@ -1,0 +1,7 @@
+Abstract
+
+Interest-relative theories of knowledge have a problem with evidence. The best account of when interests matter to knowledge presupposes that what evidence one has is independent of one's interests. But the arguments that knowledge is interest-relative seem to generalise easily to arguments that evidence is interest-relative. I propose to solve this problem by complicating the story of when interests matter to knowledge. The story I used to tell was that agents tried to maximise expected utility, and they knew only what they could take for granted in the particular optimization problem they were facing. The new story is that they are trying to solve a coordination game, where the other player is The Radical Interpreter. In simple cases, they solve this game by maximising expected utility. But in cases where interests may be relevant to evidence, the solution is more complicated. The result is we get a systematic, if complicated, story about how interests matter to evidence and to knowledge.
+
+Author Bio
+
+Brian Weatherson is the Marshall M. Weinberg Professor of Philosophy at the University of Michigan, Ann Arbor. He is currently writing a book on the moral and epistemological significance of moral and epistemological uncertainty.

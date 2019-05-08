@@ -1,0 +1,45 @@
+\documentclass[oneside]{book}
+
+\usepackage{../OldPapers/collpapers}
+%\usepackage{ChapHeadStyle}
+
+\renewcommand{\numbex}[2]{
+\begin{enumerate*}
+\setcounter{enumi}{\value{paper}}
+\renewcommand{\labelenumi}{(\arabic{enumi})}
+#2
+\end{enumerate*}
+\addtocounter{paper}{#1}}
+
+\title{Knowledge, Bets and Interests}
+\author{Brian Weatherson}
+
+\begin{document}
+
+%\begin{titlepage}
+%\maketitle
+%\end{titlepage}
+
+%\setcounter{tocdepth}{1}
+
+%\pagenumbering{roman} \tableofcontents \newpage \pagenumbering{arabic}
+
+\newcounter{paper}
+\setcounter{paper}{0}
+
+\chapter[Knowledge, Bets and Interests]{Knowledge, Bets and Interests auth=Brian Weatherson}
+
+\input{PaperParts/DecisionTheory}
+
+\input{PaperParts/IRB-Revised}
+
+\input{PaperParts/FantlMcGrath}
+
+%\input{PaperParts/Challenges}
+
+%\newpage
+%\addcontentsline{toc}{chapter}{Bibliography}
+\bibliographystyle{../OldPapers/phil_review}
+\bibliography{../OldPapers/CollBib}
+
+\end{document}

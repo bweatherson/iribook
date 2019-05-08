@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScappleDocument Version="1.1" ID="D071F072-43AC-4DB6-AB19-E67076D32025">
+    <Notes>
+        <Note ID="0" FontSize="16.0" Position="64.0,26.0" Width="102.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Introduction</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,12</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="1" FontSize="12.0" Position="64.0,70.0" Width="212.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>The AT/BT example
+Then set out my version of IR
+1. Odds not stakes
+2. Theoretical interests too
+3. Global (though motive for partial)
+4. No direct intuition that F01 doesn’t know
+5. In the weeds not on top
+</String>
+        </Note>
+        <Note ID="2" FontSize="16.0" Position="376.0,22.0" Width="52.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Belief</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,6</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="3" FontSize="12.0" Position="64.0,249.0" Width="183.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Three aspects of interest-relative
+1. Belief
+2. Knowledge
+3. Evidence</String>
+        </Note>
+        <Note ID="4" FontSize="12.0" Position="64.0,341.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Three questions
+1. What is the belief/credence relationship?
+2. What makes something a good representation of choice situation?
+3. How reliable must a source be to count as providing evidence?</String>
+        </Note>
+        <Note ID="5" FontSize="12.0" Position="64.0,197.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Example for 5, how much coherence is needed for knowledge</String>
+        </Note>
+        <Note ID="6" FontSize="12.0" Position="376.0,70.0" Width="139.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Anti-Lockean arguments</String>
+            <ConnectedNoteIDs>9</ConnectedNoteIDs>
+        </Note>
+        <Note ID="7" FontSize="12.0" Position="376.0,154.0" Width="171.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Belief as no change on update</String>
+        </Note>
+        <Note ID="9" FontSize="12.0" Position="376.0,98.0" Width="197.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Closure arguments from CWDWPE
+Game arguments from GBC</String>
+            <ConnectedNoteIDs>6</ConnectedNoteIDs>
+        </Note>
+        <Note ID="11" FontSize="12.0" Position="376.0,182.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Basic picture from CWDWPE
+New picture of update from p9 of GBC</String>
+        </Note>
+        <Note ID="12" FontSize="12.0" Position="376.0,252.0" Width="178.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>How does this handle closure?
+Sections 3, 4, 5 from CWDWPE</String>
+        </Note>
+        <Note ID="13" FontSize="12.0" Position="376.0,302.0" Width="189.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Difference to credence 1 view
+Section 2.1 of KBE
+Also respond to recent arguments</String>
+        </Note>
+        <Note ID="14" FontSize="12.0" Position="376.0,368.0" Width="149.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Stability
+Section 2 of GBC
+Also perhaps Leitgeb here</String>
+        </Note>
+        <Note ID="15" FontSize="12.0" Position="376.0,428.0" Width="135.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Impractical propositions
+2.2 of KBI
+Section 3 of GBC</String>
+        </Note>
+        <Note ID="16" FontSize="16.0" Position="662.0,14.0" Width="94.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Knowledge</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,9</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="17" FontSize="12.0" Position="662.0,53.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Basic idea of structuring decision problems, sect 1 of KBI</String>
+        </Note>
+        <Note ID="18" FontSize="12.0" Position="662.0,95.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>How this gets new kind of IR, contra suggestion in CWDWPE
+This should be all of 3 of KBI
+Might be multiple sections
+Include argument that ~J in these cases, from end of KBI</String>
+        </Note>
+        <Note ID="19" FontSize="12.0" Position="662.0,214.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Brown objections perhaps follow, to incorporate parts of 2 of KBI</String>
+        </Note>
+        <Note ID="20" FontSize="16.0" Position="933.0,12.0" Width="79.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Evidence</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,8</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="21" FontSize="12.0" Position="933.0,57.0" Width="181.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Why we wanted not-IR evidence</String>
+        </Note>
+        <Note ID="22" FontSize="12.0" Position="933.0,85.0" Width="119.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Why we can’t have it</String>
+        </Note>
+        <Note ID="23" FontSize="12.0" Position="933.0,113.0" Width="189.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Evidence as reliable enough input</String>
+        </Note>
+        <Note ID="24" FontSize="12.0" Position="933.0,141.0" Width="93.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Defending E/=K</String>
+        </Note>
+        <Note ID="26" FontSize="16.0" Position="1187.0,11.0" Width="91.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Objections</String>
+            <Formatting>
+                <FormatRange Bold="Yes">0,10</FormatRange>
+            </Formatting>
+        </Note>
+        <Note ID="27" FontSize="12.0" Position="1187.0,54.0" Width="63.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>All of DIRI</String>
+        </Note>
+        <Note ID="28" FontSize="12.0" Position="1187.0,110.0" Width="199.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Whatever is left from other 3 papers</String>
+        </Note>
+        <Note ID="29" FontSize="12.0" Position="1187.0,138.0" Width="153.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Responses to recent critics</String>
+        </Note>
+        <Note ID="30" FontSize="12.0" Position="1187.0,82.0" Width="156.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Include recent PS and JPR </String>
+        </Note>
+        <Note ID="31" FontSize="12.0" Position="1186.0,167.0" Width="205.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Holton discussion from GBC
+Ross &amp; Schroeder from GBC
+     Leave out fix for impractical props
+     But include benefit of that fix</String>
+        </Note>
+    </Notes>
+    <BackgroundShapes></BackgroundShapes>
+    <Stacks>
+        <Stack>6, 9</Stack>
+        <Stack>7, 11</Stack>
+        <Stack>17-18</Stack>
+        <Stack>21-24</Stack>
+        <Stack>27, 30, 28-29</Stack>
+    </Stacks>
+    <AutoFit>0, 2-3, 6-7, 9, 12-16, 20-24, 26-31</AutoFit>
+    <NoteStyles>
+        <Style Name="Blue Bubble" ID="BBBC898F-A08A-4CB4-885A-2C355D5CE81A" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.477193 0.557066 0.76433</BorderColor>
+            <FillColor>0.840969 0.866828 0.925903</FillColor>
+        </Style>
+        <Style Name="Brown Bubble" ID="CA259E69-2143-417A-86D0-838322B8A261" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.290055 0.1523 0.182215</BorderColor>
+            <FillColor>0.940019 0.892907 0.779716</FillColor>
+        </Style>
+        <Style Name="Green Bubble" ID="432DED05-C9E1-4443-A867-FF42994E87FF" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.331867 0.609932 0.356197</BorderColor>
+            <FillColor>0.790123 0.882328 0.80198</FillColor>
+        </Style>
+        <Style Name="Pink Bubble" ID="EA725E94-6CBD-4BAF-96CB-96D9338B7EB1" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.747881 0.366532 0.542813</BorderColor>
+            <FillColor>0.918452 0.807302 0.863467</FillColor>
+        </Style>
+        <Style Name="Red Text" ID="1F985779-5D8C-4DD3-8AAD-51914F29099A" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>1.0 0.0 0.0</TextColor>
+        </Style>
+        <Style Name="Title Text" ID="362C1F8D-5EA9-4C96-A9F7-AFAC9568AC73" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+        <Style Name="Yellow Bubble" ID="AB4CF80A-A188-4AD0-A011-1DC713ECDA9D" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.756763 0.785592 0.373258</BorderColor>
+            <FillColor>0.906773 0.910625 0.634363</FillColor>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999737 0.986332 0.931298</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+        <DefaultTextColor>0.0 0.0 0.0</DefaultTextColor>
+    </UISettings>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>

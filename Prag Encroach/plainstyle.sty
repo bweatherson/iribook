@@ -1,0 +1,162 @@
+\makeatletter
+\let\Title\@title
+\let\Author\@author
+\makeatother
+
+%\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{nicefrac}
+\usepackage[compact]{titlesec}
+\usepackage{mdwlist}
+\usepackage[pdftex]{graphicx}
+\usepackage[geometry,weather,misc,clock]{ifsym}
+\usepackage[english]{babel}
+\usepackage{color}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=black,citecolor=black}
+\usepackage{supertabular}
+\usepackage{array}
+\usepackage{textcomp}
+\usepackage{substr}
+\usepackage{natbib}
+\usepackage{turnstile}
+\usepackage{hanging}
+\usepackage{hyphenat}
+\usepackage{tocloft}
+\usepackage{pict2e}
+\usepackage{needspace}
+%\usepackage{gb4e} Numbering package I used in Hawthorne - Cappellen commentary; seems to crash natbib
+
+\linespread{1.2}
+
+\newcommand{\starttab}{\begin{center}
+\vspace{6pt}
+\begin{tabular}}
+
+\newcommand{\stoptab}{\end{tabular}
+\vspace{6pt}
+\end{center}
+\noindent}
+
+\titlespacing*{\section}{0pt}{9pt}{3pt}
+%\titleformat{\chapter} {\normalfont\Huge\bfseries}{\chaptertitlename\ \thechapter}{1em}{} 
+%\titlespacing*{\chapter} {0pt}{30pt}{20pt} 
+
+
+
+\makeatletter
+\def\@makechapterhead#1{%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+%        \huge\bfseries \@chapapp\space \thechapter
+%        \par\nobreak
+%        \vskip 20\p@
+%    \fi
+%    \vskip 50\p@	
+%   \setlength\topmargin{-1in}	
+    \interlinepenalty\@M
+    \Large \bfseries \BeforeSubString{ auth=}{#1}\par\nobreak
+%    \titleline
+%    \hline \\
+
+%   \setlength\topmargin{0in}	
+  }
+%% \IfSubStringInString{substring}{string}{true part}{false part}
+%% This command searches <substring> in <string> and executes the 
+%% <true part> if it is and else the <else part>
+ \IfSubStringInString{ auth=}{#1}{
+\vspace{4pt}
+\noindent \BehindSubString{ auth=}{#1}
+      \vspace{4pt}
+    \hrule
+        \vskip 20\p@
+}
+{
+      \vspace{4pt}
+    \hrule
+        \vskip 20\p@ \fi 
+}}
+\makeatother
+
+
+
+\usepackage{hyperref}
+\renewcommand{\labelitemi}{$\bullet$}
+\usepackage[garamond]{mathdesign}
+
+\def\thesection{\arabic{section}}
+
+\widowpenalty=200
+\clubpenalty=200
+
+\setlength{\topmargin}{0in}
+\setlength{\headheight}{15pt}
+\setlength{\headsep}{15pt}
+\setlength{\textheight}{230mm}
+\setlength{\textwidth}{6.25in}
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\setlength{\footnotesep}{12pt}
+\setlength{\skip\footins}{18pt}
+
+\setlength{\parskip}{0ex plus 2ex minus 0ex}
+
+%\usepackage{fancyhdr}
+%\pagestyle{fancy}
+%\renewcommand{\chaptermark}[1]{\markboth{#1 }{}}
+%\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+%\fancyhf{}
+%\fancyhead[L]{\bfseries\leftmark}
+%\fancyhead[R]{\bfseries\thepage}
+%%\fancyhead[LE]{\bfseries\rightmark}
+%\fancyfoot{}
+%\renewcommand{\headrulewidth}{0.5pt}
+%\renewcommand{\footrulewidth}{0pt}
+%\addtolength{\headheight}{0.5pt}
+%\fancypagestyle{plain}{
+%  \fancyhead{}
+%  \renewcommand{\headrulewidth}{0pt}
+%}
+
+\usepackage{fancyhdr}
+\fancypagestyle{plain}{
+  \fancyhead{}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%\setlength{\textheight}{540pt}
+%\setlength{\textwidth}{345pt}
+%\setlength{\voffset}{40pt}
+
+\setlength{\cftbeforepartskip}{9pt}
+\setlength{\cftbeforechapskip}{3pt}
+
+
+\newcommand\textsubscript[1]{\ensuremath{{}_{\text{#1}}}}
+
+\newcommand{\PPI}{Reprinted in \textit{Philosophical Papers}, Volume I, pp. \hbox{}}   
+\newcommand{\PPII}{Reprinted in \textit{Philosophical Papers}, Volume II, pp. \hbox{}}    
+\newcommand{\PPL}{Reprinted in \textit{Papers in Philosophical Logic}, pp. \hbox{}}    
+\newcommand{\PME}{Reprinted in \textit{Papers in Metaphysics and Epistemology}, pp. \hbox{}}    \newcommand{\PESP}{Reprinted in \textit{Papers in Ethics and Social Philosophy}, pp. \hbox{}}
+
+\DeclareSymbolFont{symbolsC}{U}{txsyc}{m}{n}
+\DeclareMathSymbol{\boxright}{\mathrel}{symbolsC}{128}
+\DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
+
+\newcommand{\numbex}[2]{
+\begin{enumerate*}
+\setcounter{enumi}{#1}
+\renewcommand{\labelenumi}{(\arabic{enumi})}
+#2
+\end{enumerate*}
+}
+
+
+\renewcommand{\bibname}{References}
+\setlength\bibindent{0em}
+
+
+
+
+
+

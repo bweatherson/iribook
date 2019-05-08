@@ -1,0 +1,19 @@
+IRI was originally introduced into the literature as the thesis that knowledge is harder to get in high stakes situations. And to the extent that it is supported by intuitions about cases, that's the theory you get. But the argument from principles actually doesn't suggest anything about high stakes being important. What is important, instead, is the odds the agent faces on any tacit bet that _p_. Assume the agent is faced with a choice with the following structure:
+
+* There is a safe option, with payout _S_.
+* And there is a risky option, with good payout _G_ if _p_ is true, and bad payout _B_ if _p_ is false.
+
+If stakes are relevant to knowledge, what should matter are the magnitudes _G-S_ and _S-B_. If odds matter, then should matter is the ratio of _G-S_ to _S-B_.
+
+As long as $G > S > B$, then acting as if _p_ means taking the risky option. And that is the utility maximising option as long as this equation is true:
+
+$$
+\frac{G-S}{S-B} > \frac{Pr(p)}{1-Pr(p)}
+$$
+
+where $Pr(p)$ is the probability of _p_ given the agent's evidence. The actual magnitudes at play don't matter here.
+
+Why could it seem stakes matter then? I think it is because in high stakes situations, the odds an agent faces are typically long ones. It is much easier to lose large amounts of utility than to gain large amounts of utility. Bojan stands to lose a lot from a typo in his paper; he doesn't stand to lose much by taking the time to check it over. So a high stakes situation will, at least typically, be a long odds situation. So if we say the odds the agent faces are relevant to what they know, we can explain any intuition that the stakes at play are relevant.
+
+Mark Schroeder and Jacob Ross have further arguments that if we are interest-relative theorists, we should focus on the odds the agents face, not the stakes that they face. [#SchroederRoss201x]
+

@@ -1,0 +1,88 @@
+\documentclass[11pt]{book}
+\usepackage{bookstyle2013}
+\usepackage{multirow}
+\usepackage{hyphenat}
+\usepackage{tabulary}
+
+\setlength{\textheight}{540pt}
+\setlength{\textwidth}{360pt}
+
+
+\begin{document}
+\setcounter{page}{-2}
+
+\pagestyle{plain}
+\fancyhf{}
+\markboth{ }{}
+
+\newlength{\drop}% for my convenienc
+{\begingroup
+\drop = 0.2\textheight
+\centering
+\vfill
+{\Huge Belief, Knowledge and Interests}\\[\baselineskip]
+{\large Brian Weatherson}\\[0.5\drop]
+\vfill
+%\includegraphics{cclicence} \\
+
+{\large\scshape 2013}\par
+\vfill\null
+\endgroup}
+
+
+\newpage
+
+\begin{center}
+{\bfseries \Large About this Document}
+\end{center}
+
+Draft towards a book on interest-relativity, belief and knowledge.
+
+\section*{Introduction}
+What the view is:
+\begin{itemize*}
+\item An interest-relative theory of belief
+\item An interest-relative theory of knowledge
+\item Used to hope that the second was solely derived from the first; now not so clear
+\end{itemize*}
+What's distinctive about the view:
+\begin{itemize*}
+\item Invariantist
+\item Grounded in a theory of belief
+\item Integrated with game theory and decision theory; supports, and supported by, an epistemic interpretation of some problematic parts of game theory and decision theory.
+\end{itemize*}
+
+\newpage
+
+\setcounter{tocdepth}{0}
+\tableofcontents
+
+\fancyhf{}
+\fancyhead[CE]{\textit \leftmark}
+\fancyhead[LE]{\thepage}
+\fancyhead[CO]{\textit \rightmark}
+\fancyhead[RO]{\thepage}
+
+
+\input{01-DTT}
+
+
+\input{02-BeliefInterests}
+
+\input{03-Conjunction}
+
+\input{04-Action}
+
+\input{05-GDK}
+
+\input{06-KJ}
+
+\input{07-Objections}
+
+\bibliographystyle{../OldPapers/phil_review}
+%\setlength{\bibhang}{-3cm}
+\bibliography{../OldPapers/CollBib}
+
+\end{document}
+
+

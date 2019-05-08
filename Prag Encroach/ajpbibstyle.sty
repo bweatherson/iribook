@@ -1,0 +1,68 @@
+\renewenvironment{thebibliography}[1]
+     {\subsection*{References}%
+      %\@mkboth{Citations}{More Citations}%
+      \list{\@biblabel{\@arabic\c@enumiv}}%
+           {\settowidth\labelwidth{\@biblabel{#1}}%
+            \leftmargin\labelwidth
+            \advance\leftmargin\labelsep
+            \@openbib@code
+            \usecounter{enumiv}%
+            \let\p@enumiv\@empty
+            \renewcommand\theenumiv{\@arabic\c@enumiv}}%
+      \sloppy
+      \clubpenalty4000
+      \@clubpenalty \clubpenalty
+      \widowpenalty4000%
+      \sfcode`\.\@m}
+           {\def\@noitemerr
+       {\@latex@warning{Empty `thebibliography' environment}}%
+      \endlist}
+
+\makeatletter
+\def\@makechapterhead#1{%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+%        \huge\bfseries \@chapapp\space \thechapter
+%        \par\nobreak
+%        \vskip 20\p@
+%    \fi
+%    \vskip 50\p@	
+%   \setlength\topmargin{-1in}	
+    \interlinepenalty\@M
+    \Large \bfseries \BeforeSubString{ auth=}{#1}\par\nobreak
+%    \titleline
+%    \hline \\
+
+%   \setlength\topmargin{0in}	
+  }
+%% \IfSubStringInString{substring}{string}{true part}{false part}
+%% This command searches <substring> in <string> and executes the 
+%% <true part> if it is and else the <else part>
+ \IfSubStringInString{ auth=}{#1}{
+\vspace{4pt}
+\noindent \BehindSubString{ auth=}{#1}
+      \vspace{4pt}
+    \hrule
+        \vskip 20\p@
+}
+{
+     \vspace{4pt}
+\noindent Brian Weatherson
+      \vspace{4pt}
+    \hrule
+        \vskip 20\p@ \fi 
+}}
+\makeatother
+      
+%\renewcommand{\bibname}{Hello World}
+
+%\providecommand\bibname{Help!}
+
+\setlength\bibindent{0em}
+
+
+
+
+
+
+

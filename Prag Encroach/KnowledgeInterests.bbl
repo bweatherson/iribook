@@ -1,0 +1,108 @@
+\newcommand{\SortNoop}[1]{}
+\begin{thebibliography}{16}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Fantl and McGrath(2009)}]{FantlMcGrath2009}
+Fantl, Jeremy and McGrath, Matthew. 2009.
+\newblock \emph{Knowledge in an Uncertain World}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Feltz and Zarpentine(2010)}]{FeltzZarpentine2010}
+Feltz, Adam and Zarpentine, Chris. 2010.
+\newblock \enquote{Do You Know More When It Matters Less?}
+\newblock \emph{Philosophical Psychology} Retrieved from
+  \url{http://faculty.schreiner.edu/adfeltz/Papers/Know%20more.pdf}.
+
+\bibitem[{Gettier(1963)}]{Gettier1963}
+Gettier, Edmund~L. 1963.
+\newblock \enquote{Is Justified True Belief Knowledge?}
+\newblock \emph{Analysis} 23:121--123.
+\newblock \doi{10.2307/3326922}.
+
+\bibitem[{Ham et~al.(2008)Ham, Martin, and {Kohl III}}]{Ham2008}
+Ham, Sandra~A., Martin, Sarah, and {Kohl III}, Harold~W. 2008.
+\newblock \enquote{Changes in the percentage of students who walk or bike to
+  school-United States, 1969 and 2001.}
+\newblock \emph{Journal of Physical Activity and Health} 5:205--215.
+
+\bibitem[{Harman(1973)}]{Harman1973}
+Harman, Gilbert. 1973.
+\newblock \emph{Thought}.
+\newblock Princeton: Princeton University Press.
+
+\bibitem[{Kennett and Smith(1996{\natexlab{a}})}]{KennettSmith1996b}
+Kennett, Jeanette and Smith, Michael. 1996{\natexlab{a}}.
+\newblock \enquote{Frog and Toad Lose Control.}
+\newblock \emph{Analysis} 56:63--73.
+\newblock \doi{10.1111/j.0003-2638.1996.00063.x}.
+
+\bibitem[{Kennett and Smith(1996{\natexlab{b}})}]{KennettSmith1996a}
+---. 1996{\natexlab{b}}.
+\newblock \enquote{Philosophy and Commonsense: The Case of Weakness of Will.}
+\newblock In Michaelis Michael and John O'Leary-Hawthorne (eds.), \emph{The
+  Place of Philosophy in the Study of Mind}, 141--157. Norwell, MA: Kluwer.
+
+\bibitem[{Lipsey and Lancaster(1956-1957)}]{LipseyLancaster}
+Lipsey, R.~G. and Lancaster, Kelvin. 1956-1957.
+\newblock \enquote{The General Theory of Second Best.}
+\newblock \emph{Review of Economic Studies} 24:11--32.
+\newblock \doi{10.2307/2296233}.
+
+\bibitem[{May et~al.(forthcoming)May, Sinnott-Armstrong, Hull, and
+  Zimmerman}]{May2010}
+May, Joshua, Sinnott-Armstrong, Walter, Hull, Jay~G., and Zimmerman, Aaron.
+  forthcoming.
+\newblock \enquote{Practical Interests, Relevant Alternatives, and Knowledge
+  Attributions: an Empirical Study.}
+\newblock \emph{Review of Philosophy and Psychology}
+  \doi{10.1007/s13164-009-0014-3}.
+
+\bibitem[{Russell and Doris(2009)}]{RussellDoris2008}
+Russell, Gillian and Doris, John~M. 2009.
+\newblock \enquote{Knowledge by Indifference.}
+\newblock \emph{Australasian Journal of Philosophy} 86:429--437.
+\newblock \doi{10.1080/00048400802001996}.
+
+\bibitem[{Schroeder(2008)}]{SchroederStakes}
+Schroeder, Mark. 2008.
+\newblock \enquote{Stakes, Withholding and the Subject-Sensitivity of 'Knows'.}
+\newblock Retrieved from
+  \url{http://www-rcf.usc.edu/~maschroe/research/Schroeder_Stakes_and_Withhold%
+ing.pdf}.
+
+\bibitem[{Stanley(2005)}]{Stanley2005}
+Stanley, Jason. 2005.
+\newblock \emph{Knowledge and Practical Interests}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Turri(2010)}]{Turri2010}
+Turri, John. 2010.
+\newblock \enquote{On the Relationship between Propositional and Doxastic
+  Justification.}
+\newblock \emph{Philosophy and Phenomenological Research} 80:312--326.
+\newblock \doi{10.1111/j.1933-1592.2010.00331.x}.
+
+\bibitem[{Watson(1977)}]{Watson1977}
+Watson, Gary. 1977.
+\newblock \enquote{Skepticism about Weakness of Will.}
+\newblock \emph{Philosophical Review} 86:316--339.
+\newblock \doi{10.2307/2183785}.
+
+\bibitem[{Weatherson(2005)}]{Weatherson2005-WEACWD}
+Weatherson, Brian. 2005.
+\newblock \enquote{{Can We Do Without Pragmatic Encroachment?}}
+\newblock \emph{Philosophical Perspectives} 19:417--{}443.
+\newblock \doi{10.1111/j.1520-8583.2005.00068.x}.
+
+\bibitem[{Williamson(1998)}]{Williamson1998-WILCOK}
+Williamson, Timothy. 1998.
+\newblock \enquote{{Conditionalizing on Knowledge}.}
+\newblock \emph{British Journal for the Philosophy of Science} 49:89--121.
+\newblock \doi{10.1093/bjps/49.1.89}.
+
+\end{thebibliography}

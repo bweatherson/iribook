@@ -1,0 +1,92 @@
+\def\mytitle{Interests and Evidence}
+\def\myauthor{Brian Weatherson}
+\def\mydate{February 26, 2017}
+\def\latexmode{Article}
+\input{../styles/Handout-top}
+
+\subsection*{Games}
+
+\begin{center}
+\begin{tabular}{r | c c}
+& Predict 1 Box & Predict 2 Boxes \\ \hline
+Choose 1 Box & 1000, 1 & 0,0 \\
+Choose 2 Boxes & 1001, 0 & 1, 1
+\end{tabular}
+
+\medskip
+\textit{Game 1: Newcomb}
+
+\bigskip
+\bigskip
+
+\begin{tabular}{r | c c}
+& $p \in E$ & $p \notin E$ \\ \hline
+Take the bet & \textbf{1, 1} & -9.1, 0 \\
+Decline the bet & 0, 0 & \textbf{0, 1}
+\end{tabular}
+
+\medskip
+\textit{Game 2: Interpretation}
+
+\bigskip
+\bigskip
+
+\begin{tabular}{r | c c}
+& $a$ & $b$  \\\hline
+$A$ & 5, 5 & 0, 4 \\
+$B$ & 4, 0 & 2, 2
+\end{tabular}
+
+\medskip
+\textit{Game 3: Stag Hunt}
+
+\bigskip
+\bigskip
+
+\begin{tabular}{r | c c}
+& $a$ & $b$ \\ \hline
+$A$ & 4, 4 & 0, 4 \\
+$B$ & 4, 0 & 2, 2
+\end{tabular}
+
+\medskip
+\textit{Game 4: Pareto Dominant is Weakly Dominated}
+
+\bigskip
+\bigskip
+
+\begin{tabular}{r | c c}
+& $p \in E$ & $p \notin E$ \\ \hline
+Take the bet & 1, 1 & -0.6, 0 \\
+Decline the bet & 0, 0 & 0, 1
+\end{tabular}
+
+\medskip
+\textit{Game 5: Interpretation Game with Low Odds}
+\end{center}
+
+\columnbreak
+
+\subsection*{Rules for Interpretation Game}
+
+There are two players:
+
+\begin{enumerate}
+\item Human (on row)
+\item Radical Interpreter (on column)
+\end{enumerate}
+Here are their goals:
+
+\begin{itemize}
+\item Radical interpreter assigns mental states (including evidence) to human in such a way as to correctly predict human's actions (assuming human is rational).
+\item Human acts so as to maximise evidential expected utility, where the evidence is what the radical interpreter says the evidence is.
+\end{itemize}
+
+\subsection*{Key Concepts}
+\begin{itemize}
+\item A set of plays is a \textbf{Nash equilibrium} if no player can improve their situation by unilaterally changing their play.
+\item A Nash equilibrium is \textbf{Pareto dominant} if no player prefers some other Nash equilibrium to it.
+\item A Nash equilibrium is \textbf{risk dominant} if (roughly) it maximises expected utility assuming other players will randomly choose between equilibrium strategies.
+\end{itemize}
+\end{multicols}
+\end{document}

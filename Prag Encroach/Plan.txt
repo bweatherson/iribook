@@ -1,0 +1,37 @@
+Summary of CWDWPE
+	8 points from TAR
+	Why this is a non-encroachment model
+	Also add: 	Thinking about probability
+Four worries for that view
+	Evidence
+	Margins
+	Defeaters
+Worries for Fantl & McGrath
+	Blog post
+	Several ways to try to argue that it is justified
+Worries for Hawthorne & Stanley
+	Unknown expected utility
+Arguments for the view
+	Best synthesis of credence and belief - doesn't require giving up Bayesian DT
+		Compare Douven - KPR article in the folder
+		Best account of closure (Nagel, PI), (Sturgeon, Nous)
+		Most psychologically plausible (Nagel, AJP)
+	Best treatment of cases where odds vary more than stakes (Schroeder PDF)
+		See also 	Note that it is odds not stakes
+	What matters is whether the salient odds cross the epistemic probability
+	Major changes in stakes don't necessarily affect that (various Gods examples show this)
+	So we wouldn't necessarily expect to see much difference in Feltz/Zaradine examples
+		This is in PDF in directory
+	Or, presumably, in May et al type examples
+Citation: Practical Interests, Relevant Alternatives, and Knowledge Attributions: an Empirical Study, Review of Philosophy and Psychology, Joshua May1 , Walter Sinnott-Armstrong2 , Jay G. Hull3  and Aaron Zimmerman1, DOI: 10.1007/s13164-009-0014-3.
+
+	Best response to Doris and Russell
+Comesana
+	Argues that epistemic impurism entails extreme epistemic impurism
+	Relies on two premises
+		A) Evidence of evidence is evidence - not always true
+		B) 
+"if S has more evidence for the proposition that her belief that p amounts to knowledge than S’ does for the corresponding proposition that his belief that p amounts to knowledge, and if S and S’ are evidential cousins, then S has more justification for believing p than S’ does."
+	And B is obviously false on this view
+
+Summary

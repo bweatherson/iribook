@@ -1,0 +1,273 @@
+\newcommand{\SortNoop}[1]{}
+\begin{thebibliography}{44}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Anderson(2015)}]{Anderson2015}
+Anderson, Charity. 2015.
+\newblock \enquote{On the Intimate Relationship of Knowledge and Action.}
+\newblock \emph{Episteme} 12:343--353,
+  \href{http://dx.doi.org/10.1017/epi.2015.16}%
+{doi:10.1017/epi.2015.16}.
+
+\bibitem[{Austin(1956-7)}]{Austin1956}
+Austin, J.~L. 1956-7.
+\newblock \enquote{A Plea for Excuses.}
+\newblock \emph{Proceedings of the Aristotelian Society} 57:1--30.
+
+\bibitem[{Boyd(forthcoming)}]{Boyd2015}
+Boyd, Kenneth. forthcoming.
+\newblock \enquote{Pragmatic Encroachment and Epistemically Responsible
+  Action.}
+\newblock \emph{Synthese} , \href{http://dx.doi.org/10.1007/s11229-015-0878-y}%
+{doi:10.1007/s11229-015-0878-y}.
+
+\bibitem[{Brown(2008)}]{Brown2008}
+Brown, Jessica. 2008.
+\newblock \enquote{Subject-Sensitive Invariantism and the Knowledge Norm for
+  Practical Reasoning.}
+\newblock \emph{No{\^u}s} 42:167--189,
+  \href{http://dx.doi.org/10.1111/j.1468-0068.2008.00677.x}%
+{doi:10.1111/j.1468-0068.2008.00677.x}.
+
+\bibitem[{Brown(forthcoming)}]{Brown2013}
+---. forthcoming.
+\newblock \enquote{Impurism, Practical Reasoning and the Threshold Problem.}
+\newblock \emph{No\^{u}s} , \href{http://dx.doi.org/10.1111/nous.12008}%
+{doi:10.1111/nous.12008}.
+
+\bibitem[{Brown and Gerken(2012)}]{BrownGerken}
+Brown, Jessica and Gerken, Mikkel (eds.). 2012.
+\newblock \emph{Knowledge Ascriptions}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Buckwalter(2014)}]{Buckwalter2014}
+Buckwalter, Wesley. 2014.
+\newblock \enquote{Non-Traditional Factors in Judgments about Knowledge.}
+\newblock \emph{Philosophy Compass} 7:278--289,
+  \href{http://dx.doi.org/10.1111/j.1747-9991.2011.00466.x}%
+{doi:10.1111/j.1747-9991.2011.00466.x}.
+
+\bibitem[{Buckwalter and Schaffer(2015)}]{BuckwalterSchaffer2015}
+Buckwalter, Wesley and Schaffer, Jonathan. 2015.
+\newblock \enquote{Knowledge, Stakes and Mistakes.}
+\newblock \emph{No{\^u}s} 49:201--234,
+  \href{http://dx.doi.org/10.1111/nous.12017}%
+{doi:10.1111/nous.12017}.
+
+\bibitem[{Cappelen and Lepore(2006)}]{CappelenLepore2006}
+Cappelen, Herman and Lepore, Ernest. 2006.
+\newblock \enquote{Shared Content.}
+\newblock In Ernest Lepore and Barry~C. Smith (eds.), \emph{The Oxford Handbook
+  of Philosophy of Language}, 1020--1055. Oxford: Oxford University Press.
+
+\bibitem[{DeRose(1992)}]{DeRose1992}
+DeRose, Keith. 1992.
+\newblock \enquote{Contextualism and Knowledge Attributions.}
+\newblock \emph{Philosophy and Phenomenological Research} 52:513--529s.
+
+\bibitem[{DeRose(2009)}]{DeRose2009}
+---. 2009.
+\newblock \emph{The Case for Contextualism: Knowledge, Skepticism and Context}.
+\newblock Oxford: Oxford.
+
+\bibitem[{Eaton and Pickavance(2015)}]{EatonPickavance2015}
+Eaton, Daniel and Pickavance, Timothy. 2015.
+\newblock \enquote{Evidence against pragmatic encroachment.}
+\newblock \emph{Philosophical Studies} 172:3135--3143,
+  \href{http://dx.doi.org/10.1007/s11098-015-0461-x}%
+{doi:10.1007/s11098-015-0461-x}.
+
+\bibitem[{Fantl and McGrath(2002)}]{FantlMcGrath2002}
+Fantl, Jeremy and McGrath, Matthew. 2002.
+\newblock \enquote{Evidence, Pragmatics, and Justification.}
+\newblock \emph{Philosophical Review} 111:67--94.
+
+\bibitem[{Fantl and McGrath(2009)}]{FantlMcGrath2009}
+---. 2009.
+\newblock \emph{Knowledge in an Uncertain World}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Feltz and Zarpentine(2010)}]{FeltzZarpentine2010}
+Feltz, Adam and Zarpentine, Chris. 2010.
+\newblock \enquote{Do You Know More When It Matters Less?}
+\newblock \emph{Philosophical Psychology} 23:683--706,
+  \href{http://dx.doi.org/10.1080/09515089.2010.514572}%
+{doi:10.1080/09515089.2010.514572}.
+
+\bibitem[{Goldman(1976)}]{Goldman1976}
+Goldman, Alvin~I. 1976.
+\newblock \enquote{Discrimination and Perceptual Knowledge.}
+\newblock \emph{The Journal of Philosophy} 73:771--791.
+
+\bibitem[{Grimm(2015)}]{Grimm2015}
+Grimm, Stephen~R. 2015.
+\newblock \enquote{Knowledge, Practical Interests and Rising Tides.}
+\newblock In David~K. Henderson and John Greco (eds.), \emph{Epistemic
+  Evaluation: Purposeful Epistemology}, 117--137. Oxford: Oxford University
+  Press.
+
+\bibitem[{Harman(1973)}]{Harman1973}
+Harman, Gilbert. 1973.
+\newblock \emph{Thought}.
+\newblock Princeton: Princeton University Press.
+
+\bibitem[{Hawthorne(2004)}]{Hawthorne2004}
+Hawthorne, John. 2004.
+\newblock \emph{Knowledge and Lotteries}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Hawthorne and Stanley(2008)}]{HawthorneStanley2008}
+Hawthorne, John and Stanley, Jason. 2008.
+\newblock \enquote{{Knowledge and Action}.}
+\newblock \emph{Journal of Philosophy} 105:571--90.
+
+\bibitem[{Ichikawa(2016)}]{Ichikawa2016}
+Ichikawa, Jonathan~Jenkins (ed.). 2016.
+\newblock \emph{Routledge Handbook of Epistemic Contextualism}.
+\newblock London: Routledge.
+
+\bibitem[{Ichikawa et~al.(2012)Ichikawa, Jarvis, and Rubin}]{IchikawaEtAl2012}
+Ichikawa, Jonathan~Jenkins, Jarvis, Benjamin, and Rubin, Katherine. 2012.
+\newblock \enquote{Pragmatic Encroachment and Belief-Desire Psychology.}
+\newblock \emph{Analytic Philosophy} 53:327--343,
+  \href{http://dx.doi.org/10.1111/j.2153-960X.2012.00564.x}%
+{doi:10.1111/j.2153-960X.2012.00564.x}.
+
+\bibitem[{Kasaki(2014)}]{Kasaki2014}
+Kasaki, Masashi. 2014.
+\newblock \enquote{Subject-Sensitive Invariantism and Isolated Secondhand
+  Knowledge.}
+\newblock \emph{Acta Analytica} 29:83--98,
+  \href{http://dx.doi.org/10.1007/s12136-013-0215-3}%
+{doi:10.1007/s12136-013-0215-3}.
+
+\bibitem[{Kim(forthcoming)}]{Kim2015}
+Kim, Brian. forthcoming.
+\newblock \enquote{In Defense of Subject-Sensitive Invariantism.}
+\newblock \emph{Episteme} , \href{http://dx.doi.org/10.1017/epi.2015.40}%
+{doi:10.1017/epi.2015.40}.
+
+\bibitem[{Lackey(2010)}]{Lackey2010}
+Lackey, Jennifer. 2010.
+\newblock \enquote{Acting on Knowledge.}
+\newblock \emph{Philosophical Perspectives} 24:361--382.
+
+\bibitem[{Lasonen-Aarnio(2014{\natexlab{a}})}]{Lasonen-Aarnio2014a}
+Lasonen-Aarnio, Maria. 2014{\natexlab{a}}.
+\newblock \enquote{The Dogmatism Puzzle.}
+\newblock \emph{Australasian Journal of Philosophy} 92:417--432,
+  \href{http://dx.doi.org/10.1080/00048402.2013.834949}%
+{doi:10.1080/00048402.2013.834949}.
+
+\bibitem[{Lasonen-Aarnio(2014{\natexlab{b}})}]{Lasonen-Aarnio2014}
+---. 2014{\natexlab{b}}.
+\newblock \enquote{Higher-Order Evidence and the Limits of Defeat.}
+\newblock \emph{Philosophy and Phenomenological Research} 88:314--345.
+
+\bibitem[{Lewis(2004)}]{Lewis2004a}
+Lewis, David. 2004.
+\newblock \enquote{Causation as Influence.}
+\newblock In John Collins, Ned Hall, and L.~A. Paul (eds.), \emph{Causation and
+  Counterfactuals}, 75--106. Cambridge: {MIT} Press.
+
+\bibitem[{Lutz(2014)}]{Lutz2014}
+Lutz, Matt. 2014.
+\newblock \enquote{The Pragmatics of Pragmatic Encroachment.}
+\newblock \emph{Synthese} 191:1717--1740,
+  \href{http://dx.doi.org/10.1007/s11229-013-0361-6}%
+{doi:10.1007/s11229-013-0361-6}.
+
+\bibitem[{Nagel(2008)}]{Nagel2008}
+Nagel, Jennifer. 2008.
+\newblock \enquote{Knowledge ascriptions and the psychological consequences of
+  changing stakes.}
+\newblock \emph{Australasian Journal of Philosophy} 86:279--294,
+  \href{http://dx.doi.org/10.1080/00048400801886397}%
+{doi:10.1080/00048400801886397}.
+
+\bibitem[{Nagel(2014)}]{Nagel2014}
+---. 2014.
+\newblock \emph{Knowledge: A Very Short Introduction}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Pinillos(2012)}]{Pinillos2012}
+Pinillos, {\'A}ngel. 2012.
+\newblock \enquote{Knowledge, Experiments and Practical Interests.}
+\newblock In  \cite{BrownGerken}, 192--219.
+
+\bibitem[{Reed(2014)}]{Reed2014}
+Reed, Baron. 2014.
+\newblock \enquote{Practical Matters Do Not Affect Whether You Know.}
+\newblock In Matthias Steup, John Turri, and Ernest Sosa (eds.),
+  \emph{Contemporary Debates in Epistemology}, 95--106. Chicester:
+  Wiley-Blackwell, 2nd edition.
+
+\bibitem[{Rubin(2015)}]{Rubin2015}
+Rubin, Katherine. 2015.
+\newblock \enquote{Total Pragmatic Encroachment and Epistemic Permissiveness.}
+\newblock \emph{Pacific Philosophical Quarterly} 96:12--38,
+  \href{http://dx.doi.org/10.1111/papq.12060}%
+{doi:10.1111/papq.12060}.
+
+\bibitem[{Russell and Doris(2009)}]{RussellDoris2008}
+Russell, Gillian and Doris, John~M. 2009.
+\newblock \enquote{Knowledge by Indifference.}
+\newblock \emph{Australasian Journal of Philosophy} 86:429--437,
+  \href{http://dx.doi.org/10.1080/00048400802001996}%
+{doi:10.1080/00048400802001996}.
+
+\bibitem[{Rysiew(2016)}]{Rysiew2016}
+Rysiew, Patrick. 2016.
+\newblock \enquote{Warranted Assertability Maneuvers.}
+\newblock In  \cite{Ichikawa2016}, n/a--a.
+
+\bibitem[{Stanley(2005)}]{Stanley2005}
+Stanley, Jason. 2005.
+\newblock \emph{{Knowledge and Practical Interests}}.
+\newblock Oxford University Press.
+
+\bibitem[{Weatherson(2005)}]{Weatherson2005}
+Weatherson, Brian. 2005.
+\newblock \enquote{{Can We Do Without Pragmatic Encroachment?}}
+\newblock \emph{Philosophical Perspectives} 19:417--{}443,
+  \href{http://dx.doi.org/10.1111/j.1520-8583.2005.00068.x}%
+{doi:10.1111/j.1520-8583.2005.00068.x}.
+
+\bibitem[{Weatherson(2011)}]{Weatherson2011-WEADIR}
+---. 2011.
+\newblock \enquote{Defending Interest-Relative Invariatism.}
+\newblock \emph{Logos \& Episteme} 2:591--609.
+
+\bibitem[{Weatherson(2012)}]{Weatherson2012}
+---. 2012.
+\newblock \enquote{Knowledge, Bets and Interests.}
+\newblock In  \cite{BrownGerken}, 75--103.
+
+\bibitem[{Weatherson(2014)}]{Weatherson2014-ProbScept}
+---. 2014.
+\newblock \enquote{Probability and Scepticism.}
+\newblock In Dylan Dodd and Elia Zardini (eds.), \emph{Scepticism and
+  Perceptual Justification}, 71--86. Oxford: Oxford University Press.
+
+\bibitem[{Williamson(2000)}]{Williamson2000}
+Williamson, Timothy. 2000.
+\newblock \emph{{Knowledge and its Limits}}.
+\newblock Oxford University Press.
+
+\bibitem[{Worsnip(2016)}]{Worsnip2016}
+Worsnip, Alex. 2016.
+\newblock \enquote{Knowledge Norms.}
+\newblock In  \cite{Ichikawa2016}, n/a--a.
+
+\bibitem[{Wright(2004)}]{Wright2004}
+Wright, Crispin. 2004.
+\newblock \enquote{Warrant for Nothing (And Foundations for Free)?}
+\newblock \emph{Proceedings of the Aristotelian Society, Supplementary Volume}
+  78:167--212.
+
+\end{thebibliography}

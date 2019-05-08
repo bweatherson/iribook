@@ -1,0 +1,149 @@
+\section{Ignorant High Stakes}
+
+As I said at the top, I've changed my view from Doxastic IRI to Non-Doxastic IRI. The change of heart is occasioned by cases like the following, where the agent is mistaken, and hence ignorant, about the odds at which she is offered a bet on $p$. In fact the odds are much longer than she thinks. Relative to what she stands to win, the stakes are too high.
+
+\subsection{The Coraline Example}
+The problem for my old version of Doxastic IRI arises because of cases like that of Coraline. Here's what we're going to stipulate about Coraline.
+
+\begin{itemize*}
+\item She knows that \(p\) and \(q\) are independent, so her credence in any conjunction where one conjunct is a member of  \(\{p,  \neg p\}\) and the other is a member of \(\{q, \neg q\}\) will be the product of her credences in the conjuncts.
+\item Her credence in \(p\) is 0.99, just as the evidence supports.
+\item Her credence in \(q\) is also 0.99. This is unfortunate, since the rational credence in \(q\) given her evidence is 0.01.
+\item The only relevant question for her which is sensitive to $p$ is whether to take or decline a bet with the following payoff structure.\footnote{I'm more interested in the abstract structure of the case than in whether any real-life situation is modelled by just this structure. But it might be worth noting the rough kind of situation where this kind of situation can arise. So let's say Coraline has a particular bank account that is uninsured, but which currently paying 10\% interest, and she is deciding whether to deposit another \$1000 in it. Then \(p\) is the proposition that the bank will not collapse, and she'll get her money back, and \(q\) is the proposition that the interest will stay at 10\%. To make the model exact, we have to also assume that if the interest rate on her account doesn't stay at 10\%, it falls to 0.1\%. And we have to assume that the interest rate and the bank's collapse are probabilistically independent. Neither of these are at all realistic, but a realistic case would simply be more complicated, and the complications would obscure the philosophically interesting point.} (Assume that the marginal utility of money is close enough to constant that expected dollar returns correlate more or less precisely with expected utility returns.)
+\end{itemize*}
+
+\begin{center}
+\begin{tabular}{r c c c}
+ & \textbf{\(p \wedge q\)} & \textbf{\(p \wedge \neg q\)} & \textbf{\(\neg p\)} \\
+\textbf{Take bet} & \$100 & \$1 & \(-\$1000\) \\
+\textbf{Decline bet} & 0 & 0 & 0 \\
+\end{tabular}
+\end{center}
+
+\noindent As can be easily computed, the expected utility of taking the bet given her credences is positive, it is just over \$89. And Coraline takes the bet. She doesn't compute the expected utility, but she is sensitive to it.\footnote{If she did compute the expected utility, then one of the things that would be salient for her is the expected utility of the bet. And the expected utility of the bet is different to its expected utility given \(p\). So if that expected utility is salient, she doesn't believe \(p\). And it's going to be important to what follows that she \textit{does} believe \(p\).} That is, had the expected utility given her credences been close to 0, she would have not acted until she made a computation. But from her perspective this looks like basically a free \$100, so she takes it. Happily, this all turns out well enough, since \(p\) is true. But it was a dumb thing to do. The expected utility of taking the bet given her evidence is negative, it is a little under -\$8. So she isn't warranted, given her evidence, in taking the bet.
+
+\subsection{What Coraline Knows and What She Believes}
+
+Assume, for \textit{reductio}, that Coraline knows that $p$. Then the choice she faces looks like this.
+
+\begin{center}
+\begin{tabular}{r c c}
+ & \textbf{\(q\)} & \textbf{\(\neg q\)}  \\
+\textbf{Take bet} & \$100 & \$1 \\
+\textbf{Decline bet} & 0 & 0\\
+\end{tabular}
+\end{center}
+
+\noindent Since taking the bet dominates declining the bet, she should take the bet if this is the correct representation of her situation. She shouldn't take the bet, so by \textit{modus tollens}, that can't be the correct representation of her situation. If she knew $p$, that would be the correct representation of her situation. So, again by \textit{modus tollens}, she doesn't know $p$.
+
+Now let's consider three possible explanations of why she doesn't know that $p$.
+
+\begin{enumerate*}
+\item She doesn't have enough evidence to know that $p$, independent of the practical stakes.
+\item In virtue of the practical stakes, she doesn't believe that $p$;
+\item In virtue of the practical stakes, she doesn't justifiably believe that $p$, although she does actually believe it.
+\item In virtue of the practical stakes, she doesn't know that $p$, although she does justifiably believe it.
+\end{enumerate*}
+
+\noindent I think option 1 is implausibly sceptical, at least if applied to all cases like Coraline's. I've said that the probability of $p$ is 0.99, but it should be clear that all that matters to generating a case like this is that $p$ is not completely certain. Unless knowledge requires certainty, we'll be able to generate Coraline-like cases where there is sufficient evidence for knowledge. So that's ruled out.
+
+Option 2 is basically what the Doxastic IRI theorist has to say. If Coraline has enough evidence to know $p$, but doesn't know $p$ due to practical stakes, then the Doxastic IRI theorist is committed to saying that the practical stakes block \textit{belief} in $p$. That's the Doxastic IRI position; stakes matter to knowledge because they matter to belief.
+
+But that's also an implausible description of Coraline's situation. She is very confident that $p$. Her confidence is grounded in the evidence in the right way. She is insensitive in her actual deliberations to the difference between her evidence for $p$ and evidence that guarantees $p$. She would become sensitive to that difference if someone offered her a bet that she knew was a 1000-to-1 bet on $p$, but she doesn't know that's what is on offer. In short, there is no difference between her unconditional attitudes, and her attitudes conditional on $p$, when it comes to any live question. That's enough, I think, for belief. So she believes that $p$. And that's bad news for the Doxastic IRI theorist; since it means here that stakes matter to knowledge without mattering to belief. I conclude, reluctantly, that Doxastic IRI is false.
+
+\subsection{Stakes as Defeaters}
+
+That still leaves two options remaining, what I've called options 3 and 4 above. Option 3, if suitably generalised, says that knowledge is practically sensitive because the justification condition on belief is practically sensitive. Option 4 says that practical considerations impact knowledge directly. As I read them, Jeremy Fantl and Matthew McGrath defend a version of Option 3. In the next and last subsection, I'll argue against that position. But first I want to sketch what a position like option 4 would look like. 
+
+Knowledge, unlike justification, requires a certain amount of internal coherence amongst mental states. Consider the following story from David Lewis:
+
+\begin{quote}
+I speak from experience as the repository of a mildly inconsistent corpus. I used to think that Nassau Street ran roughly east-west; that the railroad nearby ran roughly north-south; and that the two were roughly parallel. \citep[436]{Lewis1982c} 
+\end{quote}
+
+\noindent I think in that case that Lewis doesn't know that Nassau Street runs roughly east-west. (From here on, call the proposition that Nassau Street runs roughly east-west $N$.) If his belief that it does was acquired and sustained in a suitably reliable way, then he may well have a justified belief that $N$. But the lack of coherence with the rest of his cognitive system, I think, defeats any claim to knowledge he has.
+
+Coherence isn't just a requirement on belief; other states can cohere or be incoherent. Assume Lewis corrects the incoherence in his beliefs, and drops the belief that Nassau Street the railway are roughly parallel. Still, if Lewis believed that $N$, preferred doing $\varphi$ to doing $\psi$ conditional on $N$, but actually preferred doing $\psi$ to doing $\varphi$, his cognitive system would also be in tension. That tension could, I think, be sufficient to defeat a claim to know that $N$.
+
+And it isn't just a requirement on actual states; it can be a requirement on rational states. Assume Lewis believed that $N$, preferred doing $\varphi$ to doing $\psi$ conditional on $N$, and preferred doing $\varphi$ to doing $\psi$, but should have preferred doing $\psi$ to doing $\varphi$ given his interests. Then I think the fact that the last preference is irrational, plus the fact that were it corrected there would be incoherence in his cognitive states defeats the claim to know that $N$.
+
+A concrete example of this helps make clear why such a view is attractive, and why it faces difficulties. Assume there is a bet that wins \$2 if $N$, and loses \$10 if not. Let $\varphi$ be taking that bet, and $\psi$ be declining it. Assume Lewis shouldn't take that bet; he doesnt have enough evidence to do so. Then he clearly doesn't know that $N$. If he knew that $N$, $\varphi$ would dominate $\psi$, and hence be rational. But it isn't, so $N$ isn't known. And that's true whether Lewis's preferences between $\varphi$ and $\psi$ are rational or irrational.
+
+Attentive readers will see where this is going. Change the bet so it wins a penny if $N$, and loses \$1,000 if not. Unless Lewis's evidence that $N$ is incredibly strong, he shouldn't take the bet. So, by the same reasoning, he doesn't know that $N$. And we're back saying that knowledge requires incredibly strong evidence. The solution, I say, is to put a pragmatic restriction on the kinds of incoherence that matter to knowledge. Incoherence with respect to irrelevant questions, such as whether to bet on $N$ at extremely long odds, doesn't matter for knowledge. Incoherence (or coherence obtained only through irrationality) does. The reason, I think, that Non-Doxastic IRI is true is that this coherence-based defeater is sensitive to practical interests.
+
+The string of cases about Lewis and $N$ has ended up close to the Coraline example. We already concluded that Coraline didn't know $p$. Now we have a story about why - belief that $p$ doesn't cohere sufficiently well with what she should believe, namely that it would be wrong to take the bet. If all that is correct, just one question remains: does this coherence-based defeater also defeat Coraline's claim to have a justified belief that $p$? I say it does not, for three reasons.
+
+First, her attitude towards \(p\) tracks the evidence perfectly. She is making no mistakes with respect to \(p\). She is making a mistake with respect to \(q\), but not with respect to \(p\). So her attitude towards \(p\), i.e. belief, is justified.
+
+Second, talking about beliefs and talking about credences are simply two ways of modelling the very same things, namely minds. If the agent both has a credence 0.99 in \(p\), and believes that \(p\), these are not two different states. Rather, there is one state of the agent, and two different ways of modelling it. So it is implausible to apply different valuations to the state depending on which modelling tools we choose to use. That is, it's implausible to say that while we're modelling the agent with credences, the state is justified, but when we change tools, and start using beliefs, the state is unjustified. Given this outlook on beliefs and credences, it is natural to say that her belief is justified. Natural, but not compulsory, for reasons Jeremy Fantl pointed out to me.\footnote{The following isn't Fantl's example, but I think it makes much the same point as the examples he suggested.} We don't want a metaphysics on which persons and philosophers are separate entities. Yet we can say that someone is a good person but a bad philosopher. Normative statuses can differ depending on which property of a thing we are considering. That suggests it is at least coherent to say that one and the same state is a good credence but a bad belief. But while this may be coherent, I don't think it is well motivated, and it is natural to have the evaluations go together.
+
+Third, we don't \textit{need} to say that Coraline's belief in $p$ is unjustified in order to preserve other nice theories, in the way that we do need to say that she doesn't know $p$ in order to preserve a nice account of how we understand decision tables. It's this last point that I think Fantl and McGrath, who say that the belief is unjustified, would reject. So let's conclude with a look at their arguments.
+
+\subsection{Fantl and McGrath on Interest-Relativity}
+
+Jeremy Fantl and Matthew McGrath \citeyearpar{FantlMcGrath2009} have argued that my interest-relative theory of belief cannot explain all of the interest-relativity in epistemology. I'm going to agree with their conclusion, but not with their premises. At this point you might suspect, dear reader, that you're about to be drawn into a micro-battle between two similar but not quite identical explanations of the same (alleged) phenomena. And you wouldn't be entirely mistaken. But I think seeing why Fantl and McGrath's objections to my theory fail will show us something interesting about the relationship between interests and knowledge. In particular, it will show us that interests can generate certain kinds of \textit{defeaters} of claims to knowledge.
+
+Fantl and McGrath's primary complaint against the interest-relative theory of belief I developed in my \cite{Weatherson2005-WEACWD} and in the previous section is that it is not strong enough to entail principles such as (JJ).
+
+\begin{description}
+\item[(JJ)] If you are justified in believing that \(p\), then \(p\) is warranted enough to justify you in \(\varphi\)-ing, for any \(\varphi\). \cite[99]{FantlMcGrath2009}
+\end{description}
+
+\noindent In practice, what this means is that there can't be a salient $p, \varphi$ such that:
+
+\begin{itemize*}
+\item The agent is justified in believing $p$;
+\item The agent is not warranted in doing $\varphi$; but
+\item If the agent had more evidence for $p$, and nothing else, the agent would be be warranted in doing $\varphi$.
+\end{itemize*}
+
+\noindent That is, once you've got enough evidence, or warrant, for justified belief in $p$, then you've got enough evidence for $p$ as matters for any decision you face. This seems intuitive, and Fantl and McGrath back up its intuitiveness with some nicely drawn examples. But I think it is false, and the Coraline example shows it is false. Coraline isn't justified in taking the bet, and is justified in believing $p$, but more evidence for $p$ would suffice for taking the bet. So Coraline's case shows that (JJ) is false. But there are a number of possible objections to that position. I'll spend the rest of this section, and this paper, going over them.\footnote{Thanks here to a long blog comments thread with Jeremy Fantl and Matthew McGrath for making me formulate these points much more carefully. The original thread is at \url{http://tar.weatherson.org/2010/03/31/do-justified-beliefs-justify-action/}.}
+
+%\objrep is my objections and replies code. It is defined in collpapers.
+%\argconc is my code for making the next label C. It is defined in collpapers.
+
+\objrep{
+The following argument shows that Coraline is not in fact justified in believing that \(p\).
+
+\begin{enumerate*}
+\item \(p\) entails that Coraline should take the bet, and Coraline knows this.
+\item If \(p\) entails something, and Coraline knows this, and she justifiably believes \(p\), she is in a position to justifiably believe the thing entailed.
+\item Coraline is not in a position to justifiably believe that she should take the bet.
+\argconc
+\item So, Coraline does not justifiably believe that \(p\)
+\end{enumerate*}}
+{The problem here is that premise 1 is false. What's true is that \(p\) entails that Coraline will be better off taking the bet than declining it. But it doesn't follow that she should take the bet. Indeed, it isn't actually true that she should take the bet, even though \(p\) is actually true. Not just is the entailment claim false, the world of the example is a counterinstance to it.
+
+It might be controversial to use this very case to reject premise 1. But the falsity of premise 1 should be clear on independent grounds. What \(p\) entails is that Coraline will be best off by taking the bet. But there are lots of things that will make me better off that I shouldn't do.  Imagine I'm standing by a roulette wheel, and the thing that will make me best off is betting heavily on the number than will actually come up. It doesn't follow that I should do that. Indeed, I should not do it. I shouldn't place any bets at all, since all the bets have a highly negative expected return. 
+
+In short, all \(p\) entails is that taking the bet will have the best consequences. Only a very crude kind of consequentialism would identify what I should do with what will have the best returns, and that crude consequentialism isn't true. So \(p\) doesn't entail that Coraline should take the bet. So premise 1 is false.}
+
+\objrep{
+Even though \(p\) doesn't \textit{entail} that Coraline should take the bet, it does provide inductive support for her taking the bet. So if she could justifiably believe \(p\), she could justifiably (but non-deductively) infer that she should take the bet. Since she can't justifiably infer that, she isn't justified in taking the bet.
+}
+{The inductive inference here looks weak. One way to make the inductive inference work would be to deduce from \(p\) that taking the bet will have the best outcomes, and infer from that that the bet should be taken. But the last step doesn't even look like a reliable ampliative inference. The usual situation is that the best outcome comes from taking an \textit{ex ante} unjustifiable risk.
+
+It may seem better to use \(p\) combined with the fact that conditional on \(p\), taking the bet has the highest \textit{expected} utility. But actually that's still not much of a reason to take the bet. Think again about cases, completely normal cases, where the action with the best outcome is an \textit{ex ante} unjustifiable risk. Call that action \(\varphi\), and let \(B \varphi\) be the proposition that \(\varphi\) has the best outcome. Then \(B \varphi\) is true, and conditional on \(B \varphi\), \(\varphi\) has an excellent expected return. But doing \(\varphi\) is still running a dumb risk. Since these kinds of cases are normal, it seems it will very often be the case that this form of inference leads from truth to falsity. So it's not a reliable inductive inference.}
+
+\objrep{In the example, Coraline isn't just in a position to justifiably believe \(p\), she is in a position to \textit{know} that she justifiably believes it. And from the fact that she justifiably believes \(p\), and the fact that if \(p\), then taking the bet has the best option, she can infer that she should take the bet.}
+{It's possible at this point that we get to a dialectical impasse. I think this inference is non-deductive, because I think the example we're discussing here is one where the premises are true and the conclusion false. Presumably someone who doesn't like the example will think that it is a good deductive inference.
+
+Having said that, the more complicated example at the end of \cite{Weatherson2005-WEACWD} was designed to raise the same problem without the consequence that if \(p\) is true, the bet is sure to return a positive amount. In that example, conditionalising on \(p\) means the bet has a positive expected return, but still possibly a negative return. But in that case (JJ) still failed. If accepting there are cases where an agent justifiably believes \(p\), and hence justifiably believes taking the bet will return the best outcome, and knows all this, but still can't rationally bet on \(p\) is too much to accept, that more complicated example might be more persuasive. Otherwise, I concede that someone who believes (JJ) and thinks rational agents can use it in their reasoning will not think that a particular case is a counterexample to (JJ).}
+
+\objrep{If Coraline were ideal, then she wouldn't believe \(p\). That's because if she were ideal, she would have a lower credence in \(q\), and if that were the case, her credence in \(p\) would have to be much higher (close to 0.999) in order to count as a belief. So her belief is not justified.}
+{The premise here, that if Coraline were ideal she would not believe that \(p\), is true. The conclusion, that she is not justified in believing \(p\), does not follow. It's always a mistake to \textit{identify} what should be done with what is done in ideal circumstances. This is something that has long been known in economics. The \textit{locus classicus} of the view that this is a mistake is \cite{LipseyLancaster}. A similar point has been made in ethics in papers such as \cite{Watson1977} and \cite{KennettSmith1996b, KennettSmith1996a}. And it has been extended to epistemology by \cite{Williamson1998-WILCOK}.
+
+All of these discussions have a common structure. It is first observed that the ideal is both \(F\) and \(G\). It is then stipulated that whatever happens, the thing being created (either a social system, an action, or a cognitive state) will not be \(F\). It is then argued that given the stipulation, the thing being created should not be \(G\). That is not just the claim that we shouldn't \textit{aim} to make the thing be \(G\). It is, rather, that in many cases being \(G\) is not the best way to be, given that \(F\)-ness will not be achieved. Lipsey and Lancaster argue that (in an admittedly idealised model) that it is actually quite unusual for \(G\) to be best given that the system being created will not be \(F\).
+
+It's not too hard to come up with examples that fit this structure. Following \cite[209]{Williamson2000-WILKAI}, we might note that I'm justified in believing that there are no ideal cognitive agents, although were I ideal I would not believe this. Or imagine a student taking a ten question mathematics exam who has no idea how to answer the last question. She knows an ideal student would correctly answer an even number of questions, but that's no reason for her to throw out her good answer to question nine. In general, once we have stipulated one departure from the ideal, there's no reason to assign any positive status to other similarities to the idea. In particular, given that Coraline has an irrational view towards \(q\), she won't perfectly match up with the ideal, so there's no reason it's good to agree with the ideal in other respects, such as not believing \(p\).
+
+Stepping back a bit, there's a reason the interest-relative theory says that the ideal and justification come apart right here. On the interest-relative theory, like on any pragmatic theory of mental states, the \textit{identification} of mental states is a somewhat holistic matter. Something is a belief in virtue of its position in a much broader network. But the \textit{evaluation} of belief is (relatively) atomistic. That's why Coraline is justified in believing \(p\), although if she were wiser she would not believe it. If she were wiser, i.e., if she had the right attitude towards \(q\), the very same credence in \(p\) would not count as a belief. Whether her state counts as a belief, that is, depends on wide-ranging features of her cognitive system. But whether the state is justified depends on more local factors, and in local respects she is doing everything right.}
+
+\objrep{If Coraline is justified in believing \(p\), then Coraline can use \(p\) as a premise in practical reasoning. If Coraline can use \(p\) as a premise in practical reasoning, and \(p\) is true, and her belief in \(p\) is not Gettiered, then she knows \(p\). By hypothesis, her belief is true, and her belief is not Gettiered. So she should know \(p\). But she doesn't know \(p\). So by several steps of modus tollens, she isn't justified in believing \(p\).\footnote{Compare the `subtraction argument' on page 99 of \cite{FantlMcGrath2009}.}}
+{Like the previous objection, this one turns on an equivocation, this time over the neologism `Gettiered'. Some epistemologists use this to simply mean that a belief is justified and true without constituting knowledge. By that standard, the third sentence is false. Or, at least, we haven't been given any reason to think that it is true. Given everything else that's said, the third sentence is a raw assertion that Coraline knows that \(p\), and I don't think we should accept that.
+
+The other way epistemologists sometimes use the term is to pick out justified true beliefs that fail to be knowledge for the reasons that the beliefs in the original examples from \cite{Gettier1963} fail to be knowledge. That is, it picks out a property that beliefs have when they are derived from a false lemma, or whatever similar property is held to be doing the work in the original Gettier examples. Now on this reading, Coraline's belief that \(p\) is not Gettiered. But it doesn't follow that it is known. There's no reason, once we've given up on the JTB theory of knowledge, to think that whatever goes wrong in Gettier's examples is the \textit{only} way for a justified true belief to fall short of knowledge. It could be that there's a practical defeater, as in this case. So the second sentence of the objection is false, and the objection again fails.
+
+Once we have an expansive theory of defeaters, as I've adopted here, it becomes problematic to describe the case in the language Fantl and McGrath use. They focus a lot on whether agents like Coraline have `knowledge-level justification' for $p$, which is defined as ``justification strong enough so that shortcomings in your strength of justification stand in the way of your knowing''. \citep[97]{FantlMcGrath2009}. An important part of their argument is that an agent is justified in believing $p$ iff they have knowledge-level justification for $p$. I haven't addressed this argument, so I'm not really addressing the case on their terms.
+
+Well, does Coraline have knowledge-level justification for $p$? I'm not sure, because I'm not sure I grasp this concept. Compare the agent in Harman's dead dictator case \citep[75]{Harman1973}. Does she have knowledge-level justification that the dictator is dead? In one sense yes; it is the existence of misleading news sources that stops her knowing. In another sense no; she doesn't know, but if she had better evidence (e.g., seeing the death happen) she would know. I want to say the same thing about Coraline, and that makes it hard to translate the Coraline case into Fantl and McGrath's terminology.}

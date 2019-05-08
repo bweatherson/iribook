@@ -1,0 +1,1 @@
+## Risk-Dominant Equilibrium {#risk}

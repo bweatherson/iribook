@@ -1,0 +1,1864 @@
+@article{GerkenForthcoming-GERPEA,
+	journal = {Philosophers' Imprint},
+	author = {Mikkel Gerken},
+	year = {forthcoming},
+	title = {Pragmatic Encroachment and the Challenge From Epistemic Injustice}
+}
+@phdthesis{Basu2018-BASBTW-2,
+	author = {Rima Basu},
+	school = {University of Southern California},
+	title = {Beliefs That Wrong},
+	year = {2018}
+}
+@article{Derose2012-DERRTN,
+	number = {3},
+	volume = {84},
+	author = {Keith Derose},
+	year = {2012},
+	title = {Replies to Nagel, Ludlow, and Fantl and McGrath},
+	journal = {Philosophy and Phenomenological Research},
+	pages = {703--721},
+	publisher = {Wiley-Blackwell}
+}
+@article{JacksonForthcoming-JACHBD,
+	journal = {Philosophical Quarterly},
+	author = {Elizabeth Jackson},
+	title = {How Belief-Credence Dualism Explains Away Pragmatic Encroachment},
+	year = {forthcoming}
+}
+@article{HannonForthcoming-HANWPS-2,
+	pages = {1--16},
+	journal = {Philosophical Studies},
+	year = {forthcoming},
+	title = {Why Purists Should Be Infallibilists},
+	author = {Michael Hannon}
+}
+@article{Weatherson2018-WEAIEA-2,
+	author = {Brian Weatherson},
+	title = {Interests, Evidence and Games},
+	year = {2018},
+	number = {3},
+	volume = {15},
+	pages = {329--344},
+	journal = {Episteme}
+}
+@incollection{AndersonForthcoming-ANDPEA-5,
+	editor = {Brian Kim and Matthew McGrath},
+	booktitle = {Pragmatic Encroachment in Epistemology},
+	author = {Charity Anderson and John Hawthorne},
+	publisher = {Routledge},
+	year = {forthcoming},
+	title = {Pragmatic Encroachment and Closure}
+}
+@incollection{ComesanaForthcoming-COMANO,
+	author = {Juan Comesa\~na},
+	booktitle = {Pragmatic Encroachment in Epistemology},
+	title = {A Note on Knowledge-First Decision Theory and Practical Adequacy},
+	year = {forthcoming},
+	publisher = {Routledge},
+	editor = {Brian Kim and Matthew McGrath}
+}
+@incollection{Pinillos2019-PINSAE-3,
+	editor = {Brian Kim and Matthew McGrath},
+	year = {2019},
+	publisher = {Routledge},
+	title = {Skepticism and Evolution},
+	booktitle = {Pragmatic Encroachment in Epistemology},
+	author = {N. \'Angel Pinillos}
+}
+@incollection{Kim2019-KIMAED,
+	booktitle = {Pragmatic Encroachment in Epistemology},
+	author = {Brian Kim},
+	publisher = {Routledge},
+	year = {2019},
+	title = {An Externalist Decision Theory for a Pragmatic Epistemology},
+	editor = {}
+}
+@incollection{Armendt2019-ARMDAP-2,
+	editor = {Brian Kim and Matthew McGrath},
+	year = {2019},
+	publisher = {Routledge},
+	title = {Deliberation and Pragmatic Belief},
+	booktitle = {Pragmatic Encroachment in Epistemology},
+	author = {Brad Armendt}
+}
+@incollection{Cohen2019-COHPEA-5,
+	editor = {Brian Kim and Matthew McGrath},
+	author = {Stewart Cohen},
+	booktitle = {Pragmatic Encroachment in Epistemology},
+	title = {Pragmatic Encroachment and Having Reasons},
+	publisher = {Routledge},
+	year = {2019}
+}
+@incollection{Ganson2019-GANGEB,
+	author = {Dorit Ganson},
+	booktitle = {Pragmatic Encroachment in Epistemology},
+	title = {Great Expectations: Belief and the Case for Pragmatic Encroachment},
+	year = {2019},
+	publisher = {Routledge},
+	editor = {Brian Kim and Matthew McGrath}
+}
+@incollection{Baril2019-BARPEA-13,
+	title = {Pragmatic Encroachment and Practical Reasons},
+	year = {2019},
+	publisher = {Routledge},
+	author = {Anne Baril},
+	booktitle = {Pragmatic Encroachment in Epistemology},
+	editor = {Brian Kim and Matthew McGrath}
+}
+@incollection{Gerken2019-GERPEO-3,
+	editor = {Brian Kim and Matthew McGrath},
+	title = {Pragmatic Encroachment on Scientific Knowledge?},
+	publisher = {Routledge},
+	year = {2019},
+	author = {Mikkel Gerken},
+	booktitle = {Pragmatic Encroachment in Epistemology}
+}
+@article{JacksonForthcoming-JACBAC,
+	author = {Elizabeth Grace Jackson},
+	year = {forthcoming},
+	title = {Belief and Credence: Why the Attitude-Type Matters},
+	pages = {1--20},
+	journal = {Philosophical Studies}
+}
+@incollection{Basu2019-BASDW,
+	editor = {Brian Kim and Matthew McGrath},
+	title = {Doxastic Wronging},
+	pages = {181--205},
+	publisher = {Routledge},
+	year = {2019},
+	author = {Rima Basu and Mark Schroeder},
+	booktitle = {Pragmatic Encroachment in Epistemology}
+}
+@article{Hannon2018-HANEEP,
+	title = {Epistemic Evaluation: Purposeful Evaluation By David K. Henderson and John Greco},
+	year = {2018},
+	author = {Michael Hannon},
+	volume = {78},
+	number = {1},
+	pages = {173--177},
+	publisher = {Oxford University Press (Oup)},
+	journal = {Analysis}
+}
+@article{McGrath2017-MCGJAA-3,
+	volume = {126},
+	number = {3},
+	title = {Judgment and Agency},
+	year = {2017},
+	author = {Matthew McGrath},
+	journal = {Philosophical Review},
+	pages = {399--404}
+}
+@article{Fantl2012-FANCAS-2,
+	journal = {Philosophy and Phenomenological Research},
+	pages = {693--702},
+	publisher = {Wiley-Blackwell},
+	volume = {84},
+	number = {3},
+	year = {2012},
+	title = {Contextualism and Subject-Sensitivity},
+	author = {Jeremy Fantl and Matthew Mcgrath}
+}
+@unpublished{McGrathManuscript-MCGTPO-45,
+	author = {Matthew McGrath},
+	publisher = {Oxford University Press},
+	title = {Two Purposes of Knowledge Attribution and the Contextualism Debate}
+}
+@article{RussellForthcoming-RUSHMI,
+	journal = {Oxford Studies in Epistemology},
+	year = {forthcoming},
+	title = {How Much is at Stake for the Pragmatic Encroacher},
+	author = {Jeffrey Sanford Russell}
+}
+@book{James2014-JAMTWT-51,
+	title = {The Will to Believe: And Other Essays in Popular Philosophy},
+	year = {2014},
+	publisher = {New York: Cambridge University Press},
+	author = {William James}
+}
+@article{Blome-Tillmann2009-BLOCSI-2,
+	number = {2},
+	volume = {79},
+	author = {Michael Blome{-}Tillmann},
+	year = {2009},
+	title = {Contextualism, Subject-Sensitive Invariantism, and the Interaction of \textquoteleftKnowledge\textquoteright-Ascriptions with Modal and Temporal Operators},
+	journal = {Philosophy and Phenomenological Research},
+	pages = {315--331},
+	publisher = {Wiley-Blackwell}
+}
+@article{Borge2008-BORSOT-4,
+	number = {1},
+	volume = {9},
+	author = {Steffen Borge},
+	title = {Stanley on the Knowledge-Relation},
+	year = {2008},
+	journal = {SATS},
+	pages = {109--124}
+}
+@article{GaoForthcoming-GAOCP,
+	pages = {1--23},
+	journal = {Philosophical Studies},
+	year = {forthcoming},
+	title = {Credal Pragmatism},
+	author = {Jie Gao}
+}
+@incollection{Gardiner2018-GAREAM-3,
+	title = {Evidentialism and Moral Encroachment},
+	publisher = {Springer Verlag},
+	year = {2018},
+	booktitle = {Believing in Accordance with the Evidence},
+	author = {Georgi Gardiner},
+	editor = {McCain Kevin}
+}
+@article{Schroeder2017-SCHTEC-12,
+	title = {The Epistemic Consequences of Forced Choice},
+	year = {2017},
+	author = {Mark Schroeder},
+	volume = {8},
+	number = {3},
+	pages = {365--374},
+	journal = {Logos and Episteme}
+}
+@article{Weatherson2016-WEARTB,
+	pages = {73--75},
+	journal = {Journal of Philosophical Research},
+	title = {Reply to Blackson},
+	year = {2016},
+	author = {Brian James Weatherson},
+	volume = {41}
+}
+@article{LittlejohnForthcoming-LITSSG,
+	year = {forthcoming},
+	title = {Small Stakes Give You the Blues: The Skeptical Costs of Pragmatic Encroachment},
+	author = {Clayton Littlejohn},
+	journal = {Manuscrito: Revista Internacional de Filosof\'ia}
+}
+@article{Dinges2018-DINAEA,
+	journal = {Philosophical Studies},
+	pages = {2841--2857},
+	publisher = {Springer Verlag},
+	volume = {175},
+	number = {11},
+	year = {2018},
+	title = {Anti-Intellectualism, Egocentrism and Bank Case Intuitions},
+	author = {Alexander Dinges}
+}
+@article{Roeber2018-ROETPE-4,
+	volume = {52},
+	number = {1},
+	year = {2018},
+	title = {The Pragmatic Encroachment Debate},
+	author = {Blake Roeber},
+	journal = {No\^us},
+	pages = {171--195}
+}
+@book{Gerken2017-GEROFE,
+	title = {On Folk Epistemology. How We Think and Talk About Knowledge},
+	year = {2017},
+	publisher = {Oxford: Oxford University Press},
+	author = {Mikkel Gerken}
+}
+@article{Mueller2017-MUEPOP-3,
+	number = {2},
+	volume = {8},
+	author = {Andy Mueller},
+	year = {2017},
+	title = {Pragmatic or Pascalian Encroachment?},
+	journal = {Logos and Episteme},
+	pages = {235--241}
+}
+@book{Gerken2017-GERITO,
+	title = {Introduction to On Folk Epistemology},
+	year = {2017},
+	publisher = {Oxford: Oxford University Press},
+	author = {Mikkel Gerken}
+}
+@article{Rutledge2017-RUTAEC,
+	author = {Jonathan Rutledge},
+	year = {2017},
+	title = {An Epistemological Corrective to Doctrines of Assurance},
+	number = {1},
+	volume = {9},
+	pages = {163--177},
+	journal = {European Journal for Philosophy of Religion}
+}
+@article{Martin2017-SMIARP,
+	journal = {European Journal for Philosophy of Religion},
+	pages = {221--224},
+	volume = {9},
+	number = {1},
+	year = {2017},
+	title = {Aaron Rizzieri: Pragmatic Encroachment, Religious Belief and Practice. Palgrave 2013},
+	author = {Smith Martin}
+}
+@article{Rodrigues2013-RODCCE,
+	pages = {05--18},
+	journal = {Intuitio},
+	author = {T. V. Rodrigues},
+	title = {Conhecimento, Contexto E Infiltra\c{c}\~ao Pragm\'atica},
+	year = {2013},
+	number = {N\textordmasculine 2}
+}
+@article{Fantl2012-FANPEI-2,
+	author = {Jeremy Fantl and Matthew Mcgrath},
+	title = {Pragmatic Encroachment: It's Not Just About Knowledge},
+	year = {2012},
+	number = {1},
+	volume = {9},
+	publisher = {Edinburgh University Press},
+	pages = {27--42},
+	journal = {Episteme}
+}
+@article{Dimmock2018-DIMSAQ,
+	number = {8},
+	volume = {175},
+	author = {Paul Dimmock},
+	year = {2018},
+	title = {Strange-but-True: A New Argument for Contextualism About \textquoteleftKnow\textquoteright},
+	journal = {Philosophical Studies},
+	pages = {2005--2015},
+	publisher = {Springer Verlag}
+}
+@article{Greco2013-GREPA,
+	journal = {Oxford Studies in Epistemology},
+	pages = {82},
+	volume = {4},
+	title = {4. Probability and Prodigality},
+	year = {2013},
+	author = {Daniel Greco}
+}
+@article{Kim2017-KIMPEI-2,
+	journal = {Philosophy Compass},
+	publisher = {Wiley-Blackwell},
+	pages = {e12415},
+	volume = {12},
+	number = {5},
+	year = {2017},
+	title = {Pragmatic Encroachment in Epistemology},
+	author = {Brian Kim}
+}
+@article{GaoForthcoming-GAOATI,
+	author = {Jie Gao},
+	title = {Against the Iterated Knowledge Account of High-Stakes Cases},
+	year = {forthcoming},
+	journal = {Episteme}
+}
+@article{Fritz2017-FRIPEA-3,
+	pages = {643--661},
+	journal = {Pacific Philosophical Quarterly},
+	title = {Pragmatic Encroachment and Moral Encroachment},
+	year = {2017},
+	author = {James Fritz},
+	volume = {98},
+	number = {S1}
+}
+@article{Hawthorne2004-HAWPOK,
+	pages = {476--481},
+	journal = {Philosophical Issues},
+	author = {John Hawthorne},
+	year = {2004},
+	title = {Pr\'ecis of Knowledge and Lotteries},
+	number = {1},
+	volume = {14}
+}
+@article{Basboll2007-BASJSK,
+	pages = {225},
+	publisher = {University of Victoria, Department of Philosophy},
+	journal = {Philosophy in Review},
+	author = {T. Basboll},
+	title = {Jason Stanley, Knowledge and Practical Interests},
+	year = {2007},
+	number = {3},
+	volume = {27}
+}
+@article{Brendel2004-BRECAT-2,
+	journal = {Erkenntnis},
+	pages = {143--172},
+	publisher = {Springer},
+	number = {2-3},
+	volume = {61},
+	author = {Elke Brendel and Christoph J\"ager},
+	year = {2004},
+	title = {Contextualist Approaches to Epistemology: Problems and Prospects}
+}
+@article{DeRose2000-DERNYK,
+	volume = {5},
+	title = {Now You Know It, Now You Don't},
+	year = {2000},
+	author = {Keith DeRose},
+	journal = {The Proceedings of the Twentieth World Congress of Philosophy},
+	publisher = {Philosophy Documentation Center},
+	pages = {91--106}
+}
+@article{Hannon2015-HANTIO-12,
+	author = {Michael Hannon},
+	year = {2015},
+	title = {The Importance of Knowledge Ascriptions},
+	number = {12},
+	volume = {10},
+	pages = {856--866},
+	journal = {Philosophy Compass}
+}
+@article{Croce2017-CROTWA-3,
+	pages = {163--183},
+	journal = {Teorema: International Journal of Philosophy},
+	year = {2017},
+	title = {Testing What\textquoterights at Stake: Defending Stakes Effects for Testimony},
+	author = {Michel Croce and Paul Poenicke},
+	volume = {36},
+	number = {3}
+}
+@article{Peet2017-PEELIT,
+	pages = {336--344},
+	publisher = {Oxford University Press (Oup)},
+	journal = {Analysis},
+	title = {Lost in Transmission: Testimonial Justification and Practical Reason},
+	year = {2017},
+	author = {Andrew Peet and Eli Pitcovski},
+	volume = {77},
+	number = {2}
+}
+@article{Shaffer2017-SHASAT-24,
+	journal = {The Reasoner},
+	pages = {73--74},
+	volume = {11},
+	author = {Michael J. Shaffer},
+	title = {Stanley and the Stakes Hypothesis},
+	year = {2017}
+}
+@article{Baumann2016-BAUKAC,
+	journal = {Dialogue},
+	pages = {363--380},
+	number = {2},
+	volume = {55},
+	author = {Peter Baumann},
+	title = {Knowledge Across Contexts. A Problem for Subject-Sensitive Invariantism},
+	year = {2016}
+}
+@incollection{Coffman2012-COFCAI-2,
+	booktitle = {The Continuum Companion to Epistemology},
+	author = {E. I. Coffman},
+	publisher = {Continuum},
+	pages = {199},
+	year = {2012},
+	title = {Contextualism and Interest-Relative Invariantism},
+	editor = {Andrew Cullison}
+}
+@article{Roeber2018-ROEA-5,
+	journal = {Mind},
+	pages = {437--466},
+	volume = {127},
+	number = {506},
+	title = {Anti-Intellectualism},
+	year = {2018},
+	author = {Blake Roeber}
+}
+@article{Fumerton2010-FUMFOP,
+	volume = {24},
+	number = {1},
+	title = {Fencing Out Pragmatic Encroachment1},
+	year = {2010},
+	author = {Richard Fumerton},
+	journal = {Philosophical Perspectives},
+	pages = {243--253}
+}
+@incollection{Gal2006-GALLIS-2,
+	editor = {Robert E. Goodin and Charles Tilly},
+	booktitle = {The Oxford Handbook of Contextual Political Analysis},
+	author = {Susan Gal},
+	year = {2006},
+	pages = {376--391},
+	publisher = {Oxford University Press},
+	title = {Language, its Stakes and its Effects}
+}
+@book{Clarke1988-CLARAA-3,
+	author = {D. S. Clarke},
+	title = {Rational Acceptance and Purpose: An Outline of a Pragmatic Epistemology},
+	publisher = {Rowman \& Littlefield Publishers},
+	year = {1988}
+}
+@incollection{Worrall2000-WORPFI,
+	editor = {},
+	author = {John Worrall},
+	title = {Pragmatic Factors in Theory-Acceptance},
+	year = {2000}
+}
+@article{Littlejohn2010-LITROJ,
+	journal = {Notre Dame Philosophical Reviews},
+	number = {5},
+	volume = {2010},
+	author = {Clayton Littlejohn},
+	title = {Review of Jeremy Fantl, Matt McGrath, \emph{Knowledge in an Uncertain World}},
+	year = {2010}
+}
+@article{Dretske1981-DRETPD,
+	author = {Fred Dretske},
+	year = {1981},
+	title = {The Pragmatic Dimension of Knowledge},
+	number = {3},
+	volume = {40},
+	publisher = {Springer},
+	pages = {363--378},
+	journal = {Philosophical Studies}
+}
+@article{Kvanvig2011-KVAAPE,
+	number = {1},
+	volume = {2},
+	author = {Jonathan L. Kvanvig},
+	year = {2011},
+	title = {Against Pragmatic Encroachment},
+	journal = {Logos and Episteme},
+	pages = {77--85}
+}
+@unpublished{Haydon2011-HAYME-2,
+	author = {Nathan Haydon},
+	year = {2011},
+	publisher = {University of Waterloo},
+	title = {Moral Encroachment}
+}
+@book{Clarke1988-CLARAA-5,
+	author = {D. S. Clarke},
+	title = {Rational Acceptance and Purpose: An Outline of a Pragmatic Epistemology},
+	publisher = {Rowman \& Littlefield Publishers},
+	year = {1988}
+}
+@article{Hudson2015-HUDDSC,
+	journal = {Logos and Episteme},
+	pages = {35--59},
+	number = {1},
+	volume = {6},
+	author = {Robert Hudson},
+	title = {Defending Standards Contextualism},
+	year = {2015}
+}
+@article{Greco2008-GREWWW-2,
+	journal = {Philosophical Quarterly},
+	pages = {416--436},
+	publisher = {Wiley-Blackwell},
+	number = {232},
+	volume = {58},
+	author = {John Greco},
+	year = {2008},
+	title = {What's Wrong with Contextualism?}
+}
+@unpublished{AlamManuscript-ALAPAI-2,
+	title = {Pragmatic Arguments in the Qur'an for Belief},
+	author = {M. Shahid Alam}
+}
+@article{Fantl2009-FANAFF-3,
+	title = {Advice for Fallibilists: Put Knowledge to Work},
+	year = {2009},
+	author = {Jeremy Fantl and Matthew McGrath},
+	volume = {142},
+	number = {1},
+	publisher = {Springer},
+	pages = {55--66},
+	journal = {Philosophical Studies}
+}
+@article{McGrath2018-MCGDPE-2,
+	volume = {195},
+	number = {7},
+	title = {Defeating Pragmatic Encroachment?},
+	year = {2018},
+	author = {Matthew McGrath},
+	journal = {Synthese},
+	publisher = {Springer Nature}
+}
+@article{Pace2016-PACPFA,
+	journal = {Marginalia},
+	volume = {2325},
+	year = {2016},
+	title = {Practical Factors and Religious Belief},
+	author = {Michael Pace}
+}
+@article{McGrath2016-MCGHOE,
+	year = {2016},
+	title = {Hill on Epistemology},
+	author = {Matthew McGrath},
+	volume = {173},
+	number = {3},
+	pages = {841--849},
+	publisher = {Springer Verlag},
+	journal = {Philosophical Studies}
+}
+@article{Roeber2018-ROETPE-2,
+	pages = {171--195},
+	journal = {No\^us},
+	author = {Blake Roeber},
+	year = {2018},
+	title = {The Pragmatic Encroachment Debate},
+	number = {1},
+	volume = {52}
+}
+@article{Scrutton2016-SCRWNB-2,
+	title = {Why Not Believe in an Evil God? Pragmatic Encroachment and Some Implications for Philosophy of Religion},
+	year = {2016},
+	author = {Anastasia Philippa Scrutton},
+	volume = {52},
+	number = {3},
+	pages = {345--360},
+	journal = {Religious Studies}
+}
+@article{Lackey2010-LACAOK,
+	journal = {Philosophical Perspectives},
+	pages = {361--382},
+	number = {1},
+	volume = {24},
+	author = {Jennifer Lackey},
+	title = {Acting on Knowledge},
+	year = {2010}
+}
+@article{Way2016-WAYIYJ-2,
+	title = {If You Justifiably Believe That You Ought to \ensuremath{\Phi}, You Ought to \ensuremath{\Phi}},
+	year = {2016},
+	author = {Jonathan Way and Daniel Whiting},
+	volume = {173},
+	number = {7},
+	pages = {1873--1895},
+	publisher = {Springer Verlag},
+	journal = {Philosophical Studies}
+}
+@article{Fantl2012-FANPOK,
+	number = {2},
+	volume = {85},
+	author = {Jeremy Fantl and Matthew Mcgrath},
+	title = {Pr\'ecis of Knowledge in an Uncertain World},
+	year = {2012},
+	journal = {Philosophy and Phenomenological Research},
+	pages = {441--446},
+	publisher = {Wiley-Blackwell}
+}
+@article{McGrath2004-MCGROJ,
+	number = {8},
+	volume = {2004},
+	author = {Matthew McGrath},
+	year = {2004},
+	title = {Review of John Hawthorne, \emph{Knowledge and Lotteries}},
+	journal = {Notre Dame Philosophical Reviews}
+}
+@article{Hannon2017-HANAST-2,
+	publisher = {Springer Verlag},
+	pages = {607--629},
+	journal = {Philosophical Studies},
+	author = {Michael Hannon},
+	title = {A Solution to Knowledge\textquoterights Threshold Problem},
+	year = {2017},
+	number = {3},
+	volume = {174}
+}
+@article{Weatherson2016-WEAGBA-2,
+	author = {Brian James Weatherson},
+	year = {2016},
+	title = {Games, Beliefs and Credences},
+	number = {2},
+	volume = {92},
+	pages = {209--236},
+	journal = {Philosophy and Phenomenological Research}
+}
+@article{Kim2016-KIMIDO-2,
+	volume = {13},
+	number = {2},
+	title = {In Defense of Subject-Sensitive Invariantism},
+	year = {2016},
+	author = {Brian Kim},
+	journal = {Episteme},
+	pages = {233--251}
+}
+@incollection{Benton2018-BENPEA-8,
+	editor = {Matthew A. Benton and John Hawthorne and Dani Rabinowitz},
+	year = {2018},
+	pages = {267--287},
+	publisher = {Oxford: Oxford University Press},
+	title = {Pragmatic Encroachment and Theistic Knowledge},
+	author = {Matthew A. Benton},
+	booktitle = {Knowledge, Belief, and God: New Insights in Religious Epistemology}
+}
+@incollection{Fantl2012-FANAFS,
+	editor = {Jessica Brown and Mikkel Gerken},
+	author = {J. Fantl and M. McGrath},
+	booktitle = {Knowledge Ascriptions},
+	title = {Arguing for Shifty Epistemology},
+	pages = {55--74},
+	publisher = {Oxford University Press},
+	year = {2012}
+}
+@article{Roeber2014-ROEMAT,
+	journal = {Episteme},
+	pages = {245--260},
+	publisher = {Edinburgh University Press},
+	number = {3},
+	volume = {11},
+	author = {Blake Roeber},
+	year = {2014},
+	title = {Minimalism And The Limits Of Warranted Assertability Maneuvers}
+}
+@article{Zweber2016-ZWEFCA,
+	journal = {Philosophical Studies},
+	pages = {2745--2757},
+	publisher = {Springer Verlag},
+	number = {10},
+	volume = {173},
+	author = {Adam Zweber},
+	year = {2016},
+	title = {Fallibilism, Closure, and Pragmatic Encroachment}
+}
+@article{Locke2017-LOCIAN,
+	title = {Implicature and Non-Local Pragmatic Encroachment},
+	year = {2017},
+	author = {Dustin Locke},
+	volume = {194},
+	number = {2},
+	publisher = {Springer Nature},
+	journal = {Synthese}
+}
+@article{Coss2016-COSTPO-9,
+	author = {David Coss},
+	title = {The Pitfalls of Interest-Relative Invariantism},
+	year = {2016},
+	number = {3},
+	volume = {31},
+	publisher = {Springer Verlag},
+	pages = {253--261},
+	journal = {Acta Analytica}
+}
+@book{Lewis1926-LEWTPE,
+	author = {Clarence Irving Lewis},
+	publisher = {University of California Press},
+	year = {1926},
+	title = {The Pragmatic Element in Knowledge}
+}
+@unpublished{McCallManuscript-MCCMPE,
+	author = {Bradford McCall},
+	title = {McCall Pragmatic Epistemology Presentation}
+}
+@article{TurriForthcoming-TURDSL,
+	journal = {American Philosophical Quarterly},
+	author = {John Turri and Wesley Buckwalter},
+	year = {forthcoming},
+	title = {Descartes\textquoterights Schism, Locke\textquoterights Reunion: Completing the Pragmatic Turn in Epistemology}
+}
+@article{Anderson2015-ANDOTI-3,
+	volume = {12},
+	number = {3},
+	year = {2015},
+	title = {On the Intimate Relationship of Knowledge and Action},
+	author = {Charity Anderson},
+	journal = {Episteme},
+	pages = {343--353}
+}
+@article{Armendt2008-ARMSB,
+	pages = {29--43},
+	publisher = {Springer Netherlands},
+	journal = {Acta Analytica},
+	author = {Brad Armendt},
+	year = {2008},
+	title = {Stake-Invariant Belief},
+	number = {1},
+	volume = {23}
+}
+@incollection{Thomason2007-THOTIB,
+	author = {Richmond H. Thomason},
+	booktitle = {Modeling and Using Context},
+	pages = {467--481},
+	year = {2007},
+	publisher = {Springer},
+	title = {Three Interactions Between Context and Epistemic Locutions},
+	editor = {T. R. Roth{-}Berghofer D. C. Richardson B. Kokinov}
+}
+@article{Adler2006-ADLWAC,
+	publisher = {Oxford University Press},
+	pages = {280--285},
+	journal = {Analysis},
+	author = {Jonathan E. Adler},
+	title = {Withdrawal and Contextualism},
+	year = {2006},
+	number = {4},
+	volume = {66}
+}
+@incollection{Thomason1986-THOTCO-33,
+	editor = {Michael Georgeff and Amy Lanksy},
+	booktitle = {Reasoning about actions and plans},
+	author = {Richmond Thomason},
+	pages = {341--360},
+	year = {1986},
+	publisher = {Morgan Kaufmann Publishers},
+	title = {The Context-Sensitivity of Belief and Desire}
+}
+@unpublished{PaginManuscript-PAGCAI,
+	author = {Peter Pagin},
+	title = {Chauvinism and Insensitive Invariantism}
+}
+@article{MoghaddamForthcoming-HEMSSI,
+	journal = {Philosophical Investigations},
+	year = {forthcoming},
+	title = {Subject Sensitive Invariantism and Epistemic Contextualism},
+	author = {Ahmad Reza Hemmati Moghaddam}
+}
+@incollection{LihoreauForthcoming-LIHRAK,
+	editor = {Manuel Rebuschi and Martine Batt and Gerhard Heinzmann and Franck Lihoreau and Michel Musiol and Alain Trognon},
+	year = {forthcoming},
+	publisher = {Springer},
+	title = {Reasoning About Knowledge in Context},
+	booktitle = {Dialogue, Rationality, Formalism. Interdisciplinary Works in Logic, Epistemology, Psychology and Linguistics},
+	author = {Franck Lihoreau and Manuel Rebuschi}
+}
+@article{Fassio2015-FASRE,
+	year = {2015},
+	title = {Revisionary Epistemology},
+	author = {Davide Fassio and Robin McKenna},
+	volume = {58},
+	number = {7-8},
+	pages = {755--779},
+	publisher = {Informa Uk},
+	journal = {Inquiry: An Interdisciplinary Journal of Philosophy}
+}
+@article{Buckwalter2015-BUCKSA,
+	number = {2},
+	volume = {49},
+	author = {Wesley Buckwalter and Jonathan Schaffer},
+	year = {2015},
+	title = {Knowledge, Stakes, and Mistakes},
+	journal = {No\^us},
+	pages = {201--234}
+}
+@article{Kasaki2014-KASSIA,
+	number = {1},
+	volume = {29},
+	author = {Masashi Kasaki},
+	year = {2014},
+	title = {Subject-Sensitive Invariantism and Isolated Secondhand Knowledge},
+	journal = {Acta Analytica},
+	pages = {83--98}
+}
+@article{DeBrasi2014-DEBCYT,
+	number = {1},
+	volume = {34},
+	author = {Leandro De Brasi},
+	title = {Contextualismo y Testimonio},
+	year = {2014},
+	journal = {An\'alisis Filos\'ofico},
+	pages = {61--75}
+}
+@article{Brown2013-BROEPC,
+	pages = {233--261},
+	publisher = {Wiley-Blackwell},
+	journal = {Philosophy and Phenomenological Research},
+	year = {2013},
+	title = {Experimental Philosophy, Contextualism and SSI},
+	author = {Jessica Brown},
+	volume = {86},
+	number = {2}
+}
+@article{Blome-Tillmann2013-BLOKAI,
+	volume = {190},
+	number = {18},
+	year = {2013},
+	title = {Knowledge and Implicatures},
+	author = {Michael Blome{-}Tillmann},
+	journal = {Synthese},
+	pages = {4293--4319}
+}
+@article{Hannon2013-HANTPO-15,
+	journal = {Erkenntnis},
+	pages = {899--919},
+	volume = {78},
+	number = {4},
+	year = {2013},
+	title = {The Practical Origins of Epistemic Contextualism},
+	author = {Michael Hannon}
+}
+@article{Gerken2011-GERWAA,
+	number = {3},
+	volume = {178},
+	author = {Mikkel Gerken},
+	title = {Warrant and Action},
+	year = {2011},
+	journal = {Synthese},
+	pages = {529--547},
+	publisher = {Springer}
+}
+@article{Nagel2011-NAGTPB,
+	pages = {1--28},
+	publisher = {Mpublishing},
+	journal = {Philosophers' Imprint},
+	author = {Jennifer Nagel},
+	year = {2011},
+	title = {The Psychological Basis of the Harman-Vogel Paradox},
+	volume = {11}
+}
+@article{Wright2011-WRIKAS,
+	publisher = {Edinburgh University Press},
+	pages = {99--111},
+	journal = {Episteme},
+	author = {Sarah Wright},
+	year = {2011},
+	title = {Knowledge and Social Roles: A Virtue Approach},
+	number = {1},
+	volume = {8}
+}
+@article{Nagel2010-NAGEAA,
+	journal = {Philosophical Perspectives},
+	pages = {407--435},
+	number = {1},
+	volume = {24},
+	author = {Jennifer Nagel},
+	title = {Epistemic Anxiety and Adaptive Invariantism},
+	year = {2010}
+}
+@article{Brueckner2010-BRUSD,
+	journal = {Philosophical Quarterly},
+	pages = {160--161},
+	number = {238},
+	volume = {60},
+	author = {Anthony Brueckner},
+	title = {SSSI Disinterred},
+	year = {2010}
+}
+@incollection{Zeman2010-ZEMKAA-2,
+	editor = {Recanati Fran\c{c}ois and Stojanovic Isidora and Villanueva Neftali},
+	publisher = {Mouton de Gruyter},
+	year = {2010},
+	title = {Knowledge Attributions and Relevant Epistemic Standards},
+	booktitle = {Context Dependence, Perpsective and Relativity},
+	author = {Dan Zeman}
+}
+@article{Buckwalter2010-BUCKIC,
+	journal = {Review of Philosophy and Psychology},
+	publisher = {Springer Netherlands},
+	pages = {395--406},
+	number = {3},
+	volume = {1},
+	author = {Wesley Buckwalter},
+	year = {2010},
+	title = {Knowledge Isn't Closed on Saturday: A Study in Ordinary Language}
+}
+@article{Brueckner2009-BRUCSA,
+	publisher = {Oxford University Press},
+	pages = {431--438},
+	journal = {Analysis},
+	year = {2009},
+	title = {Contextualism, SSI and the Factivity Problem},
+	author = {Anthony Brueckner and Christopher T. Buford},
+	volume = {69},
+	number = {3}
+}
+@article{Blaauw2008-BLASSI,
+	journal = {Philosophical Quarterly},
+	pages = {318--325},
+	publisher = {Wiley-Blackwell},
+	number = {231},
+	volume = {58},
+	author = {Martijn Blaauw},
+	year = {2008},
+	title = {Subject Sensitive Invariantism: In Memoriam}
+}
+@article{Cohen2005-COHKSA,
+	pages = {199--212},
+	publisher = {Wiley-Blackwell},
+	journal = {Philosophical Quarterly},
+	author = {Stewart Cohen},
+	title = {Knowledge, Speaker and Subject},
+	year = {2005},
+	number = {219},
+	volume = {55}
+}
+@article{MacFarlane2005-MACKLT,
+	pages = {132--138},
+	publisher = {Oxford University Press},
+	journal = {Analysis},
+	author = {John MacFarlane},
+	title = {Knowledge Laundering: Testimony and Sensitive Invariantism},
+	year = {2005},
+	number = {2},
+	volume = {65}
+}
+@article{Brown2005-BROAOD,
+	pages = {263--285},
+	publisher = {Wiley-Blackwell},
+	journal = {Philosophical Quarterly},
+	author = {Jessica Brown},
+	title = {Adapt or Die: The Death of Invariantism?},
+	year = {2005},
+	number = {219},
+	volume = {55}
+}
+@article{Armendt2013-ARMPIA-2,
+	pages = {758--768},
+	journal = {Philosophy of Science},
+	year = {2013},
+	title = {Pragmatic Interests and Imprecise Belief},
+	author = {Brad Armendt},
+	volume = {80},
+	number = {5}
+}
+@incollection{Weatherson2012-WEAKBA,
+	title = {Knowledge, Bets, and Interests},
+	pages = {75--103},
+	year = {2012},
+	publisher = {Oxford University Press},
+	booktitle = {Knowledge Ascriptions},
+	author = {Brian Weatherson},
+	editor = {Jessica Brown and Mikkel Gerken}
+}
+@article{Weatherson2011-WEADII,
+	journal = {Logos and Episteme},
+	pages = {591--609},
+	number = {4},
+	volume = {2},
+	author = {Brian Weatherson},
+	title = {Defending Interest-Relative Invariantism},
+	year = {2011}
+}
+@article{Armendt2010-ARMSAB,
+	number = {1},
+	volume = {147},
+	author = {Brad Armendt},
+	year = {2010},
+	title = {Stakes and Beliefs},
+	journal = {Philosophical Studies},
+	pages = {71--87},
+	publisher = {Springer}
+}
+@article{Reisner2009-REITPO-6,
+	journal = {Philosophical Studies},
+	pages = {257--272},
+	publisher = {Springer},
+	number = {2},
+	volume = {145},
+	author = {Andrew Reisner},
+	title = {The Possibility of Pragmatic Reasons for Belief and the Wrong Kind of Reasons Problem},
+	year = {2009}
+}
+@incollection{Reisner2018-REIPRF,
+	editor = {Daniel Star},
+	publisher = {Oxford University Press},
+	year = {2018},
+	title = {Pragmatic Reasons for Belief},
+	author = {Andrew Reisner},
+	booktitle = {The Oxford Handbook of Reasons and Normativity}
+}
+@article{Vahid2010-VAHRBE,
+	publisher = {Springer},
+	pages = {447--462},
+	journal = {Synthese},
+	year = {2010},
+	title = {Rationalizing Beliefs: Evidential Vs. Pragmatic Reasons},
+	author = {Hamid Vahid},
+	volume = {176},
+	number = {3}
+}
+@article{Ganson2008-GANEAP,
+	number = {3},
+	volume = {139},
+	author = {Dorit Ganson},
+	title = {Evidentialism and Pragmatic Constraints on Outright Belief},
+	year = {2008},
+	journal = {Philosophical Studies},
+	publisher = {Springer},
+	pages = {441--458}
+}
+@article{Levin2008-LEVAPR,
+	author = {Janet Levin},
+	title = {Assertion, Practical Reason, and Pragmatic Theories of Knowledge},
+	year = {2008},
+	number = {2},
+	volume = {76},
+	pages = {359--384},
+	publisher = {Wiley-Blackwell},
+	journal = {Philosophy and Phenomenological Research}
+}
+@article{Reisner2008-REIWPA,
+	number = {1},
+	volume = {138},
+	author = {Andrew Reisner},
+	year = {2008},
+	title = {Weighing Pragmatic and Evidential Reasons for Belief},
+	journal = {Philosophical Studies},
+	pages = {17--27},
+	publisher = {Springer}
+}
+@article{Staley2007-STAECE,
+	year = {2007},
+	title = {Evidential Collaborations: Epistemic and Pragmatic Considerations in "Group Belief"},
+	author = {Kent W. Staley},
+	volume = {21},
+	number = {3},
+	publisher = {Taylor \& Francis},
+	pages = {321--335},
+	journal = {Social Epistemology}
+}
+@unpublished{KvartManuscript-KVAAPS,
+	title = {Action-Directed Pragmatics Secures Semantically Autonomous Knowledge},
+	author = {Igal Kvart}
+}
+@article{BlacksonForthcoming-BLAAWO-2,
+	author = {Thomas Blackson},
+	year = {forthcoming},
+	title = {Against Weatherson on How to Frame a Decision Problem},
+	journal = {Journal of Philosophical Research}
+}
+@article{Boyd2016-BOYPEA,
+	publisher = {Springer Nature},
+	journal = {Synthese},
+	title = {Pragmatic Encroachment and Epistemically Responsible Action},
+	year = {2016},
+	author = {Kenneth Boyd},
+	volume = {193},
+	number = {9}
+}
+@article{Luzzi2012-LUZIIA,
+	journal = {Pacific Philosophical Quarterly},
+	publisher = {Wiley-Blackwell},
+	pages = {31--42},
+	number = {1},
+	volume = {93},
+	author = {Federico Luzzi},
+	title = {Interest-Relative Invariantism and Knowledge From Ignorance},
+	year = {2012}
+}
+@article{May2010-MAYPIR,
+	title = {Practical Interests, Relevant Alternatives, and Knowledge Attributions: An Empirical Study},
+	year = {2010},
+	author = {Joshua May and Walter Sinnott{-}Armstrong and Jay G. Hull and Aaron Zimmerman},
+	volume = {1},
+	number = {2},
+	pages = {265--273},
+	publisher = {Springer Netherlands},
+	journal = {Review of Philosophy and Psychology}
+}
+@article{Blackson2004-BLAAIA-2,
+	number = {2},
+	volume = {68},
+	author = {Thomas A. Blackson},
+	title = {An Invalid Argument for Contextualism},
+	year = {2004},
+	journal = {Philosophy and Phenomenological Research},
+	pages = {344--345},
+	publisher = {Wiley-Blackwell}
+}
+@article{Bach2008-BACAPT,
+	volume = {18},
+	number = {1},
+	title = {Applying Pragmatics to Epistemology},
+	year = {2008},
+	author = {Kent Bach},
+	journal = {Philosophical Issues},
+	pages = {68--88}
+}
+@book{Goldberg2015-GOLESA-3,
+	year = {2015},
+	publisher = {Cambridge University Press},
+	title = {Externalism, Self-Knowledge, and Skepticism: New Essays},
+	author = {Sanford C. Goldberg}
+}
+@article{Feldman2007-FELKAL,
+	author = {Richard Feldman},
+	title = {Knowledge and Lotteries},
+	year = {2007},
+	number = {1},
+	volume = {75},
+	pages = {211--226},
+	journal = {Philosophy and Phenomenological Research}
+}
+@article{Pritchard2017-PRIEOP-3,
+	journal = {Synthese},
+	pages = {1477--1486},
+	publisher = {Springer Nature},
+	number = {5},
+	volume = {194},
+	author = {Duncan Pritchard},
+	title = {Engel on Pragmatic Encroachment and Epistemic Value},
+	year = {2017}
+}
+@article{Whittington2016-WHILKA,
+	pages = {1615--1633},
+	publisher = {Springer Nature},
+	journal = {Synthese},
+	author = {Lee Whittington},
+	title = {Luck, Knowledge and Value},
+	year = {2016},
+	number = {6},
+	volume = {193}
+}
+@article{Gerken2015-GERHTD-2,
+	pages = {223--234},
+	journal = {Philosophy and Phenomenological Research},
+	author = {Mikkel Gerken},
+	year = {2015},
+	title = {How to Do Things with Knowledge Ascriptions},
+	number = {1},
+	volume = {90}
+}
+@article{Coffman2011-COFDKS,
+	author = {E. J. Coffman},
+	year = {2011},
+	title = {Does Knowledge Secure Warrant to Assert?},
+	number = {2},
+	volume = {154},
+	pages = {285--300},
+	journal = {Philosophical Studies}
+}
+@article{Pace2011-PACTER,
+	year = {2011},
+	title = {The Epistemic Value of Moral Considerations: Justification, Moral Encroachment, and James' 'Will To Believe'},
+	author = {Michael Pace},
+	volume = {45},
+	number = {2},
+	pages = {239--268},
+	journal = {No\^us}
+}
+@article{Engel2011-ENGIPY,
+	volume = {23},
+	number = {1},
+	title = {Intrusi\'on Pragm\'atica y Valor Epist\'emico},
+	year = {2011},
+	author = {Pascal Engel},
+	journal = {Aret\'e. Revista de Filosof\'ia},
+	pages = {25--51},
+	publisher = {Fondo Editorial de la Pontificia Universidad Cat\'olica Del Per\'u}
+}
+@article{JeremyFantl2007-JEROPE,
+	publisher = {Wiley-Blackwell},
+	pages = {558--589},
+	journal = {Philosophy and Phenomenological Research},
+	year = {2007},
+	title = {On Pragmatic Encroachment in Epistemology},
+	author = {Matthew Mcgrath Jeremy Fantl},
+	volume = {75},
+	number = {3}
+}
+@book{Jager2011-JGEECV-3,
+	author = {Christoph J\"ager and Winfried L\"offler},
+	publisher = {The Austrian Ludwig Wittgenstein Society},
+	year = {2011},
+	title = {Epistemology: Contexts, Values, Disagreement. Papers of the 34th International Ludwig Wittgenstein-Symposium in Kirchberg, 2011}
+}
+@article{Crisp2005-CRIHOK,
+	pages = {138--140},
+	publisher = {Oxford University Press},
+	journal = {Analysis},
+	author = {Thomas M. Crisp},
+	year = {2005},
+	title = {Hawthorne on Knowledge and Practical Reasoning},
+	number = {2},
+	volume = {65}
+}
+@article{Brueckner2005-ABRRKA,
+	year = {2005},
+	title = {Review: Knowledge and Lotteries},
+	author = {A. Brueckner},
+	volume = {114},
+	number = {453},
+	pages = {160--165},
+	publisher = {Oxford University Press},
+	journal = {Mind}
+}
+@incollection{Eaton2017-EATWOP,
+	title = {Wagering on Pragmatic Encroachment},
+	publisher = {Oxford University Press},
+	year = {2017},
+	booktitle = {Oxford Studies in Philosophy of Religion Volume 8},
+	author = {Daniel Eaton and Timothy Pickavance},
+	editor = {Jonathan L. Kvanvig}
+}
+@article{Eaton2015-EATEAP,
+	number = {12},
+	volume = {172},
+	author = {Daniel Eaton and Timothy Pickavance},
+	year = {2015},
+	title = {Evidence Against Pragmatic Encroachment},
+	journal = {Philosophical Studies},
+	pages = {3135--3143},
+	publisher = {Springer Netherlands}
+}
+@article{Rubin2015-RUBTPE,
+	pages = {12--38},
+	journal = {Pacific Philosophical Quarterly},
+	title = {Total Pragmatic Encroachment and Epistemic Permissiveness},
+	year = {2015},
+	author = {Katherine Rubin},
+	volume = {96},
+	number = {1}
+}
+@article{Scott2015-SCOPER,
+	year = {2015},
+	title = {Pragmatic Encroachment, Religious Belief and Practice By Aaron Rizzieri},
+	author = {Michael Scott},
+	volume = {75},
+	number = {3},
+	pages = {530--532},
+	journal = {Analysis}
+}
+@article{Phelan2013-PHEETS,
+	author = {Mark Phelan},
+	year = {2013},
+	title = {Evidence That Stakes Don't Matter for Evidence},
+	number = {4},
+	pages = {1--25},
+	journal = {Philosophical Psychology}
+}
+@article{Armour-Garb2011-ARMCWP,
+	journal = {Analysis},
+	pages = {667--676},
+	number = {4},
+	volume = {71},
+	author = {B. Armour{-}Garb},
+	year = {2011},
+	title = {Contextualism Without Pragmatic Encroachment}
+}
+@article{Smith2005-SMIKAL,
+	number = {2},
+	volume = {46},
+	author = {Donald Smith},
+	year = {2005},
+	title = {Knowledge and Lotteries},
+	journal = {Philosophical Books},
+	pages = {123--131}
+}
+@unpublished{KvartManuscript-KVAACT,
+	author = {Igal Kvart},
+	title = {A Counter-Example to SSI and Contextualism}
+}
+@article{Shin2014-SHITCA-3,
+	number = {2},
+	volume = {11},
+	author = {Joseph Shin},
+	year = {2014},
+	title = {Time Constraints and Pragmatic Encroachment on Knowledge},
+	journal = {Episteme},
+	publisher = {Edinburgh University Press},
+	pages = {157--180}
+}
+@article{Vahid2014-VAHVOP,
+	journal = {Acta Analytica},
+	pages = {25--41},
+	number = {1},
+	volume = {29},
+	author = {Hamid Vahid},
+	year = {2014},
+	title = {Varieties of Pragmatic Encroachment}
+}
+@article{Lutz2014-LUTTPO,
+	author = {Matt Lutz},
+	year = {2014},
+	title = {The Pragmatics of Pragmatic Encroachment},
+	number = {8},
+	volume = {191},
+	pages = {1--24},
+	journal = {Synthese}
+}
+@article{Baril2013-BARPEI-4,
+	journal = {Synthese},
+	pages = {3929--3952},
+	number = {17},
+	volume = {190},
+	author = {Anne Baril},
+	title = {Pragmatic Encroachment in Accounts of Epistemic Excellence},
+	year = {2013}
+}
+@article{Adler2012-ADLCAF,
+	journal = {Synthese},
+	pages = {247--272},
+	publisher = {Springer Nature},
+	volume = {188},
+	number = {2},
+	title = {Contextualism and Fallibility: Pragmatic Encroachment, Possibility, and Strength of Epistemic Position},
+	year = {2012},
+	author = {Jonathan E. Adler}
+}
+@article{Ichikawa2012-ICHPEA,
+	volume = {53},
+	number = {4},
+	year = {2012},
+	title = {Pragmatic Encroachment and Belief-Desire Psychology},
+	author = {Jonathan Ichikawa and Benjamin Jarvis and Katherine Rubin},
+	journal = {Analytic Philosophy},
+	pages = {327--343}
+}
+@article{Schroeder2012-SCHSWA-2,
+	pages = {265--285},
+	journal = {Philosophical Studies},
+	author = {Mark Schroeder},
+	title = {Stakes, Withholding, and Pragmatic Encroachment on Knowledge},
+	year = {2012},
+	number = {2},
+	volume = {160}
+}
+@article{Shaffer2012-SHANPE,
+	author = {Michael J. Shaffer},
+	title = {Not-Exact-Truths, Pragmatic Encroachment and the Epistemic Norm of Practical Reasoning},
+	year = {2012},
+	number = {2},
+	volume = {3},
+	pages = {239--259},
+	journal = {Logos and Episteme}
+}
+@article{Adler2012-ADLPEM,
+	journal = {Analysis},
+	pages = {526--534},
+	number = {3},
+	volume = {72},
+	author = {Jonathan E. Adler},
+	year = {2012},
+	title = {Pragmatic Encroachment, Methods and Contextualism}
+}
+@article{Ballantyne2011-BALAEP,
+	pages = {485--503},
+	publisher = {University of Calgary Press},
+	journal = {Canadian Journal of Philosophy},
+	author = {Nathan Ballantyne},
+	title = {Anti-Luck Epistemology, Pragmatic Encroachment, and True Belief},
+	year = {2011},
+	number = {4},
+	volume = {41}
+}
+@article{Boyd2011-BOYKIA,
+	volume = {71},
+	number = {1},
+	year = {2011},
+	title = {Knowledge in an Uncertain World * by Jeremy Fantl and Matthew McGrath},
+	author = {Kenneth Boyd},
+	journal = {Analysis},
+	pages = {189--191}
+}
+@incollection{Engel2009-ENGPEA,
+	booktitle = {Epistemic Value},
+	author = {Pascal Engel},
+	title = {Pragmatic Encroachment and Epistemic Value},
+	publisher = {Oxford University Press},
+	year = {2009},
+	editor = {Adrian Haddock and Alan Millar and Duncan Pritchard}
+}
+@article{Benton2014-BENKN,
+	author = {Matthew A. Benton},
+	title = {Knowledge Norms},
+	year = {2014},
+	pages = {nn-nn},
+	journal = {Internet Encyclopedia of Philosophy}
+}
+@unpublished{KvartManuscript-KVARAT,
+	author = {Igal Kvart},
+	title = {Rational Assertibility, the Steering Role of Knowledge, and Pragmatic Encroachment}
+}
+@incollection{Reed2013-REEPMD,
+	editor = {Matthias Steup and John Turri},
+	author = {Baron Reed},
+	booktitle = {Contemporary Debates in Epistemology},
+	pages = {2--95},
+	publisher = {Blackwell},
+	year = {2013},
+	title = {Practical Matters Do Not Affect Whether You Know}
+}
+@article{Brown2012-BROPRD,
+	volume = {9},
+	number = {1},
+	title = {Practial Reasoning, Decision Theory and Anti-Intellectualism},
+	year = {2012},
+	author = {Jessica Brown},
+	journal = {Episteme},
+	pages = {1--20},
+	publisher = {Cambridge Univ Press}
+}
+@article{Fantl2012-FANCAS,
+	year = {2012},
+	title = {Contextualism and Subject-Sensitivity},
+	author = {Jeremy Fantl and Matthew McGrath},
+	volume = {84},
+	number = {3},
+	pages = {693--702},
+	publisher = {Wiley Online Library},
+	journal = {Philosophy and Phenomenological Research}
+}
+@article{Buckwalter2012-BUCNFI,
+	volume = {7},
+	number = {4},
+	year = {2012},
+	title = {Non-Traditional Factors in Judgments About Knowledge},
+	author = {Wesley Buckwalter},
+	journal = {Philosophy Compass},
+	publisher = {Wiley Online Library},
+	pages = {278--289}
+}
+@article{Sripada2012-SRIETO,
+	author = {Chandra Sekhar Sripada and Jason Stanley},
+	year = {2012},
+	title = {Empirical Tests of Interest-Relative Invariantism},
+	number = {1},
+	volume = {9},
+	pages = {3--26},
+	publisher = {Cambridge Univ Press},
+	journal = {Episteme}
+}
+@article{Rizzieri2011-RIZPES,
+	author = {Aaron Rizzieri},
+	title = {Pragmatic Encroachment, Stakes, and Religious Knowledge},
+	year = {2011},
+	number = {3},
+	volume = {70},
+	pages = {217--229},
+	publisher = {Springer},
+	journal = {International Journal for Philosophy of Religion}
+}
+@article{Grimm2011-GRIOII,
+	number = {479},
+	volume = {120},
+	author = {Stephen R. Grimm},
+	year = {2011},
+	title = {On Intellectualism in Epistemology},
+	journal = {Mind},
+	pages = {705--733},
+	publisher = {Mind Assoc}
+}
+@article{McGrath2010-MCGCAI-2,
+	journal = {Philosophical Perspectives},
+	pages = {383--405},
+	publisher = {Wiley Online Library},
+	volume = {24},
+	number = {1},
+	title = {Contextualism and Intellectualism},
+	year = {2010},
+	author = {Matthew McGrath}
+}
+@article{Reed2010-REEADO,
+	number = {2},
+	volume = {44},
+	author = {Baron Reed},
+	year = {2010},
+	title = {A Defense of Stable Invariantism},
+	journal = {No\^us},
+	publisher = {Wiley Online Library},
+	pages = {224--244}
+}
+@article{Fantl2009-FANCSO,
+	journal = {No\^us},
+	pages = {178--192},
+	publisher = {Wiley Online Library},
+	number = {1},
+	volume = {43},
+	author = {Jeremy Fantl and Matthew McGrath},
+	year = {2009},
+	title = {Critical Study of John Hawthorne's Knowledge and Lotteries and Jason Stanley's Knowledge and Practical Interests}
+}
+@book{DeRose2009-DERTCF-2,
+	year = {2009},
+	publisher = {Oxford University Press},
+	title = {The Case for Contextualism: Knowledge, Skepticism, and Context, Vol. 1},
+	author = {Keith DeRose}
+}
+@article{Brown2008-BROSIA,
+	author = {Jessica Brown},
+	title = {SubjectSensitive Invariantism and the Knowledge Norm for Practical Reasoning},
+	year = {2008},
+	number = {2},
+	volume = {42},
+	pages = {167--189},
+	publisher = {Wiley Online Library},
+	journal = {No\^us}
+}
+@article{Brown2008-BROKAP-3,
+	author = {Jessica Brown},
+	year = {2008},
+	title = {Knowledge and Practical Reason},
+	number = {6},
+	volume = {3},
+	publisher = {John Wiley \& Sons},
+	pages = {1135--1152},
+	journal = {Philosophy Compass}
+}
+@article{DeRose2007-KDERKA,
+	publisher = {Mind Assoc},
+	pages = {486--489},
+	journal = {Mind},
+	title = {Review: Knowledge and Practical Interests},
+	year = {2007},
+	author = {K. DeRose},
+	volume = {116},
+	number = {462}
+}
+@article{Schaffer2006-SCHTIO-5,
+	volume = {127},
+	number = {1},
+	title = {The Irrelevance of the Subject: Against Subject-Sensitive Invariantism},
+	year = {2006},
+	author = {Jonathan Schaffer},
+	journal = {Philosophical Studies},
+	publisher = {Springer},
+	pages = {87--107}
+}
+@article{DeRose2005-DERTOL,
+	pages = {172--198},
+	publisher = {John Wiley \& Sons},
+	journal = {Philosophical Quarterly},
+	title = {The Ordinary Language Basis for Contextualism, and the New Invariantism},
+	year = {2005},
+	author = {Keith DeRose},
+	volume = {55},
+	number = {219}
+}
+@article{Williamson2005-WILCSI-2,
+	title = {Contextualism, Subject-Sensitive Invariantism, and Knowledge of Knowledge},
+	year = {2005},
+	author = {Timothy Williamson},
+	volume = {55},
+	number = {219},
+	pages = {213--235},
+	publisher = {Blackwell Publishing Ltd},
+	journal = {Philosophical Quarterly}
+}
+@article{Weatherson2005-WEACWD,
+	publisher = {Wiley Online Library},
+	pages = {417--443},
+	journal = {Philosophical Perspectives},
+	title = {Can We Do Without Pragmatic Encroachment?},
+	year = {2005},
+	author = {Brian Weatherson},
+	volume = {19},
+	number = {1}
+}
+@book{Stanley2005-STAKAP,
+	year = {2005},
+	publisher = {Oxford University Press},
+	title = {Knowledge and Practical Interests},
+	author = {Jason Stanley}
+}
+@article{DeRose2004-DERTPW,
+	number = {2},
+	volume = {68},
+	author = {Keith DeRose},
+	year = {2004},
+	title = {The Problem with Subject-Sensitive Invariantism},
+	journal = {Philosophy and Phenomenological Research},
+	pages = {346--350},
+	publisher = {Jstor}
+}
+@book{Hawthorne2003-HAWKAL,
+	author = {John Hawthorne},
+	year = {2003},
+	publisher = {Oxford University Press},
+	title = {Knowledge and Lotteries}
+}
+@article{Fantl2002-FANEPA,
+	title = {Evidence, Pragmatics, and Justification},
+	year = {2002},
+	author = {Jeremy Fantl and Matthew McGrath},
+	volume = {111},
+	number = {1},
+	pages = {67--94},
+	publisher = {Duke Univ Press},
+	journal = {Philosophical Review}
+}
+@article{Levi1960-LEVMTS,
+	publisher = {Jstor},
+	pages = {345--357},
+	journal = {Journal of Philosophy},
+	author = {Isaac Levi},
+	title = {Must the Scientist Make Value Judgments?},
+	year = {1960},
+	number = {11},
+	volume = {57}
+}
+@article{Jeffrey1956-JEFVAA,
+	journal = {Philosophy of Science},
+	pages = {237--246},
+	publisher = {Jstor},
+	number = {3},
+	volume = {23},
+	author = {Richard C. Jeffrey},
+	year = {1956},
+	title = {Valuation and Acceptance of Scientific Hypotheses}
+}
+@article{Rudner1953-RUDTSQ,
+	pages = {1--6},
+	publisher = {Philosophy of Science Association; the University of Chicago Press},
+	journal = {Philosophy of Science},
+	title = {The Scientist Qua Scientist Makes Value Judgments},
+	year = {1953},
+	author = {Richard Rudner},
+	volume = {20},
+	number = {1}
+}
+@book{Rizzieri2013-RIZPER,
+	title = {Pragmatic Encroachment, Religious Belief and Practice},
+	publisher = {Palgrave MacMillan},
+	year = {2013},
+	author = {Aaron Rizzieri}
+}
+@article{Neta2012-NETTCA,
+	volume = {85},
+	number = {2},
+	title = {The Case Against Purity},
+	year = {2012},
+	author = {Ram Neta},
+	journal = {Philosophy and Phenomenological Research},
+	pages = {456--464},
+	publisher = {Wiley-Blackwell}
+}
+@article{Fantl2012-FANRTC,
+	number = {2},
+	volume = {85},
+	author = {Jeremy Fantl and Matthew Mcgrath},
+	title = {Replies to Cohen, Neta and Reed},
+	year = {2012},
+	journal = {Philosophy and Phenomenological Research},
+	pages = {473--490},
+	publisher = {Wiley-Blackwell}
+}
+@article{Reed2012-REERE,
+	pages = {465--472},
+	publisher = {Wiley-Blackwell},
+	journal = {Philosophy and Phenomenological Research},
+	title = {Resisting Encroachment},
+	year = {2012},
+	author = {Baron Reed},
+	volume = {85},
+	number = {2}
+}
+@article{Hawthorne2008-HAWKAA,
+	volume = {105},
+	number = {10},
+	year = {2008},
+	title = {Knowledge and Action},
+	author = {John Hawthorne and Jason Stanley},
+	journal = {Journal of Philosophy},
+	publisher = {Journal of Philosophy Inc},
+	pages = {571--590}
+}
+@article{Nagel2008-NAGKAA,
+	pages = {279--294},
+	publisher = {Taylor \& Francis},
+	journal = {Australasian Journal of Philosophy},
+	author = {Jennifer Nagel},
+	year = {2008},
+	title = {Knowledge Ascriptions and the Psychological Consequences of Changing Stakes},
+	number = {2},
+	volume = {86}
+}
+@article{Ross2014-ROSBCA-4,
+	number = {2},
+	volume = {88},
+	author = {Jacob Ross and Mark Schroeder},
+	title = {Belief, Credence, and Pragmatic Encroachment1},
+	year = {2014},
+	journal = {Philosophy and Phenomenological Research},
+	pages = {259--288}
+}
+@unpublished{RysiewManuscript-RYSPWP,
+	title = {Pragmatics Without Pragmatism: Reply to Fantl \& McGrath},
+	author = {Patrick Rysiew and Trent Dougherty}
+}
+@article{Brown2013-BROIPR-3,
+	pages = {179--192},
+	publisher = {Wiley Online Library},
+	journal = {No\^us},
+	title = {Impurism, Practical Reasoning, and the Threshold Problem},
+	year = {2013},
+	author = {Jessica Brown},
+	volume = {47},
+	number = {1}
+}
+@article{Comesana2013-COMEP,
+	author = {Juan Comesa\~na},
+	year = {2013},
+	title = {Epistemic Pragmatism},
+	number = {2},
+	volume = {90},
+	publisher = {Philosophy Department, St. Louis University},
+	pages = {237--260},
+	journal = {Res Philosophica}
+}
+@article{McGrath2012-FANPEI,
+	journal = {Episteme},
+	pages = {27--42},
+	publisher = {Edinburgh University Press},
+	volume = {9},
+	number = {1},
+	year = {2012},
+	title = {Pragmatic Encroachment: It's Not Just About Knowledge},
+	author = {McGrath and Jeremy Fantl}
+}
+@article{Cohen2012-COHDPR,
+	volume = {85},
+	number = {2},
+	title = {Does Practical Rationality Constrain Epistemic Rationality?},
+	year = {2012},
+	author = {Stewart Cohen},
+	journal = {Philosophy and Phenomenological Research},
+	pages = {447--455},
+	publisher = {Wiley-Blackwell}
+}
+@article{Miller2014-MILSVA,
+	pages = {253--270},
+	journal = {European Journal for Philosophy of Science},
+	author = {Boaz Miller},
+	title = {Science, Values, and Pragmatic Encroachment on Knowledge},
+	year = {2014},
+	number = {2},
+	volume = {4}
+}
+@book{Fantl2009-FANKIA-2,
+	title = {Knowledge in an Uncertain World},
+	year = {2009},
+	publisher = {Oxford University Press},
+	author = {Jeremy Fantl and Matthew McGrath}
+}
+@article{McGrath2007-MCGOPE,
+	year = {2007},
+	title = {On Pragmatic Encroachment in Epistemology},
+	author = {Matthew McGrath},
+	volume = {75},
+	number = {3},
+	pages = {558--589},
+	publisher = {Wiley-Blackwell},
+	journal = {Philosophy and Phenomenological Research}
+}
+@unpublished{McGrathManuscript-MCGAFF,
+	author = {Jeremy Fantl \AE Matthew McGrath},
+	title = {Advice for Fallibilists: Put Knowledge to Work}
+}
+@article{Worsnip2015-WORTKO,
+	journal = {Pacific Philosophical Quarterly},
+	pages = {307--324},
+	volume = {96},
+	number = {3},
+	year = {2015},
+	title = {Two Kinds of Stakes},
+	author = {Alex Worsnip}
+}
+@article{Locke2015-LOCPC,
+	volume = {90},
+	number = {1},
+	title = {Practical Certainty},
+	year = {2015},
+	author = {Dustin Locke},
+	journal = {Philosophy and Phenomenological Research},
+	pages = {72--95}
+}
+@incollection{Grimm2015-GRIQPI,
+	booktitle = {Epistemic Evaluation: Purposeful Epistemology},
+	author = {Stephen R. Grimm},
+	publisher = {Oxford University Press},
+	year = {2015},
+	title = {Knowledge, Practical Interests, and Rising Tides},
+	editor = {John Greco and David Henderson}
+}
+@article{Henderson2009-HENMC,
+	journal = {Philosophical Studies},
+	publisher = {Springer},
+	pages = {119--131},
+	number = {1},
+	volume = {142},
+	author = {David Henderson},
+	year = {2009},
+	title = {Motivated Contextualism}
+}
+@article{Cresto2010-CREBAC,
+	journal = {Synthese},
+	pages = {41--66},
+	publisher = {Springer},
+	number = {1},
+	volume = {177},
+	author = {Eleonora Cresto},
+	year = {2010},
+	title = {Belief and Contextual Acceptance}
+}
+

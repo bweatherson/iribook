@@ -1,0 +1,233 @@
+\newcommand{\SortNoop}[1]{}
+\begin{thebibliography}{34}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Blome-Tillmann(2009{\natexlab{a}})}]{MBT2009}
+Blome-Tillmann, Michael. 2009{\natexlab{a}}.
+\newblock \enquote{Contextualism, Subject-Sensitive Invariantism, and the
+  Interaction of `Knowledge'-Ascriptions with Modal and Temporal Operators.}
+\newblock \emph{Philosophy and Phenomenological Research} 79:315--331,
+  \href{http://dx.doi.org/10.1111/j.1933-1592.2009.00280.x}%
+{doi:10.1111/j.1933-1592.2009.00280.x}.
+
+\bibitem[{Blome-Tillmann(2009{\natexlab{b}})}]{MBT2009a}
+---. 2009{\natexlab{b}}.
+\newblock \enquote{Knowledge and Presuppositions.}
+\newblock \emph{Mind} 118:241--294,
+  \href{http://dx.doi.org/10.1093/mind/fzp032}%
+{doi:10.1093/mind/fzp032}.
+
+\bibitem[{Braddon-Mitchell and Jackson(2007)}]{DBMJackson2007}
+Braddon-Mitchell, David and Jackson, Frank. 2007.
+\newblock \emph{The Philosophy of Mind and Cognition, \textrm{second edition}}.
+\newblock Malden, MA: Blackwell.
+
+\bibitem[{Brown(2008)}]{Brown2008-BROKAP}
+Brown, Jessican. 2008.
+\newblock \enquote{Knowledge and Practical Reason.}
+\newblock \emph{Philosophy Compass} 3:1135--1152,
+  \href{http://dx.doi.org/10.1111/j.1747-9991.2008.00176.x}%
+{doi:10.1111/j.1747-9991.2008.00176.x}.
+
+\bibitem[{Fantl and McGrath(2009)}]{FantlMcGrath2009}
+Fantl, Jeremy and McGrath, Matthew. 2009.
+\newblock \emph{Knowledge in an Uncertain World}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Feltz and Zarpentine(forthcoming)}]{FeltzZarpentine2010}
+Feltz, Adam and Zarpentine, Chris. forthcoming.
+\newblock \enquote{Do You Know More When It Matters Less?}
+\newblock \emph{Philosophical Psychology} Retrieved from
+  \url{http://faculty.schreiner.edu/adfeltz/Papers/Know%20more.pdf}.
+
+\bibitem[{Gettier(1963)}]{Gettier1963}
+Gettier, Edmund~L. 1963.
+\newblock \enquote{Is Justified True Belief Knowledge?}
+\newblock \emph{Analysis} 23:121--123,
+  \href{http://dx.doi.org/10.2307/3326922}%
+{doi:10.2307/3326922}.
+
+\bibitem[{Ham et~al.(2008)Ham, Martin, and {Kohl III}}]{Ham2008}
+Ham, Sandra~A., Martin, Sarah, and {Kohl III}, Harold~W. 2008.
+\newblock \enquote{Changes in the percentage of students who walk or bike to
+  school-United States, 1969 and 2001.}
+\newblock \emph{Journal of Physical Activity and Health} 5:205--215.
+
+\bibitem[{Hammond(1988)}]{Hammond1988}
+Hammond, Peter~J. 1988.
+\newblock \enquote{Consequentialist Foundations for Expected Utility.}
+\newblock \emph{Theory and Decision} 25:25--78,
+  \href{http://dx.doi.org/10.1007/BF00129168}%
+{doi:10.1007/BF00129168}.
+
+\bibitem[{Harman(1973)}]{Harman1973}
+Harman, Gilbert. 1973.
+\newblock \emph{Thought}.
+\newblock Princeton: Princeton University Press.
+
+\bibitem[{Hawthorne(2004)}]{Hawthorne2004}
+Hawthorne, John. 2004.
+\newblock \emph{Knowledge and Lotteries}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Jackson(1991)}]{Jackson1991}
+Jackson, Frank. 1991.
+\newblock \enquote{Decision Theoretic Consequentialism and the Nearest and
+  Dearest Objection.}
+\newblock \emph{Ethics} 101:461--82.
+
+\bibitem[{Kennett and Smith(1996{\natexlab{a}})}]{KennettSmith1996b}
+Kennett, Jeanette and Smith, Michael. 1996{\natexlab{a}}.
+\newblock \enquote{Frog and Toad Lose Control.}
+\newblock \emph{Analysis} 56:63--73,
+  \href{http://dx.doi.org/10.1111/j.0003-2638.1996.00063.x}%
+{doi:10.1111/j.0003-2638.1996.00063.x}.
+
+\bibitem[{Kennett and Smith(1996{\natexlab{b}})}]{KennettSmith1996a}
+---. 1996{\natexlab{b}}.
+\newblock \enquote{Philosophy and Commonsense: The Case of Weakness of Will.}
+\newblock In Michaelis Michael and John O'Leary-Hawthorne (eds.), \emph{The
+  Place of Philosophy in the Study of Mind}, 141--157. Norwell, MA: Kluwer,
+  \href{http://dx.doi.org/10.1017/CBO9780511606977.005}%
+{doi:10.1017/CBO9780511606977.005}.
+
+\bibitem[{Lewis(1969)}]{Lewis1969a}
+Lewis, David. 1969.
+\newblock \emph{Convention: A Philosophical Study}.
+\newblock Cambridge: Harvard University Press.
+
+\bibitem[{Lewis(1982)}]{Lewis1982c}
+---. 1982.
+\newblock \enquote{Logic for Equivocators.}
+\newblock \emph{No\^u{}s} 16:431--441.
+\newblock \PPL 97-110.
+
+\bibitem[{Lewis(1996)}]{Lewis1996b}
+---. 1996.
+\newblock \enquote{Elusive Knowledge.}
+\newblock \emph{Australasian Journal of Philosophy} 74:549--567,
+  \href{http://dx.doi.org/10.1080/00048409612347521}%
+{doi:10.1080/00048409612347521}.
+\newblock \PME 418-446.
+
+\bibitem[{Lipsey and Lancaster(1956-1957)}]{LipseyLancaster}
+Lipsey, R.~G. and Lancaster, Kelvin. 1956-1957.
+\newblock \enquote{The General Theory of Second Best.}
+\newblock \emph{Review of Economic Studies} 24:11--32,
+  \href{http://dx.doi.org/10.2307/2296233}%
+{doi:10.2307/2296233}.
+
+\bibitem[{Maher(1993)}]{Maher1993}
+Maher, Patrick. 1993.
+\newblock \emph{Betting on Theories}.
+\newblock Cambridge: Cambridge University Press.
+
+\bibitem[{May et~al.(forthcoming)May, Sinnott-Armstrong, Hull, and
+  Zimmerman}]{May2010}
+May, Joshua, Sinnott-Armstrong, Walter, Hull, Jay~G., and Zimmerman, Aaron.
+  forthcoming.
+\newblock \enquote{Practical Interests, Relevant Alternatives, and Knowledge
+  Attributions: an Empirical Study.}
+\newblock \emph{Review of Philosophy and Psychology} ,
+  \href{http://dx.doi.org/10.1007/s13164-009-0014-3}%
+{doi:10.1007/s13164-009-0014-3}.
+
+\bibitem[{Neta(2007)}]{Neta2007}
+Neta, Ram. 2007.
+\newblock \enquote{Anti-intellectualism and the Knowledge-Action Principle.}
+\newblock \emph{Philosophy and Phenomenological Research} 75:180--187,
+  \href{http://dx.doi.org/10.1111/j.1933-1592.2007.00069.x}%
+{doi:10.1111/j.1933-1592.2007.00069.x}.
+
+\bibitem[{Ramsey(1926)}]{RamseyTruthProb}
+Ramsey, Frank. 1926.
+\newblock \enquote{Truth and Probability.}
+\newblock In D.~H. Mellor (ed.), \emph{Philosophical Papers}, 52--94.
+  Cambridge: Cambridge University Press.
+
+\bibitem[{Russell and Doris(2009)}]{RussellDoris2008}
+Russell, Gillian and Doris, John~M. 2009.
+\newblock \enquote{Knowledge by Indifference.}
+\newblock \emph{Australasian Journal of Philosophy} 86:429--437,
+  \href{http://dx.doi.org/10.1080/00048400802001996}%
+{doi:10.1080/00048400802001996}.
+
+\bibitem[{Schroeder(2010)}]{SchroederStakes}
+Schroeder, Mark. 2010.
+\newblock \enquote{Stakes, Withholding and the Subject-Sensitivity of 'Knows'.}
+\newblock Retrieved from
+  \url{http://www-bcf.usc.edu/~maschroe/research/Schroeder_Stakes_and_Withhold%
+ing.pdf}.
+
+\bibitem[{Stanley(2005)}]{Stanley2005-STAKAP}
+Stanley, Jason. 2005.
+\newblock \emph{{Knowledge and Practical Interests}}.
+\newblock Oxford University Press.
+
+\bibitem[{Stanley and Szab\'o(2000)}]{Stanley2000-STAOQD}
+Stanley, Jason and Szab\'o, Zolt\'a{}n~Gendler. 2000.
+\newblock \enquote{{On Quantifier Domain Restriction}.}
+\newblock \emph{Mind and Language} 15:219--61,
+  \href{http://dx.doi.org/10.1111/1468-0017.00130}%
+{doi:10.1111/1468-0017.00130}.
+
+\bibitem[{Sturgeon(2008)}]{Sturgeon2008-STURAT}
+Sturgeon, Scott. 2008.
+\newblock \enquote{Reason and the Grain of Belief.}
+\newblock \emph{No\^{u}s} 42:139--165,
+  \href{http://dx.doi.org/10.1111/j.1468-0068.2007.00676.x}%
+{doi:10.1111/j.1468-0068.2007.00676.x}.
+
+\bibitem[{Turri(2010)}]{Turri2010}
+Turri, John. 2010.
+\newblock \enquote{On the Relationship between Propositional and Doxastic
+  Justification.}
+\newblock \emph{Philosophy and Phenomenological Research} 80:312--326,
+  \href{http://dx.doi.org/10.1111/j.1933-1592.2010.00331.x}%
+{doi:10.1111/j.1933-1592.2010.00331.x}.
+
+\bibitem[{Watson(1977)}]{Watson1977}
+Watson, Gary. 1977.
+\newblock \enquote{Skepticism about Weakness of Will.}
+\newblock \emph{Philosophical Review} 86:316--339,
+  \href{http://dx.doi.org/10.2307/2183785}%
+{doi:10.2307/2183785}.
+
+\bibitem[{Weatherson(2003)}]{Weatherson2003-WEAWGA}
+Weatherson, Brian. 2003.
+\newblock \enquote{{What Good Are Counterexamples?}}
+\newblock \emph{Philosophical Studies} 115:1--31,
+  \href{http://dx.doi.org/10.1023/A:1024961917413}%
+{doi:10.1023/A:1024961917413}.
+
+\bibitem[{Weatherson(2005)}]{Weatherson2005-WEACWD}
+---. 2005.
+\newblock \enquote{{Can We Do Without Pragmatic Encroachment?}}
+\newblock \emph{Philosophical Perspectives} 19:417--{}443,
+  \href{http://dx.doi.org/10.1111/j.1520-8583.2005.00068.x}%
+{doi:10.1111/j.1520-8583.2005.00068.x}.
+
+\bibitem[{Weatherson(2006)}]{Weatherson2006-WEAQC}
+---. 2006.
+\newblock \enquote{Questioning Contextualism.}
+\newblock In Stephen~Cade Hetherington (ed.), \emph{Epistemology Futures},
+  133--147. Oxford: Oxford University Press.
+
+\bibitem[{Williamson(1998)}]{Williamson1998-WILCOK}
+Williamson, Timothy. 1998.
+\newblock \enquote{{Conditionalizing on Knowledge}.}
+\newblock \emph{British Journal for the Philosophy of Science} 49:89--121,
+  \href{http://dx.doi.org/10.1093/bjps/49.1.89}%
+{doi:10.1093/bjps/49.1.89}.
+
+\bibitem[{Williamson(2000)}]{Williamson2000-WILKAI}
+---. 2000.
+\newblock \emph{{Knowledge and its Limits}}.
+\newblock Oxford University Press.
+
+\end{thebibliography}

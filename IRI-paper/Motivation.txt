@@ -1,0 +1,45 @@
+There are two primary motivations for IRI. One comes from intuitions about cases, the other from a pair of principles. It turns out the two are connected, but it helps to start seeing them separately.
+
+Jason [#Stanley2005;] starts with some versions of the 'bank cases' due originally to Keith [#DeRose1992;]. These turn on idiosyncratic, archaic details of the US payments system, and I find it hard to have clear intuitions about them. A cleaner pair of examples is provided by Angel [#Pinillos200x;]; here are slightly modified versions of his examples.
+
+> Ankita and Bojan each have an essay due. They have, surprisingly, written word for word identical papers, and are now checking the paper for typos. The paper has no typos, and each has checked their paper twice, with the same dictionary, and not found any typos. They are, in general, equally good at finding typos, and have true beliefs about their proficiency at typo-spotting.    
+>    
+> The only difference between them concerns the consequence of a typo remaining. If the paper is a borderline A/A- paper, a typo might mean Ankita gets an A- rather than an A. But the grade doesn't matter to her; she's already been accepted into a good graduate program next year so long as she gets above a C. But Bojan's instructor is a stickler for spelling. Any typo and he gets a C on the paper. And he has a very lucrative scholarship that he loses if he doesn't get at least a B on this paper. (Compare the XXX and YYY examples in [xx][#Pinillos200x;].)
+
+The intuition that helps IRI is that Ankita knows she has no typos in her paper, and should turn it in, while Bojan does not know this, and should do a third (and perhaps fourth or fifth) check. Contextualists have a hard time explaining this; in this very context I can say ''Ankita knows her paper has no typos, but Bojan does not know his paper has no typos''. If the intuition is right, it seems to support interest-relativity, since the difference in practical situation between Ankita and Bojan seems best placed to explain their epistemic difference.
+
+The 'principled' argument takes off from the idea that knowledge plays an important role in good deliberation, and that knowledge does not require maximal confidence. It is easiest to introduce with an example, though note that we aren't going to rely on epistemic intuitions about the example. Chika looked at the baseball scores last night before going to bed and saw that the Red Sox won. She remembers this when she wakes up, though she knows that she does sometimes misremember baseball scores. She is then faced with the following choice: take the red ticket, which she knows pays \$1 if the Red Sox won last night, and nothing otherwise or the blue ticket, which she knows pays \$1 iff 2+2=4. Now consider the following principle:
+
+K-Suff:
+    If _S_ knows that _p_, then _S_ can rationally take _p_ as given in practical deliberation.
+    
+The following trio seems to be inconsistent:
+
+1. Chika knows the Red Sox won last night.
+2. Chika is rationally required to take the blue ticket.
+3. K-Suff is true.
+
+By 1 and 3, Chika can take for granted that the Red Sox won last night. So the value of the red ticket, for her, is equal to its value conditional on the Red Sox winning. And that is \$1. So it is at least as valuable as the blue ticket. So she can't be rationally required to take the blue ticket. Hence the three propositions are inconsistent.
+
+This is worrying for two reasons. For one thing, it is intuitive that Chika knows that the Red Sox won. For another thing, it seems this form of argument generalises. For almost any proposition at all, if Chika knows the red ticket pays out iff that proposition is true, she should prefer the blue ticket. So she knows very little.
+
+How could this argument be resisted? One move, which we'll return to frequently, is to deny K-Suff. Maybe Chika's knowledge that the Red Sox won is insufficient; she needs to be certain, or to have some higher order knowledge. But denying K-Suff alone will not explain why Chika should take the blue ticket. After all, if K-Suff is false, the fact that Chika knows the payout terms of the tickets is not in itself a reason for her to choose the blue ticket. 
+
+So perhaps we could deny that she is rationally required to choose the blue ticket. This does seem extremely unintuitive to me. Intuitions around here do not seem maximally reliable, but this is a strong enough intuition to make it worthwhile to explore other options.
+
+And IRI provides a clever way out of the dilemma. Chika does not know the Red Sox won last night. But she did know that, before the choice was offered. Once she has that choice, her knowledge changes, and now she does not know. The intuition that she knows is explained by the fact that relative to a more normal choice set, she can take the Red Sox win as a given. And scepticism is averted because Chika does normally know a lot; it's just in the context of strange choices that she loses knowledge.
+
+The plotline here, that principles connecting knowledge and action run up against anti-sceptical principles in contrived choice situations, and that IRI provides a way out of the tangle, is familiar. It is, simplifying greatly, the plotline of both [#Hawthorne2004;] and [#FantlMcGrath2002, FantlMcGrath2009;]. It does rely on intuitions, but they are intuitions about choices (such as that Chika should choose the blue ticket), not about knowledge directly.
+
+Some discussions of IRI, especially that in [#HawthorneStanley2008;] use a converse principle. Following the naming convention suggested by Jessica [#Brown2013;], we'll call this K-Nec.
+
+K-Nec
+:    An agent can properly use _p_ as a reason for action only if she knows that _p_.
+
+I'll mostly set the discussion of K-Nec aside here. What I think is the best argument for IRI, the one involving Chika, merely relies on K-Suff. But K-Nec might be helpful for fixing a gap in the intuition-based argument for IRI.
+
+[#BuckwalterShaffer2015;] argue that the intuitions behind Pinillos's examples are not as solid as would be ideal to ground an argument for IRI. It's true that experimental subjects do say that Bojan has to check the paper more times than Ankita does before he knows that the paper contains no typos. But those subjects also say he has to check more times before he believes that the paper has no typos. And, surprisingly, they say that he has to check more time before he guesses the paper has no typos. They suggest that there might be interest-relativity in the modal 'has' as much as in the verb 'knows'. To say someone 'has' to X before they Y, typically means that it is improper, in some way, to Y without doing X first. That won't be a problem for the proponent of IRI as long as at least in some of the cases Pinillos studies, the relevant senses of propriety are connected to knowledge. And that's plausible for belief; Bojan has to know the paper is typo free before he (properly) believes it. At least, that's a plausible move given K-Nec.
+
+There is one other problem for the intuition based argument for IRI. Imagine that after two checks of the paper, we tell Bojan that Ankita has checked her paper in just the same way he has checked his. And we tell him that Ankita does not overly care whether her paper is typo-free, but is confident that it is. We then ask him, does Ankita know her paper is typo free? Many philosophers think Bojan should answer ''No'' here. And that isn't something IRI can explain. According to IRI, he should say, ''I don't know.'' He can't say Ankita does know, since he doesn't know their common paper has no typos. But it's hard to see why he should deny knowledge. Keith [xx][#DeRose2009;] thinks this case is particularly hard for IRI to explain, while Brian [#Kim2015;] offers some possible explanations. This objection doesn't tell against the claim that knowledge is interest-relative, but it does threaten the invariantism. An interest-relative contextualist should say that everyone should deny Bojan knows his paper is typo free, and Bojan should deny Ankita knows her paper is typo-free.
+
+

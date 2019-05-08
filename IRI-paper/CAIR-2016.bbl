@@ -1,0 +1,197 @@
+\newcommand{\SortNoop}[1]{}
+\begin{thebibliography}{33}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Adams(1998)}]{Adams1998}
+Adams, Ernest. 1998.
+\newblock \emph{A Primer on Probability Logic}.
+\newblock Palo Alto: CSLI.
+
+\bibitem[{Bradley(2000)}]{Bradley2000}
+Bradley, Richard. 2000.
+\newblock \enquote{A Preservation Condition for Conditionals.}
+\newblock \emph{Analysis} 60:219--222.
+
+\bibitem[{Cappelen(2008)}]{Cappelen2008}
+Cappelen, Herman. 2008.
+\newblock \enquote{Content Relativism.}
+\newblock In Manuel Garcia-Carpintero and Max K\"{o}lbel (eds.),
+  \emph{Relativising Utterance Truth}, 265--286. Oxford: Oxford University
+  Press.
+
+\bibitem[{Cappelen and Lepore(2005)}]{Cappelen2005}
+Cappelen, Herman and Lepore, Ernest. 2005.
+\newblock \emph{Insensitive Semantics: A Defence of Semantic Minimalism and
+  Speech Act Pluralism}.
+\newblock Oxford: Blackwell.
+
+\bibitem[{Egan et~al.(2005)Egan, Hawthorne, and Weatherson}]{Egan2005-EGAEMI}
+Egan, Andy, Hawthorne, John, and Weatherson, \&~Brian. 2005.
+\newblock \enquote{{Epistemic Modals in Context}.}
+\newblock In Gerhard Preyer and Georg Peter (eds.), \emph{Contextualism in
+  Philosophy: Knowledge, Meaning, and Truth}, 131--170. Oxford University
+  Press.
+
+\bibitem[{Einheuser(2008)}]{Einheuser2008}
+Einheuser, Iris. 2008.
+\newblock \enquote{Three Forms of Truth-Relativism.}
+\newblock In Manuel Garcia-Carpintero and Max K\"{o}lbel (eds.),
+  \emph{Relativising Utterance Truth}, 187--203. Oxford: Oxford University
+  Press.
+
+\bibitem[{Gillies(2009)}]{Gillies2009-GILOTF}
+Gillies, Anthony~S. 2009.
+\newblock \enquote{{On Truth-Conditions for If (but Not Quite Only If )}.}
+\newblock \emph{Philosophical Review} 118:325--349.
+
+\bibitem[{Grice(1989)}]{Grice1989}
+Grice, H.~Paul. 1989.
+\newblock \emph{Studies in the Way of Words}.
+\newblock Cambridge, MA.: Harvard University Press.
+
+\bibitem[{Kaplan(1989)}]{Kaplan1989}
+Kaplan, David. 1989.
+\newblock \enquote{Demonstratives.}
+\newblock In Joseph Almog, John Perry, and Howard Wettstein (eds.),
+  \emph{Themes from Kaplan}, 481--563. Oxford: Oxford University Press.
+
+\bibitem[{King and Stanley(2005)}]{KingStanley2005}
+King, Jeff and Stanley, Jason. 2005.
+\newblock \enquote{Semantics, Pragmatics and the Role of Semantic Content.}
+\newblock In Zoltan Szab\'{o} (ed.), \emph{Semantics vs Pragmatics}, 111--164.
+  Oxford: Oxford University Press.
+
+\bibitem[{K\"{o}lbel(2004)}]{Kolbel2004a}
+K\"{o}lbel, Max. 2004.
+\newblock \enquote{Indexical Relativism vs Genuine Relativism.}
+\newblock \emph{International Journal of Philosophical Studies} 12:297--313.
+
+\bibitem[{Lasersohn(2005)}]{Lasersohn2005}
+Lasersohn, Peter. 2005.
+\newblock \enquote{Context Dependence, Disagreement and Predicates of Personal
+  Taste.}
+\newblock \emph{Linguistics and Philosophy} 28:643--686.
+
+\bibitem[{Lewis(1973)}]{Lewis1973a}
+Lewis, David. 1973.
+\newblock \emph{Counterfactuals}.
+\newblock Oxford: Blackwell Publishers.
+
+\bibitem[{L\'{o}pez~de Sa(2007{\natexlab{a}})}]{LopezDeSaMs}
+L\'{o}pez~de Sa, Dan. 2007{\natexlab{a}}.
+\newblock \enquote{(Indexical) Relativism about Values: A Presuppositional
+  Defense.}
+
+\bibitem[{L\'{o}pez~de Sa(2007{\natexlab{b}})}]{LopezDeSa2007a}
+---. 2007{\natexlab{b}}.
+\newblock \enquote{The Many Relativisms and the Question of Disagreement.}
+\newblock \emph{International Journal of Philosophical Studies} 15:339--348.
+
+\bibitem[{L\'{o}pez~de Sa(2008)}]{LopezDeSa2008b}
+---. 2008.
+\newblock \enquote{Presuppositions of Commonality.}
+\newblock In Manuel Garcia-Carpintero and Max K\"{o}lbel (eds.),
+  \emph{Relativising Utterance Truth}, 297--310. Oxford University Press.
+
+\bibitem[{Lycan(1993)}]{Lycan1993}
+Lycan, William. 1993.
+\newblock \enquote{MPP, RIP.}
+\newblock \emph{Philosophical Perspectives} 7:411--428.
+
+\bibitem[{MacFarlane(2003)}]{MacFarlane2003-MACFCA-2}
+MacFarlane, John. 2003.
+\newblock \enquote{{Future Contingents and Relative Truth}.}
+\newblock \emph{Philosophical Quarterly} 53:321--336.
+
+\bibitem[{MacFarlane(2005)}]{MacFarlane2005-MACMSO}
+---. 2005.
+\newblock \enquote{{Making Sense of Relative Truth}.}
+\newblock \emph{Proceedings of the Aristotelian Society} 105:321--{}339.
+
+\bibitem[{Macfarlane(2007)}]{MacFarlane2007-SMNIC}
+Macfarlane, John. 2007.
+\newblock \enquote{Semantic Minimalism and Nonindexical Contextualism.}
+\newblock In Gerhard Preyer and Georg Peter (eds.), \emph{Context-Sensitivity
+  and Semantic Minimalism: New Essays on Semantics and Pragmatics}, 240--250.
+  Oxford University Press.
+
+\bibitem[{MacFarlane(2009)}]{MacFarlane2009-MACNC}
+MacFarlane, John. 2009.
+\newblock \enquote{{Nonindexical Contextualism}.}
+\newblock \emph{Synthese} 166:231--250.
+
+\bibitem[{McGee(1985)}]{McGee1985}
+McGee, Vann. 1985.
+\newblock \enquote{A Counterexample to Modus Ponens.}
+\newblock \emph{Journal of Philosophy} 82:462--471.
+
+\bibitem[{McKay(2006)}]{McKay2006}
+McKay, Thomas. 2006.
+\newblock \emph{Plural Predication}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Nolan(2003)}]{Nolan2003}
+Nolan, Daniel. 2003.
+\newblock \enquote{{Defending a Possible-Worlds Account of Indicative
+  Conditionals}.}
+\newblock \emph{Philosophical Studies} 116.
+
+\bibitem[{Partee(1989)}]{Partee1989}
+Partee, Barbara. 1989.
+\newblock \enquote{Binding Implicit Variables in Quantified Contexts.}
+\newblock In Caroline Wiltshire, Randolph Graczyk, and Bradley Music (eds.),
+  \emph{Papers from the Twenty-fifth Regional Meeting of the Chicago Linguistic
+  Society}, chapter 342-356. Chicago: Chicago Linguistic Society.
+\newblock Reprinted in \cite{Partee2004}.
+
+\bibitem[{Partee(2004)}]{Partee2004}
+---. 2004.
+\newblock \emph{Compositionality in Formal Semantics: Selected Papers by
+  Barbara H. Partee}.
+\newblock Oxford: Blackwell.
+
+\bibitem[{Sayre-McCord(1991)}]{SayreMcCord1991}
+Sayre-McCord, Geoffrey. 1991.
+\newblock \enquote{Being a Realist about Relativism (in Ethics).}
+\newblock \emph{Philosophical Studies} 61:155--176.
+
+\bibitem[{Schlenker(2003)}]{Schlenker2003}
+Schlenker, Philippe. 2003.
+\newblock \enquote{Indexicality, Logophoricity, and Plural Pronouns.}
+\newblock In Jacqueline Lecarme (ed.), \emph{Afroasiatic Grammar II: Selected
+  Papers from the Fifth Conference on Afroasiatic Languages, Paris, 2000},
+  409--428. Amsterdam: John Benjamins.
+
+\bibitem[{Stalnaker(1975)}]{Stalnaker1975-STAIC}
+Stalnaker, Robert. 1975.
+\newblock \enquote{{Indicative Conditionals}.}
+\newblock \emph{Philosophia} 5:269--286.
+
+\bibitem[{Stalnaker(1981)}]{Stalnaker1981}
+Stalnaker, Robert~C. 1981.
+\newblock \enquote{A Defence of Conditional Excluded Middle.}
+\newblock In William Harper, Robert~C. Stalnaker, and Glenn Pearce (eds.),
+  \emph{Ifs}, 87--104. Dordrecht: Reidel.
+
+\bibitem[{Stanley(2007)}]{Stanley2007-STALIC}
+Stanley, Jason. 2007.
+\newblock \emph{{Language in Context: Selected Essays}}.
+\newblock Oxford University Press.
+
+\bibitem[{Stephenson(2007)}]{Stephenson2007}
+Stephenson, Tamina. 2007.
+\newblock \enquote{Judge Dependence, Epistemic Modals, and Predicates of
+  Personal Taste.}
+\newblock \emph{Linguistics and Philosophy} 30:487--525.
+
+\bibitem[{Weatherson(2001)}]{Weatherson2001-WEAIAS}
+Weatherson, Brian. 2001.
+\newblock \enquote{{Indicative and Subjunctive Conditionals}.}
+\newblock \emph{Philosophical Quarterly} 51:200--216.
+
+\end{thebibliography}

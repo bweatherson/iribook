@@ -1,0 +1,89 @@
+\begin{thebibliography}{14}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Brown(2008)}]{Brown2008}
+Brown, Jessica. 2008.
+\newblock \enquote{Subject-Sensitive Invariantism and the Knowledge Norm for
+  Practical Reasoning.}
+\newblock \emph{No{\^u}s} 42: 167-189,
+  \href{http://dx.doi.org/10.1111/j.1468-0068.2008.00677.x}%
+{doi:10.1111/j.1468-0068.2008.00677.x}.
+
+\bibitem[{Carlsson and van Damme(1993)}]{CarlssonVanDamme1993}
+Carlsson, Hans and van Damme, Eric. 1993.
+\newblock \enquote{Global Games and Equilibrium Selection.}
+\newblock \emph{Econometrica} 61: 989-1018.
+
+\bibitem[{Fantl and McGrath(2009)}]{FantlMcGrath2009}
+Fantl, Jeremy and McGrath, Matthew. 2009.
+\newblock \emph{Knowledge in an Uncertain World}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Harsanyi and Selten(1988)}]{HarsanyiSelten1988}
+Harsanyi, John~C. and Selten, Reinhard. 1988.
+\newblock \emph{A General Theory of Equilibrium Selection in Games}.
+\newblock Cambridge, MA: {MIT} Press.
+
+\bibitem[{Hawthorne(2004)}]{Hawthorne2004}
+Hawthorne, John. 2004.
+\newblock \emph{Knowledge and Lotteries}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Ichikawa et~al.(2012)Ichikawa, Jarvis, and Rubin}]{IchikawaEtAl2012}
+Ichikawa, Jonathan~Jenkins, Jarvis, Benjamin, and Rubin, Katherine. 2012.
+\newblock \enquote{Pragmatic Encroachment and Belief-Desire Psychology.}
+\newblock \emph{Analytic Philosophy} 53: 327-343,
+  \href{http://dx.doi.org/10.1111/j.2153-960X.2012.00564.x}%
+{doi:10.1111/j.2153-960X.2012.00564.x}.
+
+\bibitem[{Lackey(2010)}]{Lackey2010}
+Lackey, Jennifer. 2010.
+\newblock \enquote{Acting on Knowledge.}
+\newblock \emph{Philosophical Perspectives} 24: 361-382.
+
+\bibitem[{Reed(2014)}]{Reed2014}
+Reed, Baron. 2014.
+\newblock \enquote{Practical Matters Do Not Affect Whether You Know.}
+\newblock In Matthias Steup, John Turri, and Ernest Sosa (eds.),
+  \emph{Contemporary Debates in Epistemology}, 95-106. Chicester:
+  Wiley-Blackwell, 2nd edition.
+
+\bibitem[{Rousseau(1913)}]{Rousseau1913}
+Rousseau, Jean-Jacques. 1913.
+\newblock \emph{Social Contract \& Discourses}.
+\newblock New York: J. M. Dent \& Sons.
+\newblock Translated by G. D. H. Cole.
+
+\bibitem[{Rubin(2015)}]{Rubin2015}
+Rubin, Katherine. 2015.
+\newblock \enquote{Total Pragmatic Encroachment and Epistemic Permissiveness.}
+\newblock \emph{Pacific Philosophical Quarterly} 96: 12-38,
+  \href{http://dx.doi.org/10.1111/papq.12060}%
+{doi:10.1111/papq.12060}.
+
+\bibitem[{Schwitzgebel(2008)}]{Schwitzgebel2008}
+Schwitzgebel, Eric. 2008.
+\newblock \enquote{The Unreliability of Naive Introspection.}
+\newblock \emph{{P}hilosophical {R}eview} 117: 245-273.
+
+\bibitem[{Stanley(2005)}]{Stanley2005}
+Stanley, Jason. 2005.
+\newblock \emph{{Knowledge and Practical Interests}}.
+\newblock Oxford University Press.
+
+\bibitem[{Williamson(2000)}]{Williamson2000}
+Williamson, Timothy. 2000.
+\newblock \emph{{Knowledge and its Limits}}.
+\newblock Oxford University Press.
+
+\bibitem[{Williamson(2007)}]{Williamson2007-WILTPO-17}
+---. 2007.
+\newblock \emph{{The Philosophy of Philosophy}}.
+\newblock Blackwell.
+
+\end{thebibliography}

@@ -1,0 +1,17 @@
+# Global or Partial
+
+So far I've described three ways to refine the defence of IRI.
+
+1. The motivation could come from cases or principles.
+2. The relevant feature that makes it hard to have knowledge could be that the agent faces a high-stakes choice, or a long-odds choice.
+3. Only practical interests may be relevant to knowledge, or theoretical interests may matter as well.
+
+For better or worse, the version of IRI I've defended has fairly clear commitments on all three; in each case, I prefer the latter option, though there are also good arguments for the former. From here on, I'm much less sure of the right way to refine IRI.
+
+IRI, like contextualism, was introduced as a thesis about knowledge. But it need not be restricted that way. It could be generalised to a number of other epistemically interesting notion. At the extreme, we could argue that every epistemologially interesting notion is interest-relative. Doing so gives us a global version of IRI.
+
+Jason [#Stanley2005;] comes close to defending a global version. He notes that if one has both IRI, and a 'knowledge first' epistemology [#Williamson2000], then one is a long way to towards globalism. Even if one doesn't accept the whole knowledge first package, but just accepts the thesis that evidence is all and only what one knows, then one is a long way towards globalism. After all, if evidence is interest-relative, then probability justification, rationality and evidential support are interest-relative too.
+
+Katherine [#Rubin2015;] objects to globalist versions of IRI. But the objections she gives turn, as she notes, on taking stakes not odds to be relevant. 
+
+If a non-global version of IRI could be made to work, it would have some theoretical advantages. It's nice to be able to say that Chika should take the blue ticket because the evidential probability of the Red Sox winning is lower tha the evidential probability of 

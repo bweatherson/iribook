@@ -1,0 +1,350 @@
+\newcommand{\SortNoop}[1]{}
+\begin{thebibliography}{53}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Blome-Tillmann(2009{\natexlab{a}})}]{MBT2009}
+Blome-Tillmann, Michael. 2009{\natexlab{a}}.
+\newblock \enquote{Contextualism, Subject-Sensitive Invariantism, and the
+  Interaction of `Knowledge'-Ascriptions with Modal and Temporal Operators.}
+\newblock \emph{Philosophy and Phenomenological Research} 79:315--331,
+  \href{http://dx.doi.org/10.1111/j.1933-1592.2009.00280.x}%
+{doi:10.1111/j.1933-1592.2009.00280.x}.
+
+\bibitem[{Blome-Tillmann(2009{\natexlab{b}})}]{MBT2009a}
+---. 2009{\natexlab{b}}.
+\newblock \enquote{Knowledge and Presuppositions.}
+\newblock \emph{Mind} 118:241--294,
+  \href{http://dx.doi.org/10.1093/mind/fzp032}%
+{doi:10.1093/mind/fzp032}.
+
+\bibitem[{Braddon-Mitchell and Jackson(2007)}]{DBMJackson2007}
+Braddon-Mitchell, David and Jackson, Frank. 2007.
+\newblock \emph{The Philosophy of Mind and Cognition, \textrm{second edition}}.
+\newblock Malden, MA: Blackwell.
+
+\bibitem[{Chalmers(2002)}]{Chalmers2002}
+Chalmers, David. 2002.
+\newblock \enquote{Does Conceivability Entail Possibility?}
+\newblock In Tamar~Szab\'{o} Gendler and John Hawthorne (eds.),
+  \emph{Conceivability and Possibility}, 145--200. Oxford: Oxford University
+  Press.
+
+\bibitem[{Christensen(2005)}]{Christensen2005}
+Christensen, David. 2005.
+\newblock \emph{Putting Logic in Its Place}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Coates(1996)}]{Coates1996}
+Coates, John. 1996.
+\newblock \emph{The Claims of Common Sense}.
+\newblock Cambridge: Cambridge University Press.
+
+\bibitem[{Cohen(1989)}]{Cohen1989}
+Cohen, L.~Jonathan. 1989.
+\newblock \enquote{Belief and Acceptance.}
+\newblock \emph{Mind} 98:367--389,
+  \href{http://dx.doi.org/10.1093/mind/XCVIII.391.367}%
+{doi:10.1093/mind/XCVIII.391.367}.
+
+\bibitem[{Cohen(1999)}]{Cohen1999}
+Cohen, Stewart. 1999.
+\newblock \enquote{Contextualism, Skepticism, and the Structure of Reasons.}
+\newblock \emph{Philosophical Perspectives} 13:57--89,
+  \href{http://dx.doi.org/10.1111/0029-4624.33.s13.3}%
+{doi:10.1111/0029-4624.33.s13.3}.
+
+\bibitem[{DeRose(2009)}]{DeRose2009}
+DeRose, Keith. 2009.
+\newblock \emph{The Case for Contextualism: Knowledge, Skepticism and Context}.
+\newblock Oxford: Oxford.
+
+\bibitem[{Evnine(1999)}]{Evnine1999}
+Evnine, Simon. 1999.
+\newblock \enquote{Believing Conjunctions.}
+\newblock \emph{Synthese} 118:201--227,
+  \href{http://dx.doi.org/10.1023/A:1005114419965}%
+{doi:10.1023/A:1005114419965}.
+
+\bibitem[{Fallon and Yale(2000)}]{FallonYale2000}
+Fallon, Steve and Yale, Pat. 2000.
+\newblock \emph{London}.
+\newblock Melbourne: Lonely Planet Publications, second edition.
+
+\bibitem[{Fantl and McGrath(2009)}]{FantlMcGrath2009}
+Fantl, Jeremy and McGrath, Matthew. 2009.
+\newblock \emph{Knowledge in an Uncertain World}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Fara(2000)}]{Fara2000}
+Fara, Delia~Graff. 2000.
+\newblock \enquote{Shifting Sands: An Interest-Relative Theory of Vagueness.}
+\newblock \emph{Philosophical Topics} 28:45--81.
+\newblock This paper was published under the name `Delia Graff'.
+
+\bibitem[{Feltz and Zarpentine(2010)}]{FeltzZarpentine2010}
+Feltz, Adam and Zarpentine, Chris. 2010.
+\newblock \enquote{Do You Know More When It Matters Less?}
+\newblock \emph{Philosophical Psychology} Retrieved from
+  \url{http://faculty.schreiner.edu/adfeltz/Papers/Know%20more.pdf}.
+
+\bibitem[{Foley(1993)}]{Foley1993}
+Foley, Richard. 1993.
+\newblock \emph{Working Without a Net}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Gendler and Hawthorne(2005)}]{Gendler2005}
+Gendler, Tamar~Szab\'{o} and Hawthorne, John. 2005.
+\newblock \enquote{The Real Guide to Fake Barns: A Catalogue of Gifts for Your
+  Epistemic Enemies.}
+\newblock \emph{Philosophical Studies} 124:331--352,
+  \href{http://dx.doi.org/10.1007/s11098-005-7779-8}%
+{doi:10.1007/s11098-005-7779-8}.
+
+\bibitem[{Gettier(1963)}]{Gettier1963}
+Gettier, Edmund~L. 1963.
+\newblock \enquote{Is Justified True Belief Knowledge?}
+\newblock \emph{Analysis} 23:121--123,
+  \href{http://dx.doi.org/10.2307/3326922}%
+{doi:10.2307/3326922}.
+
+\bibitem[{Ham et~al.(2008)Ham, Martin, and {Kohl III}}]{Ham2008}
+Ham, Sandra~A., Martin, Sarah, and {Kohl III}, Harold~W. 2008.
+\newblock \enquote{Changes in the percentage of students who walk or bike to
+  school-United States, 1969 and 2001.}
+\newblock \emph{Journal of Physical Activity and Health} 5:205--215.
+
+\bibitem[{Harman(1973)}]{Harman1973}
+Harman, Gilbert. 1973.
+\newblock \emph{Thought}.
+\newblock Princeton: Princeton University Press.
+
+\bibitem[{Harman(1986)}]{Harman1986}
+---. 1986.
+\newblock \emph{Change in View}.
+\newblock Cambridge, MA: Bradford.
+
+\bibitem[{Hawthorne(2004)}]{Hawthorne2004}
+Hawthorne, John. 2004.
+\newblock \emph{Knowledge and Lotteries}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Hawthorne and Stanley(2008)}]{Hawthorne2008-HAWKAA}
+Hawthorne, John and Stanley, Jason. 2008.
+\newblock \enquote{{Knowledge and Action}.}
+\newblock \emph{Journal of Philosophy} 105:571--90.
+
+\bibitem[{Hunter(1996)}]{Hunter1996}
+Hunter, Daniel. 1996.
+\newblock \enquote{On the Relation Between Categorical and Probabilistic
+  Belief.}
+\newblock \emph{No\^{u}s} 30:75--98, \href{http://dx.doi.org/10.2307/2216304}%
+{doi:10.2307/2216304}.
+
+\bibitem[{Kaplan(1996)}]{Kaplan1996}
+Kaplan, Mark. 1996.
+\newblock \emph{Decision Theory as Philosophy}.
+\newblock Cambridge: Cambridge University Press.
+
+\bibitem[{Kennett and Smith(1996{\natexlab{a}})}]{KennettSmith1996b}
+Kennett, Jeanette and Smith, Michael. 1996{\natexlab{a}}.
+\newblock \enquote{Frog and Toad Lose Control.}
+\newblock \emph{Analysis} 56:63--73,
+  \href{http://dx.doi.org/10.1111/j.0003-2638.1996.00063.x}%
+{doi:10.1111/j.0003-2638.1996.00063.x}.
+
+\bibitem[{Kennett and Smith(1996{\natexlab{b}})}]{KennettSmith1996a}
+---. 1996{\natexlab{b}}.
+\newblock \enquote{Philosophy and Commonsense: The Case of Weakness of Will.}
+\newblock In Michaelis Michael and John O'Leary-Hawthorne (eds.), \emph{The
+  Place of Philosophy in the Study of Mind}, 141--157. Norwell, MA: Kluwer,
+  \href{http://dx.doi.org/10.1017/CBO9780511606977.005}%
+{doi:10.1017/CBO9780511606977.005}.
+
+\bibitem[{Keynes(1936)}]{Keynes1936}
+Keynes, John~Maynard. 1936.
+\newblock \emph{The General Theory of Employment, Interest and Money}.
+\newblock London: Macmillan.
+
+\bibitem[{Lewis(1993)}]{Lewis1993c}
+Lewis, David. 1993.
+\newblock \enquote{Many, But Almost One.}
+\newblock In Keith Campbell, John Bacon, and Lloyd Reinhardt (eds.),
+  \emph{Ontology, Causality, and Mind: Essays on the Philosophy of {D. M.
+  Armstrong}}, 23--38. Cambridge: Cambridge University Press,
+  \href{http://dx.doi.org/10.1017/CBO9780511625343.010}%
+{doi:10.1017/CBO9780511625343.010}.
+\newblock \PME 164-182.
+
+\bibitem[{Lewis(1994)}]{Lewis1994b}
+---. 1994.
+\newblock \enquote{Reduction of Mind.}
+\newblock In Samuel Guttenplan (ed.), \emph{A Companion to the Philosophy of
+  Mind}, 412--431. Oxford: Blackwell,
+  \href{http://dx.doi.org/10.1017/CBO9780511625343.019}%
+{doi:10.1017/CBO9780511625343.019}.
+\newblock \PME 291-324.
+
+\bibitem[{Lewis(1996)}]{Lewis1996b}
+---. 1996.
+\newblock \enquote{Elusive Knowledge.}
+\newblock \emph{Australasian Journal of Philosophy} 74:549--567,
+  \href{http://dx.doi.org/10.1080/00048409612347521}%
+{doi:10.1080/00048409612347521}.
+\newblock \PME 418-446.
+
+\bibitem[{Lipsey and Lancaster(1956-1957)}]{LipseyLancaster}
+Lipsey, R.~G. and Lancaster, Kelvin. 1956-1957.
+\newblock \enquote{The General Theory of Second Best.}
+\newblock \emph{Review of Economic Studies} 24:11--32,
+  \href{http://dx.doi.org/10.2307/2296233}%
+{doi:10.2307/2296233}.
+
+\bibitem[{Machina(1976)}]{Machina1976}
+Machina, Kenton. 1976.
+\newblock \enquote{Truth, Belief and Vagueness.}
+\newblock \emph{Journal of Philosophical Logic} 5:47--78,
+  \href{http://dx.doi.org/10.1007/BF00263657}%
+{doi:10.1007/BF00263657}.
+
+\bibitem[{Maitra(2010)}]{MaitraANG}
+Maitra, Ishani. 2010.
+\newblock \enquote{Assertion, Norms and Games.}
+
+\bibitem[{Maitra and Weatherson(2010)}]{MaitraWeatherson}
+Maitra, Ishani and Weatherson, Brian. 2010.
+\newblock \enquote{Assertion, Knowledge and Action.}
+\newblock \emph{Philosophical Studies} ,
+  \href{http://dx.doi.org/10.1007/s11098-010-9542-z}%
+{doi:10.1007/s11098-010-9542-z}.
+
+\bibitem[{May et~al.(forthcoming)May, Sinnott-Armstrong, Hull, and
+  Zimmerman}]{May2010}
+May, Joshua, Sinnott-Armstrong, Walter, Hull, Jay~G., and Zimmerman, Aaron.
+  forthcoming.
+\newblock \enquote{Practical Interests, Relevant Alternatives, and Knowledge
+  Attributions: an Empirical Study.}
+\newblock \emph{Review of Philosophy and Psychology} ,
+  \href{http://dx.doi.org/10.1007/s13164-009-0014-3}%
+{doi:10.1007/s13164-009-0014-3}.
+
+\bibitem[{Portmore(2009)}]{Portmore2009}
+Portmore, Douglas. 2009.
+\newblock \enquote{Consequentializing.}
+\newblock \emph{Philosophy Compass} 4:329--347,
+  \href{http://dx.doi.org/10.1111/j.1747-9991.2009.00198.x}%
+{doi:10.1111/j.1747-9991.2009.00198.x}.
+
+\bibitem[{Russell and Doris(2009)}]{RussellDoris2008}
+Russell, Gillian and Doris, John~M. 2009.
+\newblock \enquote{Knowledge by Indifference.}
+\newblock \emph{Australasian Journal of Philosophy} 86:429--437,
+  \href{http://dx.doi.org/10.1080/00048400802001996}%
+{doi:10.1080/00048400802001996}.
+
+\bibitem[{Ryle(1949)}]{Ryle1949}
+Ryle, Gilbert. 1949.
+\newblock \emph{The Concept of Mind}.
+\newblock New York: Barnes and Noble.
+
+\bibitem[{Schroeder(2008)}]{SchroederStakes}
+Schroeder, Mark. 2008.
+\newblock \enquote{Stakes, Withholding and the Subject-Sensitivity of 'Knows'.}
+\newblock Retrieved from
+  \url{http://www-rcf.usc.edu/~maschroe/research/Schroeder_Stakes_and_Withhold%
+ing.pdf}.
+
+\bibitem[{Stalnaker(1984)}]{Stalnaker1984}
+Stalnaker, Robert. 1984.
+\newblock \emph{Inquiry}.
+\newblock Cambridge, MA: MIT Press.
+
+\bibitem[{Stanley(2005{\natexlab{a}})}]{Stanley2005-STAKAP}
+Stanley, Jason. 2005{\natexlab{a}}.
+\newblock \emph{{Knowledge and Practical Interests}}.
+\newblock Oxford University Press.
+
+\bibitem[{Stanley(2005{\natexlab{b}})}]{Stanley2005}
+---. 2005{\natexlab{b}}.
+\newblock \emph{Knowledge and Practical Interests}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Stanley and Szab\'o(2000)}]{Stanley2000-STAOQD}
+Stanley, Jason and Szab\'o, Zolt\'a{}n~Gendler. 2000.
+\newblock \enquote{{On Quantifier Domain Restriction}.}
+\newblock \emph{Mind and Language} 15:219--61,
+  \href{http://dx.doi.org/10.1111/1468-0017.00130}%
+{doi:10.1111/1468-0017.00130}.
+
+\bibitem[{Sturgeon(2008)}]{Sturgeon2008}
+Sturgeon, Scott. 2008.
+\newblock \enquote{Reason and the Grain of Belief.}
+\newblock \emph{No\^{u}s} 42:139--165,
+  \href{http://dx.doi.org/10.1111/j.1468-0068.2007.00676.x}%
+{doi:10.1111/j.1468-0068.2007.00676.x}.
+
+\bibitem[{Turri(2010)}]{Turri2010}
+Turri, John. 2010.
+\newblock \enquote{On the Relationship between Propositional and Doxastic
+  Justification.}
+\newblock \emph{Philosophy and Phenomenological Research} 80:312--326,
+  \href{http://dx.doi.org/10.1111/j.1933-1592.2010.00331.x}%
+{doi:10.1111/j.1933-1592.2010.00331.x}.
+
+\bibitem[{Watson(1977)}]{Watson1977}
+Watson, Gary. 1977.
+\newblock \enquote{Skepticism about Weakness of Will.}
+\newblock \emph{Philosophical Review} 86:316--339,
+  \href{http://dx.doi.org/10.2307/2183785}%
+{doi:10.2307/2183785}.
+
+\bibitem[{Weatherson(2002)}]{Weatherson2002-WEAKUA}
+Weatherson, Brian. 2002.
+\newblock \enquote{Keynes, Uncertainty and Interest Rates.}
+\newblock \emph{Cambridge Journal of Economics} 26:47--62,
+  \href{http://dx.doi.org/10.1093/cje/26.1.47}%
+{doi:10.1093/cje/26.1.47}.
+
+\bibitem[{Weatherson(2005{\natexlab{a}})}]{Weatherson2005-WEACWD}
+---. 2005{\natexlab{a}}.
+\newblock \enquote{{Can We Do Without Pragmatic Encroachment?}}
+\newblock \emph{Philosophical Perspectives} 19:417--{}443,
+  \href{http://dx.doi.org/10.1111/j.1520-8583.2005.00068.x}%
+{doi:10.1111/j.1520-8583.2005.00068.x}.
+
+\bibitem[{Weatherson(2005{\natexlab{b}})}]{Weatherson2005-WEATTT}
+---. 2005{\natexlab{b}}.
+\newblock \enquote{{True, Truer, Truest}.}
+\newblock \emph{Philosophical Studies} 123:47--70,
+  \href{http://dx.doi.org/10.1007/s11098-004-5218-x}%
+{doi:10.1007/s11098-004-5218-x}.
+
+\bibitem[{Weatherson(2007)}]{Weatherson2007}
+---. 2007.
+\newblock \enquote{The Bayesian and the Dogmatist.}
+\newblock \emph{Proceedings of the Aristotelian Society} 107:169--185,
+  \href{http://dx.doi.org/10.1111/j.1467-9264.2007.00217.x}%
+{doi:10.1111/j.1467-9264.2007.00217.x}.
+
+\bibitem[{Williamson(1994)}]{Williamson1994-WILV}
+Williamson, Timothy. 1994.
+\newblock \emph{{Vagueness}}.
+\newblock Routledge.
+
+\bibitem[{Williamson(1998)}]{Williamson1998-WILCOK}
+---. 1998.
+\newblock \enquote{{Conditionalizing on Knowledge}.}
+\newblock \emph{British Journal for the Philosophy of Science} 49:89--121,
+  \href{http://dx.doi.org/10.1093/bjps/49.1.89}%
+{doi:10.1093/bjps/49.1.89}.
+
+\bibitem[{Williamson(2000)}]{Williamson2000-WILKAI}
+---. 2000.
+\newblock \emph{{Knowledge and its Limits}}.
+\newblock Oxford University Press.
+
+\end{thebibliography}

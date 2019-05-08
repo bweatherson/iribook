@@ -1,0 +1,556 @@
+\newcommand{\SortNoop}[1]{}
+\begin{thebibliography}{85}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Anderson and Hawthorne(2019{\natexlab{a}})}]{AndersonHawthorne2019a}
+Anderson, Charity and Hawthorne, John. 2019{\natexlab{a}}.
+\newblock \enquote{Knowledge, Practical Adequacy, and Stakes.}
+\newblock \emph{Oxford Studies in Epistemology} 6: 234-257.
+
+\bibitem[{Anderson and Hawthorne(2019{\natexlab{b}})}]{AndersonHawthorne2019b}
+---. 2019{\natexlab{b}}.
+\newblock \enquote{Pragmatic Encroachment and Closure.}
+\newblock In  \cite{KimMcGrath}, 107-115.
+
+\bibitem[{Armour{-}Garb(2011)}]{ArmourGarb2011}
+Armour{-}Garb, B. 2011.
+\newblock \enquote{Contextualism Without Pragmatic Encroachment.}
+\newblock \emph{Analysis} 71: 667-676,
+  \href{http://dx.doi.org/10.1093/analys/anr083}%
+{doi:10.1093/analys/anr083}.
+
+\bibitem[{Aumann(1999)}]{Aumann1999}
+Aumann, Robert~J. 1999.
+\newblock \enquote{Interactive Epistemology I: Knowledge.}
+\newblock \emph{International Journal of Game Theory} 28: 263-300,
+  \href{http://dx.doi.org/10.1007/s001820050111}%
+{doi:10.1007/s001820050111}.
+
+\bibitem[{Bhatt(1999)}]{Bhatt1999}
+Bhatt, Rajesh. 1999.
+\newblock \emph{Covert Modality in Non-finite Contexts}.
+\newblock Ph.D. thesis, University of Pennsylvania.
+
+\bibitem[{Binmore(2007)}]{Binmore2007}
+Binmore, Ken. 2007.
+\newblock \emph{Playing for Real: A Text on Game Theory}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Boyd(2016)}]{Boyd2015}
+Boyd, Kenneth. 2016.
+\newblock \enquote{Pragmatic Encroachment and Epistemically Responsible
+  Action.}
+\newblock \emph{Synthese} 193: 2721-2745,
+  \href{http://dx.doi.org/10.1007/s11229-015-0878-y}%
+{doi:10.1007/s11229-015-0878-y}.
+
+\bibitem[{Brown(2008)}]{Brown2008}
+Brown, Jessica. 2008.
+\newblock \enquote{Subject-Sensitive Invariantism and the Knowledge Norm for
+  Practical Reasoning.}
+\newblock \emph{No{\^u}s} 42: 167-189,
+  \href{http://dx.doi.org/10.1111/j.1468-0068.2008.00677.x}%
+{doi:10.1111/j.1468-0068.2008.00677.x}.
+
+\bibitem[{Carlsson and van Damme(1993)}]{CarlssonVanDamme1993}
+Carlsson, Hans and van Damme, Eric. 1993.
+\newblock \enquote{Global Games and Equilibrium Selection.}
+\newblock \emph{Econometrica} 61: 989-1018,
+  \href{http://dx.doi.org/10.2307/2951491}%
+{doi:10.2307/2951491}.
+
+\bibitem[{Christensen(2005)}]{Christensen2005}
+Christensen, David. 2005.
+\newblock \emph{Putting Logic in Its Place}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Clark(2012)}]{Clark2012}
+Clark, Christopher. 2012.
+\newblock \emph{The Sleepwalkers: How Europe Went to War in 1914}.
+\newblock New York: Harper Collins.
+
+\bibitem[{Cohen(2004)}]{Cohen2004}
+Cohen, Stewart. 2004.
+\newblock \enquote{Knowledge, assertion, and practical reasoning.}
+\newblock \emph{Philosophical Issues} 14: 482-491,
+  \href{http://dx.doi.org/10.1111/j.1533-6077.2004.00040.x}%
+{doi:10.1111/j.1533-6077.2004.00040.x}.
+
+\bibitem[{Cross and Roelofsen(2018)}]{sep-questions}
+Cross, Charles and Roelofsen, Floris. 2018.
+\newblock \enquote{Questions.}
+\newblock In Edward~N. Zalta (ed.), \emph{The Stanford Encyclopedia of
+  Philosophy}. Metaphysics Research Lab, Stanford University, spring 2018
+  edition.
+
+\bibitem[{DeRose(2002)}]{DeRose2002}
+DeRose, Keith. 2002.
+\newblock \enquote{Assertion, Knowledge and Context.}
+\newblock \emph{Philosophical Review} 111: 167-203,
+  \href{http://dx.doi.org/10.2307/3182618}%
+{doi:10.2307/3182618}.
+
+\bibitem[{Dixit and Skeath(2004)}]{DixitSkeath2004}
+Dixit, Avinash~K. and Skeath, Susan. 2004.
+\newblock \emph{Games of Strategy}.
+\newblock New York: W. W. Norton \& Company, second edition.
+
+\bibitem[{Evnine(1999)}]{Evnine1999}
+Evnine, Simon. 1999.
+\newblock \enquote{Believing Conjunctions.}
+\newblock \emph{Synthese} 118: 201-227,
+  \href{http://dx.doi.org/10.1023/A:1005114419965}%
+{doi:10.1023/A:1005114419965}.
+
+\bibitem[{Fantl and McGrath(2002)}]{FantlMcGrath2002}
+Fantl, Jeremy and McGrath, Matthew. 2002.
+\newblock \enquote{Evidence, Pragmatics, and Justification.}
+\newblock \emph{Philosophical Review} 111: 67-94,
+  \href{http://dx.doi.org/10.2307/3182570}%
+{doi:10.2307/3182570}.
+
+\bibitem[{Fantl and McGrath(2009)}]{FantlMcGrath2009}
+---. 2009.
+\newblock \emph{Knowledge in an Uncertain World}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Foley(1993)}]{Foley1993}
+Foley, Richard. 1993.
+\newblock \emph{Working Without a Net}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Ganson(2008)}]{Ganson2008}
+Ganson, Dorit. 2008.
+\newblock \enquote{Evidentialism and Pragmatic Constraints on Outright Belief.}
+\newblock \emph{Philosophical Studies} 139: 441-458,
+  \href{http://dx.doi.org/10.1007/s11098-007-9133-9}%
+{doi:10.1007/s11098-007-9133-9}.
+
+\bibitem[{Ganson(2019)}]{Ganson2019}
+---. 2019.
+\newblock \enquote{Great Expectations: Belief and the Case for Pragmatic
+  Encroachment.}
+\newblock In  \cite{KimMcGrath}.
+
+\bibitem[{Gendler and Hawthorne(2005)}]{Gendler2005}
+Gendler, Tamar~Szab\'{o} and Hawthorne, John. 2005.
+\newblock \enquote{The Real Guide to Fake Barns: A Catalogue of Gifts for Your
+  Epistemic Enemies.}
+\newblock \emph{Philosophical Studies} 124: 331-352,
+  \href{http://dx.doi.org/10.1007/s11098-005-7779-8}%
+{doi:10.1007/s11098-005-7779-8}.
+
+\bibitem[{Gettier(1963)}]{Gettier1963}
+Gettier, Edmund~L. 1963.
+\newblock \enquote{Is Justified True Belief Knowledge?}
+\newblock \emph{Analysis} 23: 121-123,
+  \href{http://dx.doi.org/10.2307/3326922}%
+{doi:10.2307/3326922}.
+
+\bibitem[{Gillies(2010)}]{Gillies2010}
+Gillies, Anthony~S. 2010.
+\newblock \enquote{Iffiness.}
+\newblock \emph{Semantics and Pragmatics} 3: 1-42,
+  \href{http://dx.doi.org/10.3765/sp.3.4}%
+{doi:10.3765/sp.3.4}.
+
+\bibitem[{Harman(1973)}]{Harman1973}
+Harman, Gilbert. 1973.
+\newblock \emph{Thought}.
+\newblock Princeton: Princeton University Press.
+
+\bibitem[{Harman(1986)}]{Harman1986}
+---. 1986.
+\newblock \emph{Change in View}.
+\newblock Cambridge, MA: Bradford.
+
+\bibitem[{Hawthorne(2004)}]{Hawthorne2004}
+Hawthorne, John. 2004.
+\newblock \emph{Knowledge and Lotteries}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Heal(1994)}]{Heal1994}
+Heal, Jane. 1994.
+\newblock \enquote{Moore's paradox: A Wittgensteinian approach.}
+\newblock \emph{Mind} 103: 5-24,
+  \href{http://dx.doi.org/10.1093/mind/103.409.5}%
+{doi:10.1093/mind/103.409.5}.
+
+\bibitem[{Humberstone(1981)}]{Humberstone1981}
+Humberstone, I.~L. 1981.
+\newblock \enquote{From Worlds to Possibilities.}
+\newblock \emph{Journal of Philosophical Logic} 10: 313-339,
+  \href{http://dx.doi.org/10.1007/BF00293423}%
+{doi:10.1007/BF00293423}.
+
+\bibitem[{Hunter(1996)}]{Hunter1996}
+Hunter, Daniel. 1996.
+\newblock \enquote{On the Relation Between Categorical and Probabilistic
+  Belief.}
+\newblock \emph{No{\^u}s} 30: 75-98, \href{http://dx.doi.org/10.2307/2216304}%
+{doi:10.2307/2216304}.
+
+\bibitem[{Kelly(2010)}]{Kelly2010-KELPDA}
+Kelly, Thomas. 2010.
+\newblock \enquote{Peer disagreement and higher order evidence.}
+\newblock In Ted Warfield and Richard Feldman (eds.), \emph{Disagreement},
+  111-174. Oxford: Oxford University Press.
+
+\bibitem[{Kim and McGrath(2019)}]{KimMcGrath}
+Kim, Brian and McGrath, Matthew (eds.). 2019.
+\newblock \emph{Pragmatic Encroachment in Epistemology}.
+\newblock New York: Routledge.
+
+\bibitem[{Kohlberg and Mertens(1986)}]{KohlbergMertens1986}
+Kohlberg, Elon and Mertens, Jean-Francois. 1986.
+\newblock \enquote{On the Strategic Stability of Equilibria.}
+\newblock \emph{Econometrica} 54: 1003-1037,
+  \href{http://dx.doi.org/10.2307/1912320}%
+{doi:10.2307/1912320}.
+
+\bibitem[{Kratzer(2012)}]{Kratzer2012}
+Kratzer, Angelika. 2012.
+\newblock \emph{Modals and Conditionals}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Lasonen-Aarnio(2010)}]{Lasonen-Aarnio2010b}
+Lasonen-Aarnio, Maria. 2010.
+\newblock \enquote{Unreasonable Knowledge.}
+\newblock \emph{Philosophical Perspectives} 24: 1-21,
+  \href{http://dx.doi.org/10.1111/j.1520-8583.2010.00183.x}%
+{doi:10.1111/j.1520-8583.2010.00183.x}.
+
+\bibitem[{Lasonen-Aarnio(2014)}]{Lasonen-Aarnio2014}
+---. 2014.
+\newblock \enquote{Higher-Order Evidence and the Limits of Defeat.}
+\newblock \emph{Philosophy and Phenomenological Research} 88: 314-345,
+  \href{http://dx.doi.org/10.1111/phpr.12090}%
+{doi:10.1111/phpr.12090}.
+
+\bibitem[{Lee(2017{\natexlab{a}})}]{Lee2017b}
+Lee, Matthew. 2017{\natexlab{a}}.
+\newblock \enquote{On the Arbitrariness Objection to the Threshold View.}
+\newblock \emph{Dialogue} 56: 143-158,
+  \href{http://dx.doi.org/10.1017/S0012217317000154}%
+{doi:10.1017/S0012217317000154}.
+
+\bibitem[{Lee(2017{\natexlab{b}})}]{Lee2017a}
+Lee, Matthew~Brandon. 2017{\natexlab{b}}.
+\newblock \enquote{Credence and Correctness: In Defense of Credal Reductivism.}
+\newblock \emph{Philosophical Papers} 46: 273-296,
+  \href{http://dx.doi.org/10.1080/05568641.2017.1364142}%
+{doi:10.1080/05568641.2017.1364142}.
+
+\bibitem[{Lewis(1976)}]{Lewis1976b}
+Lewis, David. 1976.
+\newblock \enquote{Probabilities of Conditionals and Conditional
+  Probabilities.}
+\newblock \emph{Philosophical Review} 85: 297-315,
+  \href{http://dx.doi.org/10.2307/2184045}%
+{doi:10.2307/2184045}.
+\newblock \PPII 133-152.
+
+\bibitem[{Lewis(1982)}]{Lewis1982c}
+---. 1982.
+\newblock \enquote{Logic for Equivocators.}
+\newblock \emph{No{\^u}s} 16: 431-441,
+  \href{http://dx.doi.org/10.1017/cbo9780511625237.009}%
+{doi:10.1017/cbo9780511625237.009}.
+\newblock \PPL 97-110.
+
+\bibitem[{Lewis(1986)}]{Lewis1986h}
+---. 1986.
+\newblock \enquote{Probabilities of Conditionals and Conditional Probabilities
+  {II}.}
+\newblock \emph{Philosophical Review} 95: 581-589,
+  \href{http://dx.doi.org/10.2307/2185051}%
+{doi:10.2307/2185051}.
+\newblock \PPL 57-65.
+
+\bibitem[{Lewis(1988)}]{Lewis1988}
+---. 1988.
+\newblock \enquote{Desire as Belief.}
+\newblock \emph{Mind} 97: 323-332,
+  \href{http://dx.doi.org/10.1093/mind/xcvii.387.323}%
+{doi:10.1093/mind/xcvii.387.323}.
+
+\bibitem[{Lewis(1996)}]{Lewis1996}
+---. 1996.
+\newblock \enquote{Desire as Belief {II}.}
+\newblock \emph{Mind} 105: 303-313,
+  \href{http://dx.doi.org/10.1093/mind/105.418.303}%
+{doi:10.1093/mind/105.418.303}.
+
+\bibitem[{Lewis(2004)}]{Lewis2004a}
+---. 2004.
+\newblock \enquote{Causation as Influence.}
+\newblock In John Collins, Ned Hall, and L.~A. Paul (eds.), \emph{Causation and
+  Counterfactuals}, 75-106. Cambridge: {MIT} Press.
+
+\bibitem[{Maitra(2010)}]{Maitra2010}
+Maitra, Ishani. 2010.
+\newblock \enquote{Assertion, Norms and Games.}
+\newblock In Jessica Brown and Herman Cappelen (eds.), \emph{Assertion: New
+  Philosophical Essays}, 277-296. Oxford: Oxford University Press.
+
+\bibitem[{Maitra and Weatherson(2010{\natexlab{a}})}]{MaitraWeatherson2010}
+Maitra, Ishani and Weatherson, Brian. 2010{\natexlab{a}}.
+\newblock \enquote{Assertion, Knowledge and Action.}
+\newblock \emph{Philosophical Studies} 149: 99-118,
+  \href{http://dx.doi.org/10.1007/s11098-010-9542-z}%
+{doi:10.1007/s11098-010-9542-z}.
+
+\bibitem[{Maitra and Weatherson(2010{\natexlab{b}})}]{MaitraWeatherson}
+---. 2010{\natexlab{b}}.
+\newblock \enquote{Assertion, Knowledge and Action.}
+\newblock \emph{Philosophical Studies} 149: 99-118,
+  \href{http://dx.doi.org/10.1007/s11098-010-9542-z}%
+{doi:10.1007/s11098-010-9542-z}.
+
+\bibitem[{McGrath and Kim(2019)}]{McGrathKim2019}
+McGrath, Matthew and Kim, Brian. 2019.
+\newblock \enquote{Introduction.}
+\newblock In  \cite{KimMcGrath}, 1-9.
+
+\bibitem[{Nagel(2008)}]{Nagel2008}
+Nagel, Jennifer. 2008.
+\newblock \enquote{Knowledge ascriptions and the psychological consequences of
+  changing stakes.}
+\newblock \emph{Australasian Journal of Philosophy} 86: 279-294,
+  \href{http://dx.doi.org/10.1080/00048400801886397}%
+{doi:10.1080/00048400801886397}.
+
+\bibitem[{Nagel(2010)}]{Nagel2010}
+---. 2010.
+\newblock \enquote{Epistemic Anxiety and Adaptive Invariantism.}
+\newblock \emph{Philosophical Perspectives} 24: 407-435,
+  \href{http://dx.doi.org/10.1111/j.1520-8583.2010.00198.x}%
+{doi:10.1111/j.1520-8583.2010.00198.x}.
+
+\bibitem[{Nagel(2013)}]{Nagel2013-Williamson}
+---. 2013.
+\newblock \enquote{Motivating Williamson's Model Gettier Cases.}
+\newblock \emph{Inquiry} 56: 54-62,
+  \href{http://dx.doi.org/10.1080/0020174X.2013.775014}%
+{doi:10.1080/0020174X.2013.775014}.
+
+\bibitem[{Nagel(2014)}]{Nagel2014}
+---. 2014.
+\newblock \emph{Knowledge: A Very Short Introduction}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{North(2010)}]{North2010}
+North, Jill. 2010.
+\newblock \enquote{An empirical approach to symmetry and probability.}
+\newblock \emph{Studies In History and Philosophy of Science Part B: Studies In
+  History and Philosophy of Modern Physics} 41: 27-40,
+  \href{http://dx.doi.org/10.1016/j.shpsb.2009.08.008}%
+{doi:10.1016/j.shpsb.2009.08.008}.
+
+\bibitem[{Nozick(1981)}]{Nozick1981}
+Nozick, Robert. 1981.
+\newblock \emph{Philosophical Explorations}.
+\newblock Cambridge, MA: Harvard University Press.
+
+\bibitem[{Ramsey(1990)}]{RamseyGeneralProp}
+Ramsey, Frank. 1990.
+\newblock \enquote{General Propositions and Causality.}
+\newblock In D.~H. Mellor (ed.), \emph{Philosophical Papers}, 145-163.
+  Cambridge: Cambridge University Press.
+
+\bibitem[{Richter(1984)}]{Richter1984}
+Richter, Reed. 1984.
+\newblock \enquote{Rationality Revisited.}
+\newblock \emph{Australasian Journal of Philosophy} 62: 393-404,
+  \href{http://dx.doi.org/10.1080/00048408412341601}%
+{doi:10.1080/00048408412341601}.
+
+\bibitem[{Ross and Schroeder(2014{\natexlab{a}})}]{RossSchroeder2014}
+Ross, Jacob and Schroeder, Mark. 2014{\natexlab{a}}.
+\newblock \enquote{Belief, Credence, and Pragmatic Encroachment.}
+\newblock \emph{Philosophy and Phenomenological Research} 88: 259-288,
+  \href{http://dx.doi.org/10.1111/j.1933-1592.2011.00552.x}%
+{doi:10.1111/j.1933-1592.2011.00552.x}.
+
+\bibitem[{Ross and Schroeder(2014{\natexlab{b}})}]{SchroederRoss2012}
+---. 2014{\natexlab{b}}.
+\newblock \enquote{Belief, Credence, and Pragmatic Encroachment.}
+\newblock \emph{Philosophy and Phenomenological Research} 88: 259-288,
+  \href{http://dx.doi.org/10.1111/j.1933-1592.2011.00552.x}%
+{doi:10.1111/j.1933-1592.2011.00552.x}.
+
+\bibitem[{Rousseau(1913)}]{Rousseau1913}
+Rousseau, Jean-Jacques. 1913.
+\newblock \emph{Social Contract \& Discourses}.
+\newblock New York: J. M. Dent \& Sons.
+\newblock Translated by G. D. H. Cole.
+
+\bibitem[{Ryle(1949)}]{Ryle1949}
+Ryle, Gilbert. 1949.
+\newblock \emph{The Concept of Mind}.
+\newblock New York: Barnes and Noble.
+
+\bibitem[{Schoenfield(2013)}]{Schoenfield2013}
+Schoenfield, Miriam. 2013.
+\newblock \enquote{Permission to Believe: Why Permissivism Is True and What It
+  Tells Us About Irrelevant Influences on Belief.}
+\newblock \emph{No{\^u}s} 47: 193-218,
+  \href{http://dx.doi.org/10.1111/nous.12006}%
+{doi:10.1111/nous.12006}.
+
+\bibitem[{Schwitzgebel(2008)}]{Schwitzgebel2008}
+Schwitzgebel, Eric. 2008.
+\newblock \enquote{The Unreliability of Naive Introspection.}
+\newblock \emph{Philosophical Review} 117: 245-273,
+  \href{http://dx.doi.org/10.1215/00318108-2007-037}%
+{doi:10.1215/00318108-2007-037}.
+
+\bibitem[{Sorensen(1988)}]{Sorensen1988}
+Sorensen, Roy~A. 1988.
+\newblock \emph{Blindspots}.
+\newblock Oxford: Clarendon Press.
+
+\bibitem[{Sperber et~al.(2010)Sperber, Cl\'ement, Heintz, Mascaro, Mercier,
+  Origgi, and Wilson}]{SperberEtAl2010}
+Sperber, Dan, Cl\'ement, Fabrice, Heintz, Christophe, Mascaro, Olivier,
+  Mercier, Hugo, Origgi, Gloria, and Wilson, Deirdre. 2010.
+\newblock \enquote{Epistemic Vigilance.}
+\newblock \emph{Mind and Language} 25: 359-393,
+  \href{http://dx.doi.org/10.1111/j.1468-0017.2010.01394.x}%
+{doi:10.1111/j.1468-0017.2010.01394.x}.
+
+\bibitem[{Stalnaker(1984)}]{Stalnaker1984}
+Stalnaker, Robert. 1984.
+\newblock \emph{Inquiry}.
+\newblock Cambridge, MA: MIT Press.
+
+\bibitem[{Stalnaker(1994)}]{Stalnaker1994}
+---. 1994.
+\newblock \enquote{On the evaluation of solution concepts.}
+\newblock \emph{Theory and Decision} 37: 49-73,
+  \href{http://dx.doi.org/10.1007/BF01079205}%
+{doi:10.1007/BF01079205}.
+
+\bibitem[{Stalnaker(1996)}]{Stalnaker1996}
+---. 1996.
+\newblock \enquote{Knowledge, Belief and Counterfactual Reasoning in Games.}
+\newblock \emph{Economics and Philosophy} 12: 133-163,
+  \href{http://dx.doi.org/10.1017/S0266267100004132}%
+{doi:10.1017/S0266267100004132}.
+
+\bibitem[{Stalnaker(1998)}]{Stalnaker1998}
+---. 1998.
+\newblock \enquote{Belief revision in games: forward and backward induction.}
+\newblock \emph{Mathematical Social Sciences} 36: 31-56,
+  \href{http://dx.doi.org/10.1016/S0165-4896(98)00007-9}%
+{doi:10.1016/S0165-4896(98)00007-9}.
+
+\bibitem[{Stalnaker(1999)}]{Stalnaker1999}
+---. 1999.
+\newblock \enquote{Extensive and strategic forms: Games and models for games.}
+\newblock \emph{Research in Economics} 53: 293-319,
+  \href{http://dx.doi.org/10.1006/reec.1999.0200}%
+{doi:10.1006/reec.1999.0200}.
+
+\bibitem[{Stanley(2005)}]{Stanley2005}
+Stanley, Jason. 2005.
+\newblock \emph{{Knowledge and Practical Interests}}.
+\newblock Oxford University Press.
+
+\bibitem[{Stanley(2011)}]{Stanley2011}
+---. 2011.
+\newblock \emph{Know How}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Unger(1975)}]{Unger1975}
+Unger, Peter. 1975.
+\newblock \emph{Ignorance: A Case for Scepticism}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Weatherson(2005{\natexlab{a}})}]{Weatherson2005-WEACWD}
+Weatherson, Brian. 2005{\natexlab{a}}.
+\newblock \enquote{{Can We Do Without Pragmatic Encroachment?}}
+\newblock \emph{Philosophical Perspectives} 19: 417-443,
+  \href{http://dx.doi.org/10.1111/j.1520-8583.2005.00068.x}%
+{doi:10.1111/j.1520-8583.2005.00068.x}.
+
+\bibitem[{Weatherson(2005{\natexlab{b}})}]{Weatherson2005b}
+---. 2005{\natexlab{b}}.
+\newblock \enquote{True, Truer, Truest.}
+\newblock \emph{Philosophical Studies} 123: 47-70,
+  \href{http://dx.doi.org/10.1007/s11098-004-5218-x}%
+{doi:10.1007/s11098-004-5218-x}.
+
+\bibitem[{Weatherson(2019)}]{Weatherson2019}
+---. 2019.
+\newblock \emph{Normative Externalism}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Weisberg(2013)}]{Weisberg2013}
+Weisberg, Jonathan. 2013.
+\newblock \enquote{Knowledge in Action.}
+\newblock \emph{Philosophers' Imprint} 13: 1-23,
+  \href{http://dx.doi.org/2027/spo.3521354.0013.022}%
+{doi:2027/spo.3521354.0013.022}.
+
+\bibitem[{Weisberg(2020)}]{Weisberg2020}
+---. 2020.
+\newblock \enquote{Belief in Psyontology.}
+\newblock \emph{Philosophers' Imprint} xx-xx.
+
+\bibitem[{White(2005)}]{White2005-WHIEP}
+White, Roger. 2005.
+\newblock \enquote{Epistemic permissiveness.}
+\newblock \emph{Philosophical Perspectives} 19: 445-459,
+  \href{http://dx.doi.org/10.1111/j.1520-8583.2005.00069.x}%
+{doi:10.1111/j.1520-8583.2005.00069.x}.
+
+\bibitem[{Williamson(1994)}]{Williamson1994}
+Williamson, Timothy. 1994.
+\newblock \emph{{Vagueness}}.
+\newblock New York: Routledge.
+
+\bibitem[{Williamson(1996)}]{Williamson1996-WILKAA}
+---. 1996.
+\newblock \enquote{{Knowing and Asserting}.}
+\newblock \emph{Philosophical Review} 105: 489-523,
+  \href{http://dx.doi.org/10.2307/2998423}%
+{doi:10.2307/2998423}.
+
+\bibitem[{Williamson(2000)}]{Williamson2000}
+---. 2000.
+\newblock \emph{{Knowledge and its Limits}}.
+\newblock Oxford University Press.
+
+\bibitem[{Williamson(2007)}]{Williamson2007}
+---. 2007.
+\newblock \enquote{How probable is an infinite sequence of heads?}
+\newblock \emph{Analysis} 67: 173-180,
+  \href{http://dx.doi.org/10.1111/j.1467-8284.2007.00671.x}%
+{doi:10.1111/j.1467-8284.2007.00671.x}.
+
+\bibitem[{Williamson(2013)}]{Williamson2013-WILGCI}
+---. 2013.
+\newblock \enquote{Gettier Cases in Epistemic Logic.}
+\newblock \emph{Inquiry: An Interdisciplinary Journal of Philosophy} 56: 1--14.
+
+\bibitem[{Zagzebski(1994)}]{Zagzebski1994}
+Zagzebski, Linda. 1994.
+\newblock \enquote{The Inescapability of Gettier Problems.}
+\newblock \emph{The Philosophical Quarterly} 44: 65-73,
+  \href{http://dx.doi.org/10.2307/2220147}%
+{doi:10.2307/2220147}.
+
+\bibitem[{Zweber(2016)}]{Zweber2016}
+Zweber, Adam. 2016.
+\newblock \enquote{Fallibilism, Closure, and Pragmatic Encroachment.}
+\newblock \emph{Philosophical Studies} 173: 2745-2757,
+  \href{http://dx.doi.org/10.1007/s11098-016-0631-5}%
+{doi:10.1007/s11098-016-0631-5}.
+
+\end{thebibliography}

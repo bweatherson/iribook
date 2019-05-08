@@ -1,0 +1,107 @@
+\begin{thebibliography}{15}
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Blome-Tillmann(2009)}]{MBT2009}
+Blome-Tillmann, Michael. 2009.
+\newblock \enquote{Contextualism, Subject-Sensitive Invariantism, and the
+  Interaction of `Knowledge'-Ascriptions with Modal and Temporal Operators.}
+\newblock \emph{Philosophy and Phenomenological Research} 79:315--331,
+  \href{http://dx.doi.org/10.1111/j.1933-1592.2009.00280.x}%
+{doi:10.1111/j.1933-1592.2009.00280.x}.
+
+\bibitem[{Brown(2008)}]{Brown2008-BROKAP}
+Brown, Jessican. 2008.
+\newblock \enquote{Knowledge and Practical Reason.}
+\newblock \emph{Philosophy Compass} 3:1135--1152,
+  \href{http://dx.doi.org/10.1111/j.1747-9991.2008.00176.x}%
+{doi:10.1111/j.1747-9991.2008.00176.x}.
+
+\bibitem[{Fantl and McGrath(2002)}]{Fantl2002}
+Fantl, Jeremy and McGrath, Matthew. 2002.
+\newblock \enquote{Evidence, Pragmatics, and Justification.}
+\newblock \emph{Philosophical Review} 111:67--94,
+  \href{http://dx.doi.org/10.1215/00318108-111-1-67}%
+{doi:10.1215/00318108-111-1-67}.
+
+\bibitem[{Fantl and McGrath(2009)}]{FantlMcGrath2009}
+---. 2009.
+\newblock \emph{Knowledge in an Uncertain World}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Feltz and Zarpentine(forthcoming)}]{FeltzZarpentine2010}
+Feltz, Adam and Zarpentine, Chris. forthcoming.
+\newblock \enquote{Do You Know More When It Matters Less?}
+\newblock \emph{Philosophical Psychology} Retrieved from
+  \url{http://faculty.schreiner.edu/adfeltz/Papers/Know%20more.pdf}.
+
+\bibitem[{Ham et~al.(2008)Ham, Martin, and {Kohl III}}]{Ham2008}
+Ham, Sandra~A., Martin, Sarah, and {Kohl III}, Harold~W. 2008.
+\newblock \enquote{Changes in the percentage of students who walk or bike to
+  school-United States, 1969 and 2001.}
+\newblock \emph{Journal of Physical Activity and Health} 5:205--215.
+
+\bibitem[{Hammond(1988)}]{Hammond1988}
+Hammond, Peter~J. 1988.
+\newblock \enquote{Consequentialist Foundations for Expected Utility.}
+\newblock \emph{Theory and Decision} 25:25--78,
+  \href{http://dx.doi.org/10.1007/BF00129168}%
+{doi:10.1007/BF00129168}.
+
+\bibitem[{Harman(1973)}]{Harman1973}
+Harman, Gilbert. 1973.
+\newblock \emph{Thought}.
+\newblock Princeton: Princeton University Press.
+
+\bibitem[{Hawthorne(2004)}]{Hawthorne2004}
+Hawthorne, John. 2004.
+\newblock \emph{Knowledge and Lotteries}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Jackson(1991)}]{Jackson1991}
+Jackson, Frank. 1991.
+\newblock \enquote{Decision Theoretic Consequentialism and the Nearest and
+  Dearest Objection.}
+\newblock \emph{Ethics} 101:461--82.
+
+\bibitem[{May et~al.(forthcoming)May, Sinnott-Armstrong, Hull, and
+  Zimmerman}]{May2010}
+May, Joshua, Sinnott-Armstrong, Walter, Hull, Jay~G., and Zimmerman, Aaron.
+  forthcoming.
+\newblock \enquote{Practical Interests, Relevant Alternatives, and Knowledge
+  Attributions: an Empirical Study.}
+\newblock \emph{Review of Philosophy and Psychology} ,
+  \href{http://dx.doi.org/10.1007/s13164-009-0014-3}%
+{doi:10.1007/s13164-009-0014-3}.
+
+\bibitem[{Russell and Doris(2009)}]{RussellDoris2008}
+Russell, Gillian and Doris, John~M. 2009.
+\newblock \enquote{Knowledge by Indifference.}
+\newblock \emph{Australasian Journal of Philosophy} 86:429--437,
+  \href{http://dx.doi.org/10.1080/00048400802001996}%
+{doi:10.1080/00048400802001996}.
+
+\bibitem[{Schroeder(2010)}]{SchroederStakes}
+Schroeder, Mark. 2010.
+\newblock \enquote{Stakes, Withholding and the Subject-Sensitivity of 'Knows'.}
+\newblock Retrieved from
+  \url{http://www-bcf.usc.edu/~maschroe/research/Schroeder_Stakes_and_Withhold%
+ing.pdf}.
+
+\bibitem[{Stanley(2005)}]{Stanley2005-STAKAP}
+Stanley, Jason. 2005.
+\newblock \emph{{Knowledge and Practical Interests}}.
+\newblock Oxford University Press.
+
+\bibitem[{Weatherson(2005)}]{Weatherson2005-WEACWD}
+Weatherson, Brian. 2005.
+\newblock \enquote{{Can We Do Without Pragmatic Encroachment?}}
+\newblock \emph{Philosophical Perspectives} 19:417--{}443,
+  \href{http://dx.doi.org/10.1111/j.1520-8583.2005.00068.x}%
+{doi:10.1111/j.1520-8583.2005.00068.x}.
+
+\end{thebibliography}

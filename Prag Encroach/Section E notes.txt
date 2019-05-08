@@ -1,0 +1,27 @@
+Objections
+
+Doris and Russell (Perhaps put in section 2)
+	Can indifference/wealth etc generate knowledge?
+	Of course - because they can generate *belief*
+	See Doris and Russell in the folder
+	Note also that defeaters are typically sensitive to all sorts of things
+	Versions of dead dictator where poor person only has access to misleading evidence
+		Jason makes similar points in Certain Doubts thread
+
+Neta's State and Main example
+	Problem is epistemic infection
+	Similar to the point Neta raises about methods, although not exactly the same
+	And somewhat less ad hoc
+	See Neta - Anti-intellectualism etc in this folder
+
+Experimental Objections
+	Note that it is odds not stakes
+	What matters is whether the salient odds cross the epistemic probability
+	Major changes in stakes don't necessarily affect that (various Gods examples show this)
+	So we wouldn't necessarily expect to see much difference in Feltz/Zaradine examples
+		This is in PDF in directory
+	Or, presumably, in May et al type examples
+Citation: Practical Interests, Relevant Alternatives, and Knowledge Attributions: an Empirical Study, Review of Philosophy and Psychology, Joshua May1 , Walter Sinnott-Armstrong2 , Jay G. Hull3  and Aaron Zimmerman1, DOI: 10.1007/s13164-009-0014-3.
+
+
+

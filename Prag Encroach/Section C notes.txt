@@ -1,0 +1,14 @@
+Arguments that p isn't justified
+
+A. Ideal agent doesn't believe it
+	Lipsey/Lancaster reason here
+
+B. Not propositionally justified
+	Same response basically
+
+C. Can't deduce by PMP
+	But PMP is invalid
+
+D. Can't use PMP as inductive reason
+	Inductive reasoning is holistic - problems with the whole
+	Slartibartfast example from TAR
