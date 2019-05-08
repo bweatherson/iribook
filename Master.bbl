@@ -1,5 +1,5 @@
 \newcommand{\SortNoop}[1]{}
-\begin{thebibliography}{85}
+\begin{thebibliography}{86}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -370,15 +370,16 @@ Richter, Reed. 1984.
   \href{http://dx.doi.org/10.1080/00048408412341601}%
 {doi:10.1080/00048408412341601}.
 
-\bibitem[{Ross and Schroeder(2014{\natexlab{a}})}]{RossSchroeder2014}
-Ross, Jacob and Schroeder, Mark. 2014{\natexlab{a}}.
-\newblock \enquote{Belief, Credence, and Pragmatic Encroachment.}
-\newblock \emph{Philosophy and Phenomenological Research} 88: 259-288,
-  \href{http://dx.doi.org/10.1111/j.1933-1592.2011.00552.x}%
-{doi:10.1111/j.1933-1592.2011.00552.x}.
+\bibitem[{Roberts(2012)}]{Roberts2012}
+Roberts, Craige. 2012.
+\newblock \enquote{Information Structure in Discourse: Towards an Integrated
+  Formal Theory of Pragmatics.}
+\newblock \emph{Semantics and Pragmatics} 5: 1-69,
+  \href{http://dx.doi.org/10.3765/sp.5.6}%
+{doi:10.3765/sp.5.6}.
 
-\bibitem[{Ross and Schroeder(2014{\natexlab{b}})}]{SchroederRoss2012}
----. 2014{\natexlab{b}}.
+\bibitem[{Ross and Schroeder(2014)}]{RossSchroeder2014}
+Ross, Jacob and Schroeder, Mark. 2014.
 \newblock \enquote{Belief, Credence, and Pragmatic Encroachment.}
 \newblock \emph{Philosophy and Phenomenological Research} 88: 259-288,
   \href{http://dx.doi.org/10.1111/j.1933-1592.2011.00552.x}%
@@ -485,6 +486,12 @@ Weatherson, Brian. 2005{\natexlab{a}}.
 \newblock \emph{Philosophical Studies} 123: 47-70,
   \href{http://dx.doi.org/10.1007/s11098-004-5218-x}%
 {doi:10.1007/s11098-004-5218-x}.
+
+\bibitem[{Weatherson(2012)}]{Weatherson2012}
+---. 2012.
+\newblock \enquote{Knowledge, Bets and Interests.}
+\newblock In Jessica Brown and Mikkel Gerken (eds.), \emph{Knowledge
+  Ascriptions}, 75-103. Oxford: Oxford University Press.
 
 \bibitem[{Weatherson(2019)}]{Weatherson2019}
 ---. 2019.
