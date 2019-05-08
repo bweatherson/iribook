@@ -42,7 +42,13 @@ Any of these, and any number of other questions with infinitivals, can complete 
 - B is wondering ...
 - C wants D to tell him ...
 
-The philosophical work on these kinds of sentences has been almost exclusively focussed on just one of the nine sentences I just described: the one combining a knowledge verb with a 'how to' question. I suspect that what to say about 'know how' reports is going to have a lot in common with what to say about 'wondering when' reports. (Here I'm agreeing with @Stanley2011, though I'm about to disagree with him on a related point.)
+Mixing and matching the sentence fragments from the last two lists produces nine different sentences. Some examples of these are
+
+- C wants D to tell him how to climb Ben Nevis.
+- A doesn't know what do do.
+- B is wondering whether the visit Venice.
+
+The philosophical work on these kinds of sentences has been almost exclusively focussed on just one of the nine sentences I just described: the one combining a knowledge verb with a 'how to' question. I suspect this is a mistake; what to say about 'know how' reports is going to have a lot in common with what to say about 'wondering when' reports. (Here I'm agreeing with @Stanley2011, though I'm about to disagree with him on a related point.)
 
 There is a puzzle about why, in English, we cannot use these questions to complete sentences like
 
@@ -50,10 +56,16 @@ There is a puzzle about why, in English, we cannot use these questions to comple
 - F suspects ...
 - G wants H to guess ...
 
+I'm going to set that puzzle aside, as interesting as it is, an just focus on the sentences we can produce in English.
 
-
-Now the main point I want to stress here is that practical questions are usually mention-some in thise sense. When I am thinking about what to buy, and I choose one particular carton of eggs, I don't thereby imply that there is anything defective about the other cartons. I just choose some eggs.
+I'm going to call these questions with infinitivals _practical questions_. One thing to note aboutis that they are are usually mention-some. When I am wondering what to buy, and I resolve this by choosing one particular carton of eggs, I don't thereby imply that there is anything defective about the other cartons. I just choose some eggs.
 
 For related reasons, answering a practical question like this is distinct from answering any question, or questions, about the modal status of different actions. Imagine that in the grip of choice-phobia I am stuck staring at the cartons of eggs, unable to decide which one to buy because they are all just alike. In that situation I might know that there is no carton such that it is what I should buy, and also that there are many cartons such that I could (rationally, morally) buy any one of them. But there are so many, and they are so alike and I can't decide, so I don't know what to buy.
 
 Resolving this indecision will not involve accepting any modal proposition like _I should buy this carton in particular_. It better not, because I really have no reason to accept any such proposition. Rather, it involves accepting a proposition like _I will buy this carton in particular_. And that I can accept by simply buying the eggs. But there were many answers I could equally well have accepted, since there were many other cartons I could buy.^[I'm here mildly disagreeing with Jason @Stanley2011[Ch. 5] when he says that these questions with infinitival complements can be paraphrased using modals. But only mildly since (a) we might think 'will' just is the modal that gets used in the paraphrase, as @Bhatt1999 suggests, and (b) the differences between _what to buy_ and _what may I buy_ are small enough that maybe we can describe the latter as a 'paraphrase' of the former.]
+
+Practical questions are distinct from questions about modals or utilities. But there will usually be a correlation between their answers. Usually, if someone asks you when to visit Venice, and there is one time in particular such that visiting then maximises expected utility, that's what you should tell them. That's when they should visit, and that's what to say when they ask you when to vist. Relatedly, practical questions can come in conditional form. We can utter sentences like the following in English.
+
+- J asks K what to do if his patient has hepatitis.
+
+And there is one feature of these sentences that needs noting. I don't know what to do if one's patient has hepatitis, so let's just say that J tells K to do X. What that means is not that in any situation where the patient has hepatitis, do X. If the patient's symptoms are confusing, it might be best to run more tests before doing X. What it does mean is that if the fact that the patient has hepatitis is taken as given, then do X. As always, conditional questions should be understood as questions about what happens in scenarios where the condition in question is taken as given. And the constraint expressed by **Relevant Conditional Questions** is that whatever is known can be taken as given in just this sense.
