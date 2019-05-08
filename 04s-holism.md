@@ -1,6 +1,6 @@
 ## Atomism about Rational Belief
 
-In the previous chapter I argued for two individually necessary and jointly sufficient conditions for belief. They are
+In the previous chapter I argued for two individually necessary and jointly sufficient conditions for belief.^[This section is based on material from my -@Weatherson2012[sect. 3.1].] They are
 
 1. In some possible decision problem, $p$ is taken for granted.
 2. For every question the agent is interested in, the agent answers the question the same way (i.e., giving the same answer for the same reasons) whether the question is asked unconditionally or conditional on $p$.
@@ -28,7 +28,7 @@ That suggests the following condition on rational belief.
 > 1. S irrationally has one of the dispositions that is characteristic of belief that $p$; and
 > 2. What explains S having a disposition that is irrational in that way is her attitudes towards $p$, not (solely) her attitudes towards other propositions, or her skills in practical reasoning.
 
-In "Knowledge, Bets and Interests I gave a similar theory about these cases - I said that S's belief that $p$ was irrational if the irrational dispositions were caused by an irrationally high credence in $p$. I mean this account to be ever so slightly more general. I'll come back to that below, because first I want to spell out the second clause.
+In "Knowledge, Bets and Interests" I gave a similar theory about these cases - I said that S's belief that $p$ was irrational if the irrational dispositions were caused by an irrationally high credence in $p$. I mean this account to be ever so slightly more general. I'll come back to that below, because first I want to spell out the second clause.
 
 Intuitively, Coraline's irrational acceptance of the belief is explained by her (irrational) belief about $X$, not her (rational) belief about the Battle of Agincourt. We can take this notion of explanation as a primitive if we like; it's in no worse philosophical shape than other notions we take as a primitive. But it is possible to spell it out a little more.
 
@@ -36,7 +36,7 @@ Coraline has a pattern of irrational dispositions related to the envelope. If yo
 
 On the other hand, she does not have a pattern of irrational dispositions related to the Battle of Agincourt. She has this one, but if you change the payouts so they are not related to this particular envelope, then for all we have said so far, she won't do anything irrational.
 
-That difference in patterns matters. We know that it's the beliefs about the envelope, and not the beliefs about the battle, that are explanatory because of this pattern. We could try and create a reductive analysis of explanation in clause 2 using facts about patterns, like the way Lewis tries to create a reductive analysis of causation using similar facts about patterns in _Causation as Influence_ (@Lewis2004a). But doing so would invariably run up against edge cases that would be more trouble to resolve than they are worth.
+That difference in patterns matters. We know that it's the beliefs about the envelope, and not the beliefs about the battle, that are explanatory because of this pattern. We could try and create a reductive analysis of explanation in clause 2 using facts about patterns, like the way Lewis tries to create a reductive analysis of causation using similar facts about patterns in "Causation as Influence" [@Lewis2004a]. But doing so would invariably run up against edge cases that would be more trouble to resolve than they are worth.
 
 That's because there are ever so many ways in which someone could have an irrational disposition about any particular case. We can imagine Coraline having a rational belief about the envelope, but still taking the bet because of any of the following reasons:
 
