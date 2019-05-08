@@ -1,6 +1,6 @@
 ## Updates and Modals {#modalupdate}
 
-The version of IRT that I defend here gives a big role to conditional attitudes. That's something that it has in common with everything I've written about IRT. But I used to have a particular pair of views about how to understand conditional attitudes. In particular, I took the following two claims to be at least close approximations to the truth about conditional attitudes.
+The version of IRT that I defend here gives a big role to conditional attitudes.^[This section is taken largely from my -@Weatherson2016.] That's something that it has in common with everything I've written about IRT. But I used to have a particular pair of views about how to understand conditional attitudes. In particular, I took the following two claims to be at least close approximations to the truth about conditional attitudes.
 
 1. An attitude conditional on $p$ is (usually) the same as the attitude one would have after updating on $p$.
 2. The way to update on $p$ is to conditionalise.
