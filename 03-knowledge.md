@@ -10,11 +10,6 @@
 
 S knows that p only if for any question S is interested in, and any propositons S is interested in, S can rationally answer the queston given those propositions by answering the same (conditional) question conditional on p.
 
-```{r child='03s-defeat.md'}
-# Interests as Defeaters
-# KBI section 3.3
-# Section name: defeat
-```
 
 ## Puzzles
 
