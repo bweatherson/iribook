@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.3.17)  8 MAY 2019 12:30
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.3.17)  8 MAY 2019 16:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1228,114 +1228,79 @@ Chapter 3.
 [43
 
 ] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [5
-9] [60] [61] [62] [63] [64]
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/bx/n' will be
-(Font)              scaled to size 9.36955pt on input line 1117.
-
-Package natbib Warning: Citation `Weatherson2016' on page 65 undefined on input
- line 1117.
-
-[65] [66]
+9] [60] [61] [62] [63] [64] [65] [66]
 
 LaTeX Warning: Reference `lockecoins' on page 67 undefined on input line 1156.
-
-
-Package natbib Warning: Citation `Weatherson2016' on page 67 undefined on input
- line 1169.
 
 [67] [68] [69] [70] [71] [72] [73] [74
 
 ]
 Chapter 4.
-[75] [76]
-Underfull \hbox (badness 2913) in paragraph at lines 1325--1326
-\TU/AdobeCaslonPro(0)/m/n/10.95 probabilities of the outcomes of each of the ga
-mes is just what
- []
+[75] [76] [77] [78] [79]
+LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/bx/n' will be
+(Font)              scaled to size 9.36955pt on input line 1353.
 
+LaTeX Warning: Reference `lockecoins' on page 80 undefined on input line 1353.
 
-Underfull \hbox (badness 1292) in paragraph at lines 1325--1326
-\TU/AdobeCaslonPro(0)/m/n/10.95 you’d expect. And Mireille knows this. The tabl
-e she’s standing
- []
-
-
-Overfull \hbox (950.1421pt too wide) in paragraph at lines 1325--1326
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][] [][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$\TU/
-AdobeCaslonPro(0)/m/n/10.95 ^{[]}$,
- []
-
-[77] [78]
-
-Package natbib Warning: Citation `Lewis1969' on page 79 undefined on input line
- 1348.
-
-[79] [80] [81] [82] [83] [84] [85] [86
-
-]
+[80] [81] [82]
 Chapter 5.
-[87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [1
-02]
+[83
 
-LaTeX Warning: Reference `orthodoxmoore' on page 103 undefined on input line 17
-25.
+] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98]
 
-[103] [104] [105] [106
+LaTeX Warning: Reference `orthodoxmoore' on page 99 undefined on input line 168
+1.
+
+[99] [100] [101] [102
 
 ]
 Chapter 6.
-[107] [108] [109] [110]
+[103] [104] [105] [106]
 
-Package natbib Warning: Citation `Harper1986' on page 111 undefined on input li
-ne 1861.
+Package natbib Warning: Citation `Harper1986' on page 107 undefined on input li
+ne 1817.
 
-[111] [112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123] [
-124]
+[107] [108] [109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [
+120]
 Chapter 7.
-[125
+[121
 
-] [126
+] [122
 
 ]
 Chapter 8.
-[127] [128
+[123] [124
 
 ]
 Chapter 9.
-[129] [130
+[125] [126
 
 ]
 Chapter 10.
-[131] [132
+[127] [128
 
 ]
 Chapter 11.
 
-LaTeX Warning: Reference `lockean' on page 133 undefined on input line 2152.
+LaTeX Warning: Reference `lockean' on page 129 undefined on input line 2108.
 
 
-Underfull \hbox (badness 4108) in paragraph at lines 2172--2173
+Underfull \hbox (badness 4108) in paragraph at lines 2128--2129
 []\TU/AdobeCaslonPro(0)/m/n/10.95 If someone rationally believes $[]$, and rati
 onally
  []
 
-[133] [134]
-Underfull \hbox (badness 3884) in paragraph at lines 2190--2191
+[129] [130]
+Underfull \hbox (badness 3884) in paragraph at lines 2146--2147
 []\TU/AdobeCaslonPro(0)/m/n/10.95 Alternatively, we might try to use an argumen
 t by Timothy
  []
 
-[135] [136] [137] [138] [139] [140] [141] [142
+[131] [132] [133] [134] [135] [136] [137] [138
 
 ]
 Chapter 12.
-(./Master.bbl [143] [144
+(./Master.bbl [139] [140
 
 ]
 Underfull \hbox (badness 3623) in paragraph at lines 28--33
@@ -1349,7 +1314,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--33
 ational Journal of Game Theory \TU/AdobeCaslonPro(0)/m/n/10.95 28: 263-300,
  []
 
-[145]
+[141]
 Underfull \hbox (badness 1874) in paragraph at lines 78--83
 []\TU/AdobeCaslonPro(0)/m/n/10.95 Cohen, Stewart. 2004.  “Knowledge, assertion,
  and practical rea-
@@ -1362,7 +1327,7 @@ osophical Issues \TU/AdobeCaslonPro(0)/m/n/10.95 14: 482-491, []doi:10.1111/j.1
 533-
  []
 
-[146]
+[142]
 Underfull \hbox (badness 6461) in paragraph at lines 210--215
 []\TU/AdobeCaslonPro(0)/m/n/10.95 Kohlberg, Elon and Mertens, Jean-Francois. 19
 86.  “On the
@@ -1375,58 +1340,52 @@ aslonPro(0)/m/it/10.95 Econometrica \TU/AdobeCaslonPro(0)/m/n/10.95 54: 1003-10
 37,
  []
 
-
-Underfull \hbox (badness 7631) in paragraph at lines 259--265
-[]\TU/AdobeCaslonPro(0)/m/n/10.95 —. 1982.  “Logic for Equivocators.”  \TU/Adob
-eCaslonPro(0)/m/it/10.95 Noûs \TU/AdobeCaslonPro(0)/m/n/10.95 16: 431-441,
- []
-
-[147]
-Underfull \hbox (badness 10000) in paragraph at lines 276--281
+[143]
+Underfull \hbox (badness 10000) in paragraph at lines 273--278
 []\TU/AdobeCaslonPro(0)/m/n/10.95 —. 1988.  “Desire as Belief.”  \TU/AdobeCaslo
 nPro(0)/m/it/10.95 Mind \TU/AdobeCaslonPro(0)/m/n/10.95 97: 323-332,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 283--288
+Underfull \hbox (badness 10000) in paragraph at lines 280--285
 []\TU/AdobeCaslonPro(0)/m/n/10.95 —. 1996.  “Desire as Belief II.”  \TU/AdobeCa
 slonPro(0)/m/it/10.95 Mind \TU/AdobeCaslonPro(0)/m/n/10.95 105: 303-313,
  []
 
-[148]
-Underfull \hbox (badness 5771) in paragraph at lines 348--354
+
+Underfull \hbox (badness 5771) in paragraph at lines 345--351
 \TU/AdobeCaslonPro(0)/m/n/10.95 ability.”  \TU/AdobeCaslonPro(0)/m/it/10.95 Stu
 dies In History and Philosophy of Science Part B:
  []
 
 
-Underfull \hbox (badness 3612) in paragraph at lines 348--354
+Underfull \hbox (badness 3612) in paragraph at lines 345--351
 \TU/AdobeCaslonPro(0)/m/it/10.95 Studies In History and Philosophy of Modern Ph
 ysics \TU/AdobeCaslonPro(0)/m/n/10.95 41: 27-40,
  []
 
-[149]
-Underfull \hbox (badness 10000) in paragraph at lines 441--446
+[144]
+Underfull \hbox (badness 10000) in paragraph at lines 438--443
 []\TU/AdobeCaslonPro(0)/m/n/10.95 —. 1996.  “Knowledge, Belief and Counterfactu
 al Reason-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 441--446
+Underfull \hbox (badness 10000) in paragraph at lines 438--443
 \TU/AdobeCaslonPro(0)/m/n/10.95 ing in Games.”  \TU/AdobeCaslonPro(0)/m/it/10.9
 5 Economics and Philosophy \TU/AdobeCaslonPro(0)/m/n/10.95 12: 133-163,
  []
 
-[150])
+[145] [146])
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2299.
-[151]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2299.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2255.
+[147]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2255.
 (./Master.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2299.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2299.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2255.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2255.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1436,11 +1395,11 @@ LaTeX Warning: There were undefined references.
  ) 
 Here is how much of TeX's memory you used:
  23732 strings out of 493007
- 439362 string characters out of 6134605
- 570605 words of memory out of 5000000
+ 439393 string characters out of 6134605
+ 570580 words of memory out of 5000000
  27444 multiletter control sequences out of 15000+600000
  552819 words of font info for 82 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 46i,11n,116p,10447b,594s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,11n,116p,10447b,600s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Master.pdf (151 pages).
+Output written on Master.pdf (147 pages).

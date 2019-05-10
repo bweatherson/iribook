@@ -1,5 +1,5 @@
 \newcommand{\SortNoop}[1]{}
-\begin{thebibliography}{86}
+\begin{thebibliography}{87}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -246,22 +246,19 @@ Lee, Matthew~Brandon. 2017{\natexlab{b}}.
   \href{http://dx.doi.org/10.1080/05568641.2017.1364142}%
 {doi:10.1080/05568641.2017.1364142}.
 
+\bibitem[{Lewis(1969)}]{Lewis1969a}
+Lewis, David. 1969.
+\newblock \emph{Convention: A Philosophical Study}.
+\newblock Cambridge: Harvard University Press.
+
 \bibitem[{Lewis(1976)}]{Lewis1976b}
-Lewis, David. 1976.
+---. 1976.
 \newblock \enquote{Probabilities of Conditionals and Conditional
   Probabilities.}
 \newblock \emph{Philosophical Review} 85: 297-315,
   \href{http://dx.doi.org/10.2307/2184045}%
 {doi:10.2307/2184045}.
 \newblock \PPII 133-152.
-
-\bibitem[{Lewis(1982)}]{Lewis1982c}
----. 1982.
-\newblock \enquote{Logic for Equivocators.}
-\newblock \emph{No{\^u}s} 16: 431-441,
-  \href{http://dx.doi.org/10.1017/cbo9780511625237.009}%
-{doi:10.1017/cbo9780511625237.009}.
-\newblock \PPL 97-110.
 
 \bibitem[{Lewis(1986)}]{Lewis1986h}
 ---. 1986.
@@ -492,6 +489,13 @@ Weatherson, Brian. 2005{\natexlab{a}}.
 \newblock \enquote{Knowledge, Bets and Interests.}
 \newblock In Jessica Brown and Mikkel Gerken (eds.), \emph{Knowledge
   Ascriptions}, 75-103. Oxford: Oxford University Press.
+
+\bibitem[{Weatherson(2016)}]{Weatherson2016}
+---. 2016.
+\newblock \enquote{Games, Beliefs and Credences.}
+\newblock \emph{Philosophy and Phenomenological Research} 92: 209-236,
+  \href{http://dx.doi.org/10.1111/phpr.12088}%
+{doi:10.1111/phpr.12088}.
 
 \bibitem[{Weatherson(2019)}]{Weatherson2019}
 ---. 2019.
