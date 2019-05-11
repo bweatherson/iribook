@@ -1,5 +1,5 @@
 \newcommand{\SortNoop}[1]{}
-\begin{thebibliography}{87}
+\begin{thebibliography}{88}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -173,6 +173,13 @@ Harman, Gilbert. 1973.
 Hawthorne, John. 2004.
 \newblock \emph{Knowledge and Lotteries}.
 \newblock Oxford: Oxford University Press.
+
+\bibitem[{Hawthorne(2005)}]{Hawthorne2005}
+---. 2005.
+\newblock \enquote{Knowledge and Evidence.}
+\newblock \emph{Philosophy and Phenomenological Research} 70: 452-458,
+  \href{http://dx.doi.org/10.1111/j.1933-1592.2005.tb00540.x}%
+{doi:10.1111/j.1933-1592.2005.tb00540.x}.
 
 \bibitem[{Heal(1994)}]{Heal1994}
 Heal, Jane. 1994.

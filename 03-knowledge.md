@@ -22,15 +22,19 @@ The argument here will be in two parts. First, I'll focus on practical inquiries
 
 S knows that p only if for any question S is interested in, and any propositons S is interested in, S can rationally answer the queston given those propositions by answering the same (conditional) question conditional on p.
 
+```{r child='03s-closure.md'}
+```
+
+### Single Premise Closure {#andelim}
+
+```{r child='03s-ClosureNotes.md'}
+```
 
 ## Puzzles
 
 * Anisa and Blaise
 * Coraline
 * And-introduction
-
-### And-Elimination {#andelim}
-
 * Same source
 * Modals (I don't remember what I had in mind here)
 * Miners and doctors (I don't remember what I had in mind here)

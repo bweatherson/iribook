@@ -1350,7 +1350,7 @@ It might be argued here that we shouldn't expect to apply decision theory direct
 
 So it's better to say that any application of decision theory to a real-life problem will involve ignoring certain (counterfactual) logical or metaphysical possibilities in which the decision table is not actually true. But not any old abstraction will do. We can't ignore just anything, at least not if we want a good model. Which abstractions are acceptable? The response I've offered to Dom's challenge suggests an answer to this: we can abstract away from any possibility in which something the agent actually knows is false. I don't have a knock-down argument that this is the best of all possible abstractions, but nor do I know of any alternative answer to the question which abstractions are acceptable which is nearly as plausible.
 
-We might be tempted to say that we can abstract away from anything such that the difference between its probability and 1 doesn't make a difference to the ultimate answer to the decision problem. More carefully, the idea would be that we can have the decision table represent that \(p\) iff \(p\) is true and treating \(\Pr(p)\) as 1 rather than its actual value doesn't change what the agent should do. I think this is the most plausible story one could tell about decision tables if one didn't like the knowledge first story that I tell. But I also don't think it works, in part because of cases like the following.\footnote{The cases I'll discuss in sections \ref{lockecoins} and \ref{lockegames} also raise problems for this proposal.}
+We might be tempted to say that we can abstract away from anything such that the difference between its probability and 1 doesn't make a difference to the ultimate answer to the decision problem. More carefully, the idea would be that we can have the decision table represent that \(p\) iff \(p\) is true and treating \(\Pr(p)\) as 1 rather than its actual value doesn't change what the agent should do. I think this is the most plausible story one could tell about decision tables if one didn't like the knowledge first story that I tell. But I also don't think it works, in part because of cases like the following.\footnote{The cases I'll discuss in sections \ref{lockecoin} and \ref{lockegames} also raise problems for this proposal.}
 
 Luc is lucky; he's in a casino where they are offering better than fair odds on roulette. Although the chance of winning any bet is , if Luc bets \$10, and his bet wins, he will win \$400. (That's the only bet on offer.) Luc, like Mireille, is considering betting on 28. As it turns out, 28 won't come up, although since this is a fair roulette wheel, Luc doesn't know this. Luc, like most agents, has a declining marginal utility for money. He currently has \$1,000, and for any amount of money \(x\), Luc gets utility \(u(x) = x^{\nicefrac{1}{2}}\) out of having \(x\). So Luc's current utility (from money) is, roughly, 31.622. If he bets and loses, his utility will be, roughly, 31.464. And if he bets and wins, his utility will be, roughly, 37.417. So he stands to gain about 5.794, and to lose about 0.159. So he stands to gain about 36.5 as much as he stands to lose. Since the odds of winning are less than \(\nicefrac{1}{36.5}\), his expected utility goes down if he takes the bet, so he shouldn't take it. Of course, if the probability of losing was 1, and not merely \(\nicefrac{37}{38}\), he shouldn't take the bet too. Does that mean it is acceptable, in presenting Luc's decision problem, to leave off the table any possibility of him winning, since he won't win, and setting the probability of losing to 1 rather than \(\nicefrac{37}{38}\) doesn't change the decision he should make? Of course not; that would horribly misstate the situation Luc finds himself in. It would misrepresent how sensitive Luc's choice is to his utility function, and to the size of the stakes. If Luc's utility function was \(u(x) = x^{\nicefrac{3}{4}}\), then he should take the bet. If his utility function is unchanged, but the bet was \$1 against \$40, rather than \$10 against \$400, he should take the bet. Leaving off the possibility of winning hides these facts, and badly misrepresents Luc's situation.
 
@@ -1363,6 +1363,87 @@ I also cheated a little in making this argument. When I described Mireille in th
 
 S knows that p only if for any question S is interested in, and any propositons S is interested in, S can rationally answer the queston given those propositions by answering the same (conditional) question conditional on p.
 
+\hypertarget{knowledge-and-closure}{%
+\section{Knowledge and Closure}\label{knowledge-and-closure}}
+
+Here are two very plausible principles about knowledge, both due to John Hawthorne.
+
+\begin{description}
+\tightlist
+\item[Single Premise Closure]
+If one knows \(p\) and competently deduces \(q\) from \(p\), thereby coming to believe \(q\), while retaining one's knowledge that P, one comes to know that \(q\). \citep[43]{Hawthorne2005}
+\item[Multiple Premise Closure]
+If one knows some premises and competently deduces \(q\) from those premises, thereby coming to believe \(q\), while retaining one's knowledge of those premises throughout, one comes to know that \(q\). \citep[43]{Hawthorne2005}
+\end{description}
+
+Hawthorne endorses the first of these, but has reservations about the second for reasons related to the preface paradox. I'm similarly going to endorse the first and have reservations about the second. But my reasons don't have anything to do with the preface paradox. For reasons I'll discuss in more depth in chapter \ref{preface}, I think concerns about the preface paradox are over-rated. But I do think we need one more qualification than Hawthorne suggests. I will defend this modification to Hawthorne's second principle.
+
+\begin{description}
+\tightlist
+\item[Relevant Multiple Premise Closure]
+If one knows some premises and competently deduces \(q\) from those premises, thereby coming to believe \(q\), while retaining one's knowledge of those premises throughout, and for each conjunction formed from the premises, one has an interest in the question of whether that conjunction is true, one comes to know that \(q\).
+\end{description}
+
+\hypertarget{andelim}{%
+\subsection{Single Premise Closure}\label{andelim}}
+
+It is not trivial to prove that my version of IRT satisfies these closure conditions. One reason for this is that I have not stated a sufficient condition for knowledge. all that I have said is that knowledge is incompatible with a certain kind of caution. So in principle I cannot show that if some conditions obtain then someone knows something. What I can show, is that introducing new conditions linking knowledge with relevant questions as I have done does not introduce new violations of the closure conditions.
+
+But it turns out that even showing this is not completely trivial. Imagine yet another version of the red blue game.\footnote{This game will resemble the examples that \citet{Zweber2017} and \citet{AndersonHawthorne2019b} use to raise doubts about whether pragmatic theories like mine reall do endorse single premise closure.} In this game, both of the sentences are claims about history that are well supported without being certain. And both of them are supported in the very same way. It turns out to be a little distracting to use concrete examples in this case, so just call the claims A and B. And imagine that the player read both of these claims in the same reliable but not infallible history book, and she knows the book is reliable but not infallible, and she aims to maximise her expected returns. Then all four of the following things are true about the game.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Unconditionally, the player is indifferent between playing red-true and playing blue-true.
+\item
+  Conditional on \(A\), the player prefers red-true to blue-true, because red-true will certainly return \$50 while blue-true is not completely certain to win the money.
+\item
+  Conditional on \(B\), the player prefers blue-true to red-true, because blue-true will certainly return \$50 while red-true is not completely certain to win the money.
+\item
+  Conditional on \(A \wedge B\), the player is back to being indifferent between playing red-true and playing blue-true.
+\end{enumerate}
+
+From 1, 2 and 3, it follows in my version of IRT that the player does not know either \(A\) or \(B\). After all, conditionalising on either one of them changes her answer to a relevant question. The question being, \emph{Which option maximises my expected returns?}, where this is understood as a mention-all question.
+
+But look what happens at point 4. Conditionalising on \(A \wedge B\) does not change the answer to that question. So, assuming there is no other reason that the player does not know \(A \wedge B\), arguably she does know \(A \wedge B\). And that would be absurd; how could she know a conjunction without knowing either conjunct?
+
+Here is how I used to answer this question. Define a technical notion of interest. Say that a person is interested in a conditional question \emph{If p, Q?} if they are interested, in the ordinary sense, in both the true-false question \emph{p?} and they are interested in the question \emph{Q?}. And if conditionalising on a proposition changes (or should change) their answer to any question they are interested in in this technical sense, then they don't know that proposition. This solves the problem because conditionalising on \(A \wedge B\) does change their answer to the question \emph{If A, which option maximises expected returns?} on its mention-some reading. So even though 4 is correct, this does pose a problem for closure.
+
+But this is not an entirely satisfactory solution for two reasons. One is that it seems extremely artificial to say that someone is interested in these conditional questions that they have never even formulated. Another is that it is hard to motivate why we should care that conditionalisation changes (or should change) one's answers to these artificial questions.
+
+There was something right about the answer I used to give. It is that we should not just look at whether conditionalisation changes the answers a person gives to questions they are interested in. We should also look at whether it changes things `under the hood'; whether it changes how they get to that answer. The idea of my old theory was that looking at these artificial questions was a way to indirectly look under the hood. But it is not clear why we should look for these indirect approaches, rather than just looking at what is going on in the player's mind.\footnote{Well, unless one is a behaviorist, and so thinks the answers to related questions are all there is to what is going on under the hood. But we should not import that much behaviorism into our epistemology.}
+
+So let's look again at the two questions that are relevant. And this time, don't think about what answer the player gives, but about how they get to that answer.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{4}
+\tightlist
+\item
+  Which option maximises expected returns?
+\item
+  If \(A \wedge B\), which option maximises expected returns?
+\end{enumerate}
+
+On the most natural way to understand what the player does, there will be a step in her answer to 5 that has no parallel in her answer to 6.
+
+She will note, and rely on, the fact that she has equally good evidence for \(A\) as for \(B\). That is why each option is equally good by her lights. The equality of evidence really matters. If she had read that \(A\) in three books, but only one of those books added that \(B\), then the two options would not have the same expected returns. She should check that nothing like this is going on; that the evidence really is equally balanced.
+
+But nothing like this happens in answering 6. In that case, \(A \wedge B\) is stipulated to be given. So there is no question about how good the evidence for either is. When answering a question about what to do if a condition obtains, we don't ask how good the evidence for the condition is. We just assume that it holds. So in answering 6, there is no step that acknowledges the equality of the evidence for both \(A\) and \(B\).
+
+So in fact the player does not answer the two questions the same way. She ends up with the same conclusion, but she gets there by a different means. And that is enough, I say, to make it a different answer. If she knew \(A \wedge B\), she could follow exactly the same steps in answering 5 and 6, but she cannot.
+
+What should we say if she does follow the same steps? If this is irrational, nothing changes, since what matters for knowledge is which questions should be answered the same way, not which questions are answered the same way. (It does matter for belief, but that is not the current topic.) So I will assume that it is possible for the player to rationally answer both questions the same way. (I will have much more to say about why this is a coherent assumption in chapter \ref{ties}.)
+
+The way she should answer 6 is to take \(A \wedge B\) as given. And hence she will take either option, red-true or blue-true, as being equivalent to just taking \$50. And she knows that is the best she can do in the game. So in answering question 6, she will take it as given that both of these options are maximally good.
+
+By hypothesis, she is answering question 5 and question 6 the same way. So she will take it to be part of the setup of question 5 that both options return a sure \$50 After all, that is part of the setup of question 6. But if she takes that as given, then conditionalising on either \(A\) or \(B\) does not change her expected returns. So now claims 2 and 3 are wrong; conditionalising on either conjunct won't make a difference because she treats each conjunct as given.
+
+And that is the totally general case. Assume that someone has competently deduced \(Y\) from \(X\), and they know \(X\). So they are entitled to answer the questions \emph{Q?} and \emph{If X, Q?} by the same method. Since the method for the latter takes \emph{X} as given, so can the method for the former. So they can answer \emph{Q?} taking \emph{X} as given. What one can appropriately take as given is closed under competent deduction? (Why? Because in the answer to \emph{Q?} that starts with \emph{X}, you can just go on to derive \emph{Y}, and then see that it is also a way to answer \emph{If Y, Q?}.) So they can answer \emph{Q?} taking \emph{Y} as given. So they can answer \emph{Q?} in the same way they answer \emph{If Y, Q?}.
+
+So assuming there is no other reason to deny \textbf{Single Premise Closure}, adding a clause about how one may answer questions does not give us a new reason to deny it.
+
 \hypertarget{puzzles}{%
 \section{Puzzles}\label{puzzles}}
 
@@ -1374,13 +1455,6 @@ S knows that p only if for any question S is interested in, and any propositons 
   Coraline
 \item
   And-introduction
-\end{itemize}
-
-\hypertarget{andelim}{%
-\subsection{And-Elimination}\label{andelim}}
-
-\begin{itemize}
-\tightlist
 \item
   Same source
 \item

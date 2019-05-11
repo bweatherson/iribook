@@ -1,0 +1,22 @@
+So that shows that IRT satisfies Single Premise Closure. Showing it satisfies Multi Premise Closure is also non-trivial. The problem arises with a different version of the red-blue game.
+
+In this version, the red sentence is, once again, _Two plus two equals four_. And the blue sentence is a conjunction _A and B_, where both $A$ and $B$ express historical facts that the player has excellent, but not perfect, evidence for. Now the following four claims all seem true.
+
+1. Unconditionally, the only rational play is Red-True.
+2. Conditional on $A$, the only rational play is Red-True. Even given $A$, playing Blue-True requires betting that $B$ is true, and that's a pointless risk to run when playing Red-True only requires that two and two make four.
+3. Conditional on $B$, the only rational play is Red-True. Even given $B$, playing Blue-True requires betting that $A$ is true, and that's a pointless risk to run when playing Red-True only requires that two and two make four.
+4. Conditional on $A \wedge B$, Blue-True is rationally permissible, and arguably rationally mandatory, since it weakly dominates Red-True.
+
+So conditionalising on either one of $A$ or $B$ doesn't change anything, but conditionalising on $A \wedge B$ does change how the player answers a question. So it looks like in this case the player might know $A$, know $B$, and for all I've said be fully aware that these two things entail $A \wedge B$, but not know $A \wedge B$. How should we respond to this?
+
+One response is simply to accept it. Lots of theories deny that knowledge of the conjuncts suffices for knowledge of the conjunction. The usual motivation is that if knowledge is fallible, then accepting the conjunction might be more risky than accepting either conjunct. And if knowledge requires only accepting a small risk, then the conjuncts will be known but not the conjunction. (This is why @Hawthorne2005, in a very prominent defence of closure principles, declines to endorse Multi Premise Closure.)
+
+But I'm not happy to settle for this kind of response. As I'll argue in chapter \@ref(belief), blatant violations of Multi Premise Closure like this lead to really unintuitive consequences. And as I'll argue in chapter \@ref(preface), the main real world example that is used to back up the anti-closure intuitions, the preface paradox, doesn't show as much as its proponents suggest. So I'm going to look elsewhere for a solution.
+
+I used to suggest this problem could be solved the same way puzzles about Single Premise Closure could be solved: with a technical and expansive notion of an interesting question. Assume that one is interested in the question _If p, Q?_, in the technical sense relevant to IRT, whenever one is interested in both _p_ and _Q?_. Then the player will be interested, in this technical sense, in the question _If A, what should I do in the game?_. And the unconditional answer to that is _Play Red-True_, while conditional on $B$ the answer is _Play Blue-True, and maybe Red-True is permissible_. So conditionalising on $B$ changes the answer to a question they have a (technical) interest in, so they don't know $B$. A parallel argument shows they don't know $A$. And so this isn't a failure of Multi-Premise Closure; the player doesn't actually know each of the conjuncts.
+
+This is better than the previous response, but it still isn't great. It has two flaws. One is that it is very hard to motivate this technical notion of interest. Why should we care whether conditionalising on $B$ changes the answer to a question like that? Another is that it seems to be too harsh. It says that the player loses knowledge in both conjuncts. And that seems wrong. At least in some cases, there doesn't seem to be anything wrong with the following internal monologue.
+
+> Playing Red-True is betting that two plus two is four. Since $A$ is true, playing Blue-True is betting that $B$ is true. I'd rather bet that two plus two is four than that $B$ is true, so I'm playing Red-True.
+
+That little bit of reasoning takes $A$ as given. And it seems (at least in some specifications of what $A$ and $B$ are, and what the player's evidence for them is), to be a good enough piece of reasoning. And it has been a working assumption that only known things can be taken as given. So it looks like this is a continuation of the game where the player knows that $A$. So a solution to the problem that implies 
