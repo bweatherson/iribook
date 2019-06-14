@@ -32,9 +32,9 @@ S knows that p only if for any question S is interested in, and any propositons 
 
 ## Puzzles
 
-* Anisa and Blaise
+* Anisa and Blaise - actually in section 1
 * Coraline
 * And-introduction
 * Same source
-* Modals (I don't remember what I had in mind here)
-* Miners and doctors (I don't remember what I had in mind here)
+* Modals (I don't remember what I had in mind here, though maybe it is the stuff about marbles from GBC)
+* Miners and doctors (I don't remember what I had in mind here, though maybe it is just 2.2 from KBI)

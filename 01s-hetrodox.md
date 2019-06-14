@@ -2,7 +2,7 @@
 
 The orthodox view of cases like Blaise's is that offering him that that does not change what he knows, but still he is irrational to take the bet. In this section, I'm going to run through a series of arguments against the orthodox view. The reason I making so many arguments is not that I think any one of them is particularly week. Rather, it is because the orthodox view is so widespread that I think we need to stress how many strange consequences it has.
 
-### Moore's Paradox {#moore}
+### Moore's Paradox {#orthodoxmoore}
 
 Start by thinking about what the Orthodox few says of rational person in Blaise's situation would do. Call this rational person Chamari. According to the orthodox view, offering someone a bit does not make them lose knowledge. So Chamari still knows when the Battle of Avignon was fought. But Chamari is rational, so Chamari will clearly decline the bet. Think about how Chamari might respond when you ask her to justify declining the bet. 
 
@@ -99,7 +99,7 @@ This kind of approach doesn't really have any place for knowledge in its theory 
 
 But there are many problems with this kind of approach. Several of these will be discussed elsewhere in this book at more length, so I'll here just point to those other discussions. But some others I'll address directly.
 
-Like the view discussed in subsection \@ref(moore) that separates knowledge from assertion, separating knowledge from action leads to strange consequences. As @Williamson2005 points out, once we break apart knowledge from action in this way, it becomes hard to see the point of action. And it's worth pausing a bit more over the bizarreness of the claim that Blaise knows that taking the bet will work out for the best, but he shouldn't take it - because of it's possible consequences!
+Like the view discussed in subsection \@ref(orthodoxmoore) that separates knowledge from assertion, separating knowledge from action leads to strange consequences. As @Williamson2005 points out, once we break apart knowledge from action in this way, it becomes hard to see the point of action. And it's worth pausing a bit more over the bizarreness of the claim that Blaise knows that taking the bet will work out for the best, but he shouldn't take it - because of it's possible consequences!
 
 If one excludes knowledge from having an important role in one's theory of decision, one ends up having a hard time explaining how dominance reasoning works. But it is a compulsory question for a theory of decision to explain how dominance reasoning works. Among other things, we need a good account of how dominance reasoning works in order to handle Newcomb problems, and we need to handle Newcomb problems in order to even clearly state a theory of expected utility maximisation. That little argument was very compressed, but I'll return frequently through the book to issues about dominance reasoning, and for now I think it's enough to leave it with this sketch.
 

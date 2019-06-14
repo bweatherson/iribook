@@ -5,6 +5,7 @@ This chapter discusses the role of rational belief in the version of IRT that I 
 ```{r child='04s-holism.md'}
 # Coraline example
 # Note this has to get rewritten, because Coraline has already been introduced
+# June 13 note - seems like I unintroduced it, so maybe this is ok
 # Section name: coraline
 ```
 

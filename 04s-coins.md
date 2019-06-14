@@ -1,6 +1,10 @@
 ## Coin Puzzles {#lockecoin}
 
-The next puzzle adapts an argument that Timothy @Williamson2007 made about certain kinds of infinitary events. A fair coin is about to be tossed. It will be tossed repeatedly until it lands heads twice. The coin tosses will get faster and faster, so even if there is an infinite sequence of tosses, it will finish in a finite time. (This isn't physically realistic, but this need not detain us. All that will really matter for the example is that someone could believe this will happen, and that's physically possible.)
+So rational belief is not identical to rationally having the dispositions that constitute belief. But nor is rational belief a matter of rational high credence. I'll offer two arguments for this, one in this section and one in the next.
+
+The point of these two sections is as much metaphysical as it is normative. I'm interested in arguing against the 'Lockean' thesis that to believe $p$ just is to have a high credence in $p$. Normally, this threshold of high enough belief for credence is taken to be interest-invariant, so this is a rival to IRT. But there is some variation in the literature about whether the phrase _The Lockean Thesis_ refers to a metaphysical claim, belief is high credence, or a normative claim, rational belief is rational high credence. Since everyone who accepts the metaphysical claim also accepts the normative claim, and usually takes it to be a consequence of the metaphysical claim, arguing against the normative claim is a way of arguing against the metaphysical claim.
+
+The first puzzle for this Lockean view comes from an argument that Timothy @Williamson2007 made about certain kinds of infinitary events. A fair coin is about to be tossed. It will be tossed repeatedly until it lands heads twice. The coin tosses will get faster and faster, so even if there is an infinite sequence of tosses, it will finish in a finite time. (This isn't physically realistic, but this need not detain us. All that will really matter for the example is that someone could believe this will happen, and that's physically possible.)
 
 Consider the following three propositions
 
@@ -18,4 +22,4 @@ But since betting on (A) weakly dominates betting on (B), and betting on (B) wea
 
 Assume (something the Lockean may not wish to acknowledge) that to say something might be the case is to reject believing its negation. Then a rational person faced with these choices will not believe _Either (B) is false or (C) is true_; they will take its negation to be possible. But that proposition is at least as probable as (C), so it too has probability 1. So probability 1 does not suffice for belief.
 
-This is a real problem for the Lockean - no probability suffices for belief, not even probability 1. It's also, of course, a problem for the view that belief is probability 1.
+This is a real problem for the Lockean - no probability suffices for belief, not even probability 1. It's also, of course, a problem for the view that belief is probability 1 that I discussed back in section \@ref(probone). The next section discusses another way in which these two views are problematic.

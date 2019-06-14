@@ -34,22 +34,19 @@ date: \today
 ```{r child='03-knowledge.md'}
 ```
 
-```{r child='04-ratbel.md'}
-```
-
 ```{r child='05-evidence.md'}
 ```
 
-```{r child='06-stakes.md'}
+```{r child='04-ratbel.md'}
 ```
 
 ```{r child='07-ties.md'}
 ```
 
-```{r child='08-changes.md'}
+```{r child='06-stakes.md'}
 ```
 
-```{r child='09-kaprinciple.md'}
+```{r child='08-changes.md'}
 ```
 
 ```{r child='10-preface.md'}

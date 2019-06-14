@@ -1,11 +1,11 @@
-## Atomism about Rational Belief
+## Atomism about Rational Belief {#atomism}
 
-In the previous chapter I argued for two individually necessary and jointly sufficient conditions for belief.^[This section is based on material from my -@Weatherson2012[sect. 3.1].] They are
+In chapter \@ref(belief) I argued for two individually necessary and jointly sufficient conditions for belief.^[This section is based on material from my -@Weatherson2012[sect. 3.1].] They are
 
 1. In some possible decision problem, $p$ is taken for granted.
 2. For every question the agent is interested in, the agent answers the question the same way (i.e., giving the same answer for the same reasons) whether the question is asked unconditionally or conditional on $p$.
 
-At this point one might think that offering a theory of rational belief would be easy. It is rational to believe $p$ just in case it is rational to satisfy these conditions. Unfortunately, this nice thought can't be right. It certainly fails in one direction: it can be irrational to satisfy these conditions while rationally believing $p$. And it can arguably fail in the other direction: it can be rational to satisfy these conditions while being irrational to believe that $p$. The latter turns on some tricky questions about the nature of rationality that are independent of our interest in interests, so I'll put it off for a bit. The first case is more important.
+At this point one might think that offering a theory of rational belief would be easy. It is rational to believe $p$ just in case it is rational to satisfy these conditions. Unfortunately, this nice thought can't be right. It can be irrational to satisfy these conditions while rationally believing $p$.
 
 Coraline is like Anisa and Chamari, in that she has read a reliable book saying that the Battle of Agincourt was in 1415. And she now believes that the Battle of Agincourt was indeed in 1415, for the very good reason that she read it in a reliable book. 
 
@@ -15,7 +15,7 @@ In front of her is a sealed envelope, and inside the envelope a number is writte
 * If she accepts the bet, and the Battle of Agincourt was in 1415, she wins $1.
 * If she accepts the bet, and the Battle of Agincourt was not in 1415, she loses $X$ dollars.
 
-For some reason, Coraline is convinced that $X = 10$. This is very strange, since she was shown the slip of paper just a few minutes ago, and it clearly showed that $X = 1,000,000,000$. Coraline wouldn't bet on when the Battle of Agincourt was at odds of a billion to one. But she would take that bet at 10 to 1, which is what she is faced with. Indeed, she doesn't even conceptualise it as a bet; it's a free dollar she thinks. Right now, she is disposed to treat the date of the battle as a given. She is disposed to lose this disposition should a very long odds bet depend on it. But she doesn't believe she is facing such a bet.
+For some reason, Coraline is convinced that $X = 10$. This is very strange, since she was shown the slip of paper just a few minutes ago, and it clearly showed that $X = 1,000,000,000$. Coraline wouldn't bet on when the Battle of Agincourt was at odds of a billion to one. But she would take that bet at 10 to 1, which is what she thinks she is faced with. Indeed, she doesn't even conceptualise it as a bet; it's a free dollar she thinks. Right now, she is disposed to treat the date of the battle as a given. She is disposed to lose this disposition should a very long odds bet appear to depend on it. But she doesn't believe she is facing such a bet.
 
 So Coraline accepts the bet; she thinks it is a free dollar. And that's when the battle took place, so she wins the dollar. All's well that end's well. But it was a really wildly irrational bet to take. You shouldn't bet at those odds on something you remember from a history book. Neither memory nor history books are that reliable. Coraline was not rational to treat the questions _Should I take this bet?_, and _Conditional on the Battle of Agincourt being in 1415, should I take this bet?_ the same way. Her treating them the same way was fortunate - she won a dollar - but irrational.
 
@@ -50,15 +50,14 @@ But if you need something like vigilance, then you have to allow that vigilance 
 
 If one tries to turn the vague talk of patterns of bets involving one proposition or another into a reductive analysis of when one particular belief is irrational, one will inevitably run into hard cases where a decider has multiple failures. We can't say that what makes Coraline's belief about the envelope, and not her belief about the battle, irrational is that if you replaced the envelope, she would invariably have a rational disposition. After all, she might have some other irrational belief about whatever we replace the envelope with. Or she might have some failure of practical reasoning, like a vigilance failure. Any kind of universal claim, like that it is only bets about the envelope that she gets wrong, won't do the job we need.
 
-The best we can say is that is that there will be a pattern...
+In "Knowledge, Bets and Interests", I tried to use the machinery of credences to make something like this point. The idea was that Coraline's belief in $p$ was rational because her belief just was her high credence in $p$, and that credence was rational. I still think that's approximately right, but it can't be the full story. 
 
-Talk of credences was not quite sensitive to this...
+For one thing, beliefs and credences aren't as closely connected metaphysically as this suggests. To have a belief in $p$ isn't just to have a high credence, it's to be disposed to let $p$ play a certain role. (This will become important in the next two sections.)
 
-One way to get credences - assume away a certain kind of irrationality, use representation theorems...
+For another thing, it is hard to identify precisely what a credence is in the case of an irrational agent. The usual ways we identify credences, via betting dispositions or representation theorems, assume away all irrationality. But an irrational person might still have some rational beliefs. 
 
-Another way to get credences - assume away a different kind of irrationality (i.e., weird cross valuations), build up by parts...
+Attempts to generalise accounts of credences so that they cover the irrational person will end up saying something like what I've said about patterns. What it is to have credence 0.6 in $p$ isn't to have a set of preferences that satisfies all the presuppositions of such and such a representation theorem, and that theorem to say that one can be represented by a probability function $\Pr$ and a utility function $U$ such that $\Pr(p) = 0.6$. That can't be right because some people will, intuitively, have credence about 0.6 in $p$ while not uniformly conforming to these constraints. But what makes them intuitive cases of credence roughly 0.6 in $p$ is that generally they behave like the perfectly rational person with credence 0.6 in $p$, and most of the exceptions are explained by other features of their cognitive system other than their attitude to $p$.
 
-None of these will quite work
+In other words, we don't have a full theory of credences for irrational beings right now, and when we get one, it won't be much simpler than the theory in terms of patterns and explanations I've offered here. So it's best for now to just understand belief in terms of a pattern of dispositions, and say that the belief is  rational just in case that pattern is rational. And that might mean that on some occasions $p$-related activity is irrational even though the pattern of $p$-related activity is a rational pattern. Any given action, like any thing whatsoever, can be classified in any number of ways. What matters here is what explains the irrationality of a particular irrational act, and that will be a matter of which patterns of irrational dispositions the actor has.
 
-But they are close, and they show us what we're basically looking for in limit cases
-
+However we explain Coraline's belief, the upshot is that she has a rational, true belief that is not knowledge. This is a novel kind of Dharmottara case. (Or Gettier case for folks who prefer that nomenclature.) It's not the exact kind of case that Dharmottara originally described. Coraline doesn't infer anything about the Battle of Agincourt from a false belief. But it's a mistake to think that the class of rational, true beliefs that are not knowledge form a natural kind. In general, negatively defined classes are disjunctive; there are ever so many ways to not have a property. An upshot of this discussion of Coraline is that there is one more kind of Dharmottara case than was previously recognised. But as, for example, @WilliamsonLofoten and @Nagel2013-Williamson have shown, we have independent reason for thinking this is a very disjunctive class. So the fact that it doesn't look anything like Dharmottara's example shouldn't make us doubt it is a rational, true belief that is not knowledge.

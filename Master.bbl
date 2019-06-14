@@ -1,5 +1,5 @@
 \newcommand{\SortNoop}[1]{}
-\begin{thebibliography}{88}
+\begin{thebibliography}{85}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -181,13 +181,6 @@ Hawthorne, John. 2004.
   \href{http://dx.doi.org/10.1111/j.1933-1592.2005.tb00540.x}%
 {doi:10.1111/j.1933-1592.2005.tb00540.x}.
 
-\bibitem[{Heal(1994)}]{Heal1994}
-Heal, Jane. 1994.
-\newblock \enquote{Moore's paradox: A Wittgensteinian approach.}
-\newblock \emph{Mind} 103: 5-24,
-  \href{http://dx.doi.org/10.1093/mind/103.409.5}%
-{doi:10.1093/mind/103.409.5}.
-
 \bibitem[{Humberstone(1981)}]{Humberstone1981}
 Humberstone, I.~L. 1981.
 \newblock \enquote{From Worlds to Possibilities.}
@@ -302,15 +295,8 @@ Maitra, Ishani. 2010.
 \newblock In Jessica Brown and Herman Cappelen (eds.), \emph{Assertion: New
   Philosophical Essays}, 277-296. Oxford: Oxford University Press.
 
-\bibitem[{Maitra and Weatherson(2010{\natexlab{a}})}]{MaitraWeatherson2010}
-Maitra, Ishani and Weatherson, Brian. 2010{\natexlab{a}}.
-\newblock \enquote{Assertion, Knowledge and Action.}
-\newblock \emph{Philosophical Studies} 149: 99-118,
-  \href{http://dx.doi.org/10.1007/s11098-010-9542-z}%
-{doi:10.1007/s11098-010-9542-z}.
-
-\bibitem[{Maitra and Weatherson(2010{\natexlab{b}})}]{MaitraWeatherson}
----. 2010{\natexlab{b}}.
+\bibitem[{Maitra and Weatherson(2010)}]{MaitraWeatherson2010}
+Maitra, Ishani and Weatherson, Brian. 2010.
 \newblock \enquote{Assertion, Knowledge and Action.}
 \newblock \emph{Philosophical Studies} 149: 99-118,
   \href{http://dx.doi.org/10.1007/s11098-010-9542-z}%
@@ -415,11 +401,6 @@ Schwitzgebel, Eric. 2008.
   \href{http://dx.doi.org/10.1215/00318108-2007-037}%
 {doi:10.1215/00318108-2007-037}.
 
-\bibitem[{Sorensen(1988)}]{Sorensen1988}
-Sorensen, Roy~A. 1988.
-\newblock \emph{Blindspots}.
-\newblock Oxford: Clarendon Press.
-
 \bibitem[{Sperber et~al.(2010)Sperber, Cl\'ement, Heintz, Mascaro, Mercier,
   Origgi, and Wilson}]{SperberEtAl2010}
 Sperber, Dan, Cl\'ement, Fabrice, Heintz, Christophe, Mascaro, Olivier,
@@ -497,6 +478,13 @@ Weatherson, Brian. 2005{\natexlab{a}}.
 \newblock In Jessica Brown and Mikkel Gerken (eds.), \emph{Knowledge
   Ascriptions}, 75-103. Oxford: Oxford University Press.
 
+\bibitem[{Weatherson(2014)}]{Weatherson2014}
+---. 2014.
+\newblock \enquote{Games, Beliefs and Credences.}
+\newblock \emph{Philosophy and Phenomenological Research} 92: 209-236,
+  \href{http://dx.doi.org/10.1111/phpr.12088}%
+{doi:10.1111/phpr.12088}.
+
 \bibitem[{Weatherson(2016)}]{Weatherson2016}
 ---. 2016.
 \newblock \enquote{Games, Beliefs and Credences.}
@@ -533,13 +521,6 @@ Williamson, Timothy. 1994.
 \newblock \emph{{Vagueness}}.
 \newblock New York: Routledge.
 
-\bibitem[{Williamson(1996)}]{Williamson1996-WILKAA}
----. 1996.
-\newblock \enquote{{Knowing and Asserting}.}
-\newblock \emph{Philosophical Review} 105: 489-523,
-  \href{http://dx.doi.org/10.2307/2998423}%
-{doi:10.2307/2998423}.
-
 \bibitem[{Williamson(2000)}]{Williamson2000}
 ---. 2000.
 \newblock \emph{{Knowledge and its Limits}}.
@@ -552,10 +533,12 @@ Williamson, Timothy. 1994.
   \href{http://dx.doi.org/10.1111/j.1467-8284.2007.00671.x}%
 {doi:10.1111/j.1467-8284.2007.00671.x}.
 
-\bibitem[{Williamson(2013)}]{Williamson2013-WILGCI}
+\bibitem[{Williamson(2013)}]{WilliamsonLofoten}
 ---. 2013.
 \newblock \enquote{Gettier Cases in Epistemic Logic.}
-\newblock \emph{Inquiry: An Interdisciplinary Journal of Philosophy} 56: 1--14.
+\newblock \emph{Inquiry} 56: 1-14,
+  \href{http://dx.doi.org/10.1080/0020174X.2013.775010}%
+{doi:10.1080/0020174X.2013.775010}.
 
 \bibitem[{Zagzebski(1994)}]{Zagzebski1994}
 Zagzebski, Linda. 1994.
