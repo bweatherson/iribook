@@ -21,7 +21,7 @@ Let's make all that (marginally) more concrete. Human is offered a bet on *p*. I
 -   The Radical Interpreter has to choose whether *p* is part of Human's evidence or not.
 -   Human has to decide whether to Take or Decline the bet.
 
-The Radical Interpreter achieves their goal if human takes the bet iff *p* is part of their evidence. If *p* is part of the evidence, then The Radical Interpreter thinks that the bet has positive expected utility, so Human will take it. And if *p* is not part of the evidence, then The Radical Interpreter thinks that the bet has negative expected utility, so Human will decline it. Either way, The Radical Interpreter wants Human's action to coordinate with theirs. And Human, of course, wants to maximise expected utility. So we get the following table for the game.
+The Radical Interpreter achieves their goal if human takes the bet iff *p* is part of their evidence. If *p* is part of the evidence, then The Radical Interpreter thinks that the bet has positive expected utility, so Human will take it. And if *p* is not part of the evidence, then The Radical Interpreter thinks that the bet has negative expected utility, so Human will decline it. Either way, The Radical Interpreter wants Human's action to coordinate with theirs. And Human wants to maximise expected utility. So we get the following table for the game.
 
                      $p \in E$   $p \notin E$
   ----------------- ----------- --------------
