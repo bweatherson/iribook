@@ -1,4 +1,4 @@
-## Holism and Defeaters {neta}
+## Holism and Defeaters {#neta}
 
 The picture of evidence I've outlined here grounds a natural response to a nice puzzle case due to Ram @Neta2007.^[This section draws on section 5 of my -@Weatherson2011.]
 
