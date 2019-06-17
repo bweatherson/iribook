@@ -33,3 +33,9 @@
 # Section name: evsolution
 ```
 
+```{r child='05s-cutelim.md'}
+```
+
+```{r child='05s-neta.md'}
+```
+

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.3.17)  14 JUN 2019 11:33
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.3.17)  14 JUN 2019 11:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1267,55 +1267,98 @@ Chapter 5.
 Package natbib Warning: Citation `Harper1986' on page 91 undefined on input lin
 e 1564.
 
-[91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102]
+[91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103]
 
-LaTeX Warning: Reference `cutelim' on page 103 undefined on input line 1825.
+Package natbib Warning: Citation `Goldman20xx' on page 104 undefined on input l
+ine 1836.
 
-[103] [104]
+[104]
+
+Package natbib Warning: Citation `Nair2019' on page 105 undefined on input line
+ 1854.
+
+[105]
+Underfull \hbox (badness 1655) in paragraph at lines 1879--1880
+[]\TU/AdobeCaslonPro(0)/m/n/10.95 The problem for E=K should be fairly clear. T
+he reason cut-
+ []
+
+[106]
+
+Package natbib Warning: Citation `Bird2004' on page 107 undefined on input line
+ 1885.
+
+
+Package natbib Warning: Citation `Maher1996' on page 107 undefined on input lin
+e 1891.
+
+[107]
+Underfull \hbox (badness 1163) in paragraph at lines 1895--1896
+[]\TU/AdobeCaslonPro(0)/m/n/10.95 So I agree with Bird that we can’t identify e
+vidence with non-
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 1895--1896
+\TU/AdobeCaslonPro(0)/m/n/10.95 inferential knowledge, if by that we mean knowl
+edge that was not
+ []
+
+[108]
+
+Package natbib Warning: Citation `Dogramaci2015' on page 109 undefined on input
+ line 1903.
+
+[109]
+
+Package natbib Warning: Citation `Weatherson2011' on page 110 undefined on inpu
+t line 1928.
+
+[110] [111] [112] [113] [114
+
+]
 Chapter 6.
-[105
+[115] [116] [117] [118] [119] [120] [121] [122] [123]
 
-] [106] [107] [108] [109] [110] [111] [112] [113]
+Package natbib Warning: Citation `Brandenberger2008' on page 124 undefined on i
+nput line 2127.
 
-Package natbib Warning: Citation `Brandenberger2008' on page 114 undefined on i
-nput line 1992.
-
-[114] [115] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125] [126
+[124] [125] [126] [127] [128] [129] [130] [131] [132] [133] [134] [135] [136
 
 ]
 Chapter 7.
-[127] [128
+[137] [138
 
 ]
 Chapter 8.
-[129] [130
+[139] [140
 
 ]
 Chapter 9.
-[131] [132
+[141] [142
 
 ]
 Chapter 10.
 
-LaTeX Warning: Reference `lockean' on page 133 undefined on input line 2204.
+LaTeX Warning: Reference `lockean' on page 143 undefined on input line 2339.
 
 
-Underfull \hbox (badness 4108) in paragraph at lines 2224--2225
+Underfull \hbox (badness 4108) in paragraph at lines 2359--2360
 []\TU/AdobeCaslonPro(0)/m/n/10.95 If someone rationally believes $[]$, and rati
 onally
  []
 
-[133] [134]
-Underfull \hbox (badness 3884) in paragraph at lines 2242--2243
+[143] [144]
+Underfull \hbox (badness 3884) in paragraph at lines 2377--2378
 []\TU/AdobeCaslonPro(0)/m/n/10.95 Alternatively, we might try to use an argumen
 t by Timothy
  []
 
-[135] [136] [137] [138] [139] [140] [141] [142
+[145] [146] [147] [148] [149] [150] [151] [152
 
 ]
 Chapter 11.
-(./Master.bbl [143] [144
+(./Master.bbl [153] [154
 
 ]
 Underfull \hbox (badness 3623) in paragraph at lines 28--33
@@ -1329,7 +1372,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--33
 ational Journal of Game Theory \TU/AdobeCaslonPro(0)/m/n/10.95 28: 263-300,
  []
 
-[145]
+[155]
 Underfull \hbox (badness 1874) in paragraph at lines 78--83
 []\TU/AdobeCaslonPro(0)/m/n/10.95 Cohen, Stewart. 2004.  “Knowledge, assertion,
  and practical rea-
@@ -1342,7 +1385,7 @@ osophical Issues \TU/AdobeCaslonPro(0)/m/n/10.95 14: 482-491, []doi:10.1111/j.1
 533-
  []
 
-[146]
+[156]
 Underfull \hbox (badness 6461) in paragraph at lines 210--215
 []\TU/AdobeCaslonPro(0)/m/n/10.95 Kohlberg, Elon and Mertens, Jean-Francois. 19
 86.  “On the
@@ -1355,7 +1398,7 @@ aslonPro(0)/m/it/10.95 Econometrica \TU/AdobeCaslonPro(0)/m/n/10.95 54: 1003-10
 37,
  []
 
-[147]
+[157]
 Underfull \hbox (badness 10000) in paragraph at lines 273--278
 []\TU/AdobeCaslonPro(0)/m/n/10.95 —. 1988.  “Desire as Belief.”  \TU/AdobeCaslo
 nPro(0)/m/it/10.95 Mind \TU/AdobeCaslonPro(0)/m/n/10.95 97: 323-332,
@@ -1368,39 +1411,45 @@ slonPro(0)/m/it/10.95 Mind \TU/AdobeCaslonPro(0)/m/n/10.95 105: 303-313,
  []
 
 
-Underfull \hbox (badness 5771) in paragraph at lines 338--344
+Underfull \hbox (badness 5771) in paragraph at lines 345--351
 \TU/AdobeCaslonPro(0)/m/n/10.95 ability.”  \TU/AdobeCaslonPro(0)/m/it/10.95 Stu
 dies In History and Philosophy of Science Part B:
  []
 
 
-Underfull \hbox (badness 3612) in paragraph at lines 338--344
+Underfull \hbox (badness 3612) in paragraph at lines 345--351
 \TU/AdobeCaslonPro(0)/m/it/10.95 Studies In History and Philosophy of Modern Ph
 ysics \TU/AdobeCaslonPro(0)/m/n/10.95 41: 27-40,
  []
 
-[148]
-Underfull \hbox (badness 10000) in paragraph at lines 426--431
+[158] [159]
+Underfull \hbox (badness 10000) in paragraph at lines 440--445
 []\TU/AdobeCaslonPro(0)/m/n/10.95 —. 1996.  “Knowledge, Belief and Counterfactu
 al Reason-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--431
+Underfull \hbox (badness 10000) in paragraph at lines 440--445
 \TU/AdobeCaslonPro(0)/m/n/10.95 ing in Games.”  \TU/AdobeCaslonPro(0)/m/it/10.9
 5 Economics and Philosophy \TU/AdobeCaslonPro(0)/m/n/10.95 12: 133-163,
  []
 
-[149] [150])
+
+Underfull \hbox (badness 1571) in paragraph at lines 515--520
+[]\TU/AdobeCaslonPro(0)/m/n/10.95 Weisberg, Jonathan. 2010.  “Bootstrapping in 
+General.”  \TU/AdobeCaslonPro(0)/m/it/10.95 Philoso-
+ []
+
+[160])
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2351.
-[151]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2351.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2486.
+[161]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2486.
 (./Master.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2351.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2351.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2486.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2486.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1409,12 +1458,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 23735 strings out of 493007
- 439336 string characters out of 6134605
- 569026 words of memory out of 5000000
- 27447 multiletter control sequences out of 15000+600000
+ 23751 strings out of 493007
+ 439597 string characters out of 6134605
+ 569227 words of memory out of 5000000
+ 27463 multiletter control sequences out of 15000+600000
  552819 words of font info for 82 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 46i,11n,116p,10447b,598s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,11n,116p,10447b,596s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Master.pdf (151 pages).
+Output written on Master.pdf (161 pages).

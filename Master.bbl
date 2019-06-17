@@ -1,5 +1,5 @@
 \newcommand{\SortNoop}[1]{}
-\begin{thebibliography}{85}
+\begin{thebibliography}{88}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -334,6 +334,13 @@ Nagel, Jennifer. 2008.
 \newblock \emph{Knowledge: A Very Short Introduction}.
 \newblock Oxford: Oxford University Press.
 
+\bibitem[{Neta(2007)}]{Neta2007}
+Neta, Ram. 2007.
+\newblock \enquote{Anti-intellectualism and the Knowledge-Action Principle.}
+\newblock \emph{Philosophy and Phenomenological Research} 75: 180-187,
+  \href{http://dx.doi.org/10.1111/j.1933-1592.2007.00069.x}%
+{doi:10.1111/j.1933-1592.2007.00069.x}.
+
 \bibitem[{North(2010)}]{North2010}
 North, Jill. 2010.
 \newblock \enquote{An empirical approach to symmetry and probability.}
@@ -346,6 +353,13 @@ North, Jill. 2010.
 Nozick, Robert. 1981.
 \newblock \emph{Philosophical Explorations}.
 \newblock Cambridge, MA: Harvard University Press.
+
+\bibitem[{Pryor(2004)}]{Pryor2004}
+Pryor, James. 2004.
+\newblock \enquote{What's Wrong with Moore's Argument?}
+\newblock \emph{Philosophical Issues} 14: 349-378,
+  \href{http://dx.doi.org/10.1111/j.1533-6077.2004.00034.x}%
+{doi:10.1111/j.1533-6077.2004.00034.x}.
 
 \bibitem[{Ramsey(1990)}]{RamseyGeneralProp}
 Ramsey, Frank. 1990.
@@ -497,8 +511,15 @@ Weatherson, Brian. 2005{\natexlab{a}}.
 \newblock \emph{Normative Externalism}.
 \newblock Oxford: Oxford University Press.
 
+\bibitem[{Weisberg(2010)}]{Weisberg2010}
+Weisberg, Jonathan. 2010.
+\newblock \enquote{Bootstrapping in General.}
+\newblock \emph{Philosophy and Phenomenological Research} 81: 525-548,
+  \href{http://dx.doi.org/10.1111/j.1933-1592.2010.00448.x}%
+{doi:10.1111/j.1933-1592.2010.00448.x}.
+
 \bibitem[{Weisberg(2013)}]{Weisberg2013}
-Weisberg, Jonathan. 2013.
+---. 2013.
 \newblock \enquote{Knowledge in Action.}
 \newblock \emph{Philosophers' Imprint} 13: 1-23,
   \href{http://dx.doi.org/2027/spo.3521354.0013.022}%

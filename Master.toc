@@ -42,25 +42,27 @@
 \contentsline {subsection}{\numberline {5.4.1}The Dominance Argument for Risk-Dominant Equilibria}{97}{subsection.5.4.1}
 \contentsline {subsection}{\numberline {5.4.2}Making One Signal Precise}{101}{subsection.5.4.2}
 \contentsline {section}{\numberline {5.5}Objections and Replies}{102}{section.5.5}
-\contentsline {chapter}{\numberline {6}Rational Belief}{105}{chapter.6}
-\contentsline {section}{\numberline {6.1}Atomism about Rational Belief}{105}{section.6.1}
-\contentsline {section}{\numberline {6.2}Coin Puzzles}{110}{section.6.2}
-\contentsline {section}{\numberline {6.3}Playing Games}{112}{section.6.3}
-\contentsline {section}{\numberline {6.4}Puzzles for Lockeans}{119}{section.6.4}
-\contentsline {subsection}{\numberline {6.4.1}Arbitrariness}{119}{subsection.6.4.1}
-\contentsline {subsection}{\numberline {6.4.2}Correctness}{121}{subsection.6.4.2}
-\contentsline {subsection}{\numberline {6.4.3}Moorean Paradoxes}{122}{subsection.6.4.3}
-\contentsline {subsection}{\numberline {6.4.4}Closure and the Lockean Theory}{123}{subsection.6.4.4}
-\contentsline {section}{\numberline {6.5}Belief as Probability One}{124}{section.6.5}
-\contentsline {section}{\numberline {6.6}Solving the Challenges}{124}{section.6.6}
-\contentsline {subsection}{\numberline {6.6.1}Coins}{124}{subsection.6.6.1}
-\contentsline {subsection}{\numberline {6.6.2}Games}{124}{subsection.6.6.2}
-\contentsline {subsection}{\numberline {6.6.3}Arbitrariness}{125}{subsection.6.6.3}
-\contentsline {subsection}{\numberline {6.6.4}Moore}{125}{subsection.6.6.4}
-\contentsline {chapter}{\numberline {7}Hard Choices}{127}{chapter.7}
-\contentsline {chapter}{\numberline {8}Stakes}{129}{chapter.8}
-\contentsline {chapter}{\numberline {9}Facing the Changes}{131}{chapter.9}
-\contentsline {chapter}{\numberline {10}The Preface Paradox}{133}{chapter.10}
-\contentsline {section}{\numberline {10.1}Solving the Paradox}{133}{section.10.1}
-\contentsline {section}{\numberline {10.2}Too Little Closure?}{138}{section.10.2}
-\contentsline {chapter}{\numberline {11}Conclusion}{143}{chapter.11}
+\contentsline {section}{\numberline {5.6}Evidence, Knowledge and Cut-Elimination}{104}{section.5.6}
+\contentsline {section}{\numberline {5.7}Holism and Defeaters \{neta\}}{110}{section.5.7}
+\contentsline {chapter}{\numberline {6}Rational Belief}{115}{chapter.6}
+\contentsline {section}{\numberline {6.1}Atomism about Rational Belief}{115}{section.6.1}
+\contentsline {section}{\numberline {6.2}Coin Puzzles}{120}{section.6.2}
+\contentsline {section}{\numberline {6.3}Playing Games}{122}{section.6.3}
+\contentsline {section}{\numberline {6.4}Puzzles for Lockeans}{129}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Arbitrariness}{129}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Correctness}{131}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}Moorean Paradoxes}{132}{subsection.6.4.3}
+\contentsline {subsection}{\numberline {6.4.4}Closure and the Lockean Theory}{133}{subsection.6.4.4}
+\contentsline {section}{\numberline {6.5}Belief as Probability One}{134}{section.6.5}
+\contentsline {section}{\numberline {6.6}Solving the Challenges}{134}{section.6.6}
+\contentsline {subsection}{\numberline {6.6.1}Coins}{134}{subsection.6.6.1}
+\contentsline {subsection}{\numberline {6.6.2}Games}{134}{subsection.6.6.2}
+\contentsline {subsection}{\numberline {6.6.3}Arbitrariness}{135}{subsection.6.6.3}
+\contentsline {subsection}{\numberline {6.6.4}Moore}{135}{subsection.6.6.4}
+\contentsline {chapter}{\numberline {7}Hard Choices}{137}{chapter.7}
+\contentsline {chapter}{\numberline {8}Stakes}{139}{chapter.8}
+\contentsline {chapter}{\numberline {9}Facing the Changes}{141}{chapter.9}
+\contentsline {chapter}{\numberline {10}The Preface Paradox}{143}{chapter.10}
+\contentsline {section}{\numberline {10.1}Solving the Paradox}{143}{section.10.1}
+\contentsline {section}{\numberline {10.2}Too Little Closure?}{148}{section.10.2}
+\contentsline {chapter}{\numberline {11}Conclusion}{153}{chapter.11}

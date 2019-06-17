@@ -1828,6 +1828,141 @@ to be ideal.
 
 \emph{Reply}: This is somewhat true. There are other ways of embedding the game involving Human and The Radical Interpreter in global games that lead to different outcomes. They are usually somewhat artificial; e.g., by having the signal be systematically biased in one way. But what really matters is the game where the error in Human's knowledge of the payoffs is determined by their actual epistemic limitations. I think that will lead to something like the model we have here. But it is possible that the final result will differ a bit from what I have here, or (more likely) have some indeterminacy about just how interests interact with evidence and knowledge. The precise details are ultimately less important to me than whether we can provide a motivated story of how interests affect knowledge and evidence that does not presuppose we know what the agent's evidence is. And the method I've outlined here shows that we can do that, even if we end up tinkering a bit with the details.
 
+\hypertarget{cutelim}{%
+\section{Evidence, Knowledge and Cut-Elimination}\label{cutelim}}
+
+In the previous section I noted that my theory of evidence is committed to denying Williamson's E=K thesis. This is the thesis that says one's evidence is all and only what one knows. What I say is consistent with, and arguably committed to, one half of that thesis. Nothing I've said here provides a reason to reject the implication that if \(p\) is part of one's evidence, then one knows \(p\). Indeed, the story I'm telling would have to be complicated even further if that fails. But I am committed to denying the other direction. On my view, there can be cases where someone knows \(p\), but \(p\) is not part of their evidence.
+
+Alvin \citet{Goldman20xx} provides one reason for believing in such cases. Imagine that S has seen a lot of \(F\)s that are \(G\)s in a wide variety of circumstances. And imagine that the following are both true.
+
+\begin{itemize}
+\tightlist
+\item
+  On the basis of these observations, S believes, and knows, that the nearest unobserved \(F\) is also \(G\).
+\item
+  S does not know that all \(F\)s are \(G\)s.
+\item
+  In fact, all \(F\)s are \(G\)s.
+\end{itemize}
+
+Here are two ways that this might be consistent. It might be that S can know of any given \(F\) that it is \(G\), but not know the universally quantified claim that all \(F\)s are \(G\)s. If S knows precisely which objects exist in the world, this requires a violation of an infinitary version of Multi Premise Closure, though if S does not know precisely which objects exist then it need not. But a more plausible way might be that S can know that nearby \(F\)s are \(G\)s, but only have reason to be fairly confident that distant \(F\)s are \(G\)s.
+
+Assume for reductio that S's evidence is all that she knows. She knows the nearest unobserved \(F\) is \(G\). So that's part of her evidence. Given her observations, and this evidence, it seems like she should be able to infer that the second nearest unobserved \(F\) is \(G\). So she knows that \(F\) is \(G\). So that's in her evidence. Given that evidence, she can infer that the third nearest unobserved \(F\) is \(G\), and so on. And after enough steps of this, we get an inconsistency, since for distant enough \(F\)s she does not know they are \(G\). If S does not know the spatial distribution of \(F\)s, she might not realise the contradiction. But the point is not that S's thought is inconsistent, but that our theorising about S is.
+
+I think Goldman's kind of `chain reaction' argument shows that we need to distinguish between evidence and knowledge. There are nearby \(F\)s that S knows are \(G\). But that they are \(G\) is no part of her evidence. When she observes them, and they become part of her evidence, she can make further inferences. So I'm not worried by the fact that my theory of evidence is inconsistent with E=K.
+
+There is a nice link between Goldman's arguments against E=K, at least as I'm interpreting them, and Shyam Nair's work on inferential cut-elimination \citep[Nair2020]{Nair2019}. In logic, cut-elimination is the following rule of proof. Assume that some premises \(\Gamma\) entail \(A\). And assume that the union of some further premises \(\Delta\) with \(\{A\}\) entail \(B\). Then the union of \(\Gamma\) and \(\Delta\) entails \(B\). Intuitively, if half of your premises let you infer \(A\), and the other half plus \(A\) let you infer \(B\), then the premises together let you infer \(B\). And most logical systems will validate such a rule.\footnote{A lot of what follows draws on ideas I learned from \citet{Weisberg2010}.}
+
+Indeed, in most logical systems, we can go further than this. Let \textbf{Cut} be a new logical rule that lets you infer \(B\) from \(\Gamma \cup \Delta\) whenever there is an \(A\) such that \(\Gamma\) entails \(A\), and \(\Delta \cup \{A\}\) entails \(B\). Then in many proof systems, \textbf{Cut} will be redundant; what you can prove with it is just what you can prove without it. A proof of this is sometimes called a cut-elimination proof; it shows that the rule \textbf{Cut} can be eliminated without loss.
+
+What Nair argues is that ordinary inference does not have this cut-elimination property. That's not because our inferential rules other than \textbf{Cut} are too weak to make the inferences we want. It's because \textbf{Cut} is a bad rule in the context of ordinary inference.
+
+Given that ordinary inference is non-monotonic, unlike logical implication, it shouldn't be too surprising that \textbf{Cut} fails. Assume that the inference from \(\Gamma\) to \(A\) is a good one, but the inference from \(\Gamma \cup \{D\}\) to \(A\) is bad. Intuitively, \(D\) is an undercutting defeater the inference from \(\Gamma\) to \(A\). Then \textbf{Cut} says that if 1 and 2 obtain, 3 should obtain as well.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  It is reasonable to infer \(A\) from \(\Gamma\).
+\item
+  It is reasonable to infer \(A \wedge D\) from \(\{A, D\}\).
+\item
+  So, it is reasonable to infer \(A \wedge D\) from \(\Gamma \cup \{D\}\).
+\end{enumerate}
+
+But 3 is false. By hypothesis \(\Gamma \cup \{D\}\) does not support a reasonable inference to \(A\). And that could be so even if 1 and 2 are true.
+
+If that was too abstract, here is a more concrete illustration of the point. Assume you're in a social setting where people are routinely very honest. And you know this; you've observed a lot more honesty around here than you're used to. It's not like no one ever lies. But the background rate of honesty is such that whatever anyone says can be reasonably believed unless you have a very specific reason to think they are not telling the truth. Let \(\Gamma\) be the combination of this background evidence, plus the fact that Bruce said he was in the office last Saturday. And let \(D\) be that two people told you that Bruce is, unusually for this environment, a compulsive liar. Then \(\Gamma\) supports the intermediate conclusion that Bruce was in the office last Saturday. And that Bruce was in the office last Saturday, combined with the information that two people said he's a compulsive liar, supports the conclusion that someone who two people called a compulsive liar was in the office last Saturday. But \(\Gamma\) plus \(D\) does not support that conclusion, since given the combined information we have no reason to believe that anyone, let alone a compulsive liar, was in the office last Saturday.
+
+These kinds of cases seem clearly possible and coherent to me. And I agree with Nair that they provide us with good grounds to reject cut-elimination for ordinary inference. What I will spend the rest of this section on is considering the broader epistemological implications of the failure of cut-elimination, and in particular their implications for E=K and IRT.
+
+The problem for E=K should be fairly clear. The reason cut-elimination fails is that what inferences can be made with \(A\) differ depending on whether \(A\) is a premise or an intermediate conclusion. As I'd put it, they depend on whether \(A\) is evidence, or merely something known.
+
+I described two cases of that phenomena above, and I think both pose problems for E=K. One was the example (drawn from Goldman's work) of explosive inductive inference, the other was the example (drawn from Nair's work) of defeasible, and eventually defeated, inference. Start with the second of these cases.
+
+Imagine two people who know that Bruce was in the office last Saturday. The first saw Bruce in the office, the second was told this by Bruce, and they have no reason to doubt him. They are then both told that Bruce is a compulsive liar. The second, but not the first, can infer that someone they are told is a compulsive liar was in the office last Saturday. We need to explain this, and the best explanation, I suggest, is that while both knew that Bruce was in the office, only the first had this as evidence.
+
+Alexander \citet{Bird2004}, in the course of defending E=K against a view somewhat like mine, points out that cases like this are not inconsistent with E=K. After all, one could say that the difference is that the first person retains the evidence that Bruce was in the office on hearing reports that Bruce is a liar, while the second person loses this evidence. On the one hand, this isn't much of an explanation; it mostly restates what is going on. But on the other hand, as Bird himself stresses, everyone needs to account for the possibility of evidential defeat, and it is possible that once we have such an account, this case will fall under it. I think the upshot of all this is that the examples involving Bruce are not great for the E=K theory, but not devastating either.
+
+The Goldman-inspired examples are, I think, considerably harder.\footnote{And it's worth noting that the examples Nair himself uses to motivate cut elimination are just as hard. The Bruce examples are my variation on his examples, and I modified them to help present the view, not to provide the best argument for the inadmissibility of cut-elimination.} The theorist has observed all these \(F\)s that are \(G\)s. They make lots of inferences to conclusions of the form \emph{The n'th nearest F that is unobserved at t is also G}. (Here \(t\) is the time they are making these inferences.) And these are good inferences as long as \(n < k\) for some high value of \(k\). But eventually, when \(n=k\), it's a bad inference, and does not preserve knowledge.
+
+Now they make tons of observations. They observe all of the \(k-1\) nearest \(F\)s that were unobserved at \(t\), and they are all \(G\). They then inductively infer \emph{The k'th nearest F that was unobserved at t is also G}. And surely that's knowledge; we have to say it is on pain of inductive scepticism. And we need to explain what has changed. Here the E=K explanation looks quite poor. The explanation, I take it, has to be that it was not part of their evidence that the \(k\)'th nearest \(F\) that was unobserved at \(t\) is also \(G\), but now it is. But this seems mistaken twice over. For one thing, what is needed is to explain why this proposition can now be used in reasoning, and the E=K view simply asserts this. For another, this seems to make a mockery of the fact that it is still an inductive inference that this \(F\) is \(G\). Inferring that something is true from that very thing looks like a deductive inference.
+
+It would be natural to conclude from this that evidence is something like non-inferential knowledge. This is very similar to a view defended by Patrick \citet{Maher1996}. And it is, I will argue, close to the right view. But it can't be exactly right, for reasons Bird covers well. Assume that our inquirer sees that \(A\) and rationally infers \(B\). On the view that evidence is non-inferential knowledge, \(A\) is evidence but \(B\) is not. Now imagine that at some much later time, the inquirer remembers \(B\), but has forgotten that it is based on \(A\). This isn't necessarily irrational. As \citet{Harman1986} stresses, an obligation to remember our evidence is wildly unrealistic. They learn \(C\), and infer \(B \wedge C\). This seems perfectly rational. But why is it rational?
+
+If evidence is non-inferential knowledge, then this is a mystery. Since \(B\) was inferred, that can't be the evidence that justifies \(B \wedge C\). So the only other option is that the evidence is the, now forgotten, \(A\). It is puzzling how something that is forgotten can now justify. But a bigger problem is that if \(A\) is the inquirer's evidence, then they should also be able to infer \(A \wedge C\). But this would be an irrational inference.
+
+So I agree with Bird that we can't identify evidence with non-inferential knowledge, if by that we mean knowledge that was not originally gained through inference. (And what else could it mean?) But a nearby theory can work. The thing about evidence is that it can play a distinctive role in reasoning, it provides a distinctive kind of reason. In particular, it provides basic reasons.
+
+Evidence stops regresses. That's why we can say that our fundamental starting points are self-evident. Now there is obviously a controversy about what things are self-evident. I don't find it particularly likely that claims about the moral rights we were endowed with by our Creator are self-evident. But I do think it is true that a lot of things are self-evident. And we should take this notion seriously. Our evidence is that knowledge which provides basic reasons.
+
+What is it for a reason to be basic? It isn't that it was not originally inferred. Something that was once inferred from long forgotten premises may now be a basic reason. Rather, it is something that needs no further reason given as support. (Its support is itself, since it is self-evident.) What makes a reason need further support? I'm an interest-relative epistemologist, so I think this will be a function of the agent's interests. But that's not essential to the story. What is essential is that evidence provides a reason that does not in turn require more justification.
+
+This picture suggests an odd result about the forgotten evidence cases. Consider the inquirer who is told by Bruce that he was at the office last Saturday. Now imagine she remembers that Bruce was at the office, but forgets she learned this from Bruce. And then she is told (incorrectly) that Bruce is a pathological liar. She infers that someone she was told is a pathological liar was at the office last Saturday. Is this a good inference? I think it is. And I think it is even though it would have been a bad inference had the inquirer remembered their reason for believing Bruce was at the office. This is puzzling; forgetting one's evidence puts one in a better epistemic position. But as long as we believe in defeaters, we can think that lacking evidence can put one in a better epistemic position. And as long as we thinking that forgetting is a rationally permissible way to lose evidence, it follows that forgetting can put one in a better epistemic position. This is odd, but an unavoidable consequence of some natural commitments.
+
+Note that this case of forgetten evidence is different from the much discussed case of making an irrational inference, then forgetting the evidence while retaining belief in the conclusion. (Sinan \citet{Dogramaci2015} has a good discussion of the issues this case raises, and of the extensive literature on it.) I can stay completely neutral on that case. All I'm committed to is that forgetting the evidence in a rational evidence can immunise one against defeaters to that inference.
+
+This case, and really any case where cut-elimination fails, raises a problem for the way that Jeremy Fantl and Matthew McGrath spell out their version of IRT. Here is a principle they rely on in motivating IRT.
+
+\begin{quote}
+When you know a proposition \(p\), no weaknesses in your epistemic position with respect to \(p\)---no weaknesses, that is, in your standing on any truth-relevant dimension with respect to \(p\)---stand in the way of \(p\) justifying you in having further beliefs. \citep[64]{FantlMcGrath2009}
+\end{quote}
+
+And a few pages later they offer the following gloss on this principle.
+
+\begin{quote}
+We offer no analysis of the intuitive notion of `standing in the way'. But we do think that, when Y does not obtain, the following counterfactual condition is sufficient for a subject's position on some dimension d to be something that stands in the way of Y obtaining: whether Y obtains can vary with variations in the subject's position on d, holding fixed all other factors relevant to whether Y obtains. \citep[67]{FantlMcGrath2009}
+\end{quote}
+
+This gloss suggests that the difference between knowledge and evidence is something that stands in the way of an inference. The inquirer who knows that nearby \(F\)s are \(G\)s, but does not know that somewhat distant \(F\)s are \(G\)s, has many things standing in the way of this knowledge. One of them is, according to this test, that her evidence does not include that all nearby \(F\)s are \(G\)s. Yet this is something she knows. So a weakness in her epistemic position with respect to the nature of nearby \(F\)s, that it is merely evidence and not knowledge, stands in the way of it justifying further beliefs.
+
+The same thing will be true whenever cut-elimination fails. If S knows \(A\) on the basis of \(\Gamma\), but \(\Gamma\) plus \(\Delta\) don't suffice to know \(B\), though \(A\) plus \(\Delta\) does, then the inquirer knows \(A\), but a weakness in her epistemic position, namely that she does not have \(A\) as evidence, stands in the way of justifiably believing \(B\).
+
+This is why I didn't say that the role of knowledge in theoretical reasoning is that the knower is immune from all criticisms, or from all criticisms save for irrelevance. It isn't even that the knower is immune from all criticisms relating to `strength of epistemic position'. Rather, they are immune from criticism for taking a certain kind of risk. The problem with making excessive inductive inferences in Goldman's explosion examples is not that the intermediate steps might be false. They are, after all, known. It is rather that, given that these intermediate steps are indeed intermediate, they can only justify whatever is justified by the prior steps.
+
+Of course, this difference between my version of IRT and Fantl and McGrath's is tiny compared to how much our theories have in common. And indeed, it's tiny compared to how much my theory simply borrows from theirs. But it's helpful I think to highlight the differences to understand the choice points within versions of IRT.
+
+\hypertarget{holism-and-defeaters-neta}{%
+\section{Holism and Defeaters \{neta\}}\label{holism-and-defeaters-neta}}
+
+The picture of evidence I've outlined here grounds a natural response to a nice puzzle case due to Ram \citet{Neta2007}.\footnote{This section draws on section 5 of my \citeyearpar{Weatherson2011}.}
+
+\begin{quote}
+Kate needs to get to Main Street by noon: her life depends upon it. She is desperately searching for Main Street when she comes to an intersection and looks up at the perpendicular street signs at that intersection. One street sign says ``State Street'' and the perpendicular street sign says ``Main Street.'' Now, it is a matter of complete indifference to Kate whether she is on State Street--nothing whatsoever depends upon it. \citep[182]{Neta2007}
+\end{quote}
+
+Neta argues that IRT implies Kate knows that she is on State Street, but does not know that she is on Main Street. And, he suggests, this is intuitively implausible. I think I agree with that intuition, so let's take it for granted and ask whether IRT has this problematic implication.
+
+Let's also assume, something I'm not entirely sure is true, that it is not rational for Kate to take the street sign's word for it. I think this is meant to be implicated by her life depending on it. But I often take actions that my life depends on going by the say so of signs. For example, I turn onto the ramp labelled on ramp, and not the ramp labelled off ramp, without really double checking. And if I was wrong about this it would be a mistake that is often fatal. But maybe Kate has some other way of checking where she is - like a map on a phone in her pocket - and it would be irrational to take the sign for granted and not check that other map.
+
+So what evidence should The Radical Interpreter assign to Kate. It doesn't seem to be at issue that Kate sees that the signs say State and Main. The big question is whether she can simply take it as evidence that she is on State and Main. That is, do the contents of the sign simply become part of Kate's evidence? (Assume that the signs are accurate and there is no funny business going on, so it is plausible that the signs contribute this evidence.) There are three natural options.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Both signs contribute evidence directly to Kate, so her evidence includes that she is on State and that she is on Main.
+\item
+  Neither sign contributes evidence directly to Kate, so her evidence includes what the signs say, but nothing directly about her location.
+\item
+  One sign contributes evidence directly to Kate, but the other does not.
+\end{enumerate}
+
+Option 1 implies that Kate is rational to not check further whether she is on Main Street. And that's irrational, so option 1 is out.
+
+Option 3 implies that the signs behave differently, and that The Rational Interpreter will assign them different roles in Kate's cognitive architecture. But this will be true even though the signs are equally reliable, and Kate's evidence about their reliability is identical. So Kate treating them differently would be irrational, and The Radical Interpreter does not want to make Kate irrational if it can be helped. So option 3 is out.
+
+That leaves Option 2. Kate's evidence does not include that she is on State, and does not include that she is on Main. The latter `non-inclusion' is directly explained by pragmatic factors. The former is explained by those factors plus the requirement that Kate's evidence is what The Radical Interpreter says it is, and The Radical Interpreter's desire to make Kate rational.
+
+So Kate's evidence doesn't distinguish between the streets. It does, however, include that the signs say she is on State and that she is on Main. Could she be entitled in inferring that she is on State, but not that she is on Main?
+
+It is hard to see how this could be so. Street signs are hardly basic epistemic sources. They are the kind of evidence we should be `conservative' about in the sense of \citet{Pryor2004}. We should only use them if we antecedently believe they are correct. So for Kate to believe she's on State, she'd have to believe the street signs she can see are correct. If not, she'd incoherently be relying on a source she doesn't trust, even though it is not a basic source. But if she believes the street signs are correct, she'd believe she was on Main, and that would lead to practical irrationality. So there's no way to coherently add the belief that she's
+on State Street to her stock of beliefs. So she doesn't know, and can't know, that she's either on State or on Main. This is, in a roundabout way, due to the practical situation Kate faces.
+
+Neta thinks that the best way for IRT to handle this case is to say that the high stakes associated with the proposition that Kate is on Main Street imply that certain methods of belief formation do not produce knowledge. And he argues, plausibly, that such a restriction will lead to implausibly sceptical results. What to say about this objection turns on how we understand what a `method' is. If methods are individuated very finely, like \emph{Trust street signs right here}, then it's plausible that Kate should restrict what methods she uses, but implausible that this is badly sceptical. If methods are individuated very coarsely, like \emph{Trust written testimomy}, then it's plausible that this is badly sceptical, but implausible that Kate should give up on methods this general. I can rationally treat some parts of a book as providing direct evidence about the world, and other, more speculative, parts as providing direct evidence about what the author says, and hence indirect evidence about the world. Similarly, Kate can treat these street signs as indirect evidence about her location, while still treating other signs around her as providing direct evidence. So there is no sceptical threat here.
+
+But while the case doesn't show IRT is false, it does tell us something interesting about the implications of IRT. When a practical consideration defeats a claim to know that \(p\), it will often also knock out nearby knowledge claims. Some of these are obvious, like that the practical consideration defeats the claim to know \(0=0 \rightarrow p\). But some of these are more indirect. When the inquirer knows what her evidence is, and knows that she has just the same evidence for \(q\) as for \(p\), then if a practical consideration defeats a claim to know \(p\), it also defeats a claim to know \(q\). In practice, this makes IRT a somewhat more sceptical theory than it may have first appeared. It's not so sceptical as to be implausible, but it's more sceptical than is immediately obvious. This kind of result, where IRT ends up being somewhat sceptical but not implausibly so, will be a familiar theme over the remaining chapters.
+
 \hypertarget{ratbel}{%
 \chapter{Rational Belief}\label{ratbel}}
 
