@@ -2,7 +2,7 @@
 
 In the previous section I noted that my theory of evidence is committed to denying Williamson's E=K thesis. This is the thesis that says one's evidence is all and only what one knows. What I say is consistent with, and arguably committed to, one half of that thesis. Nothing I've said here provides a reason to reject the implication that if $p$ is part of one's evidence, then one knows $p$. Indeed, the story I'm telling would have to be complicated even further if that fails. But I am committed to denying the other direction. On my view, there can be cases where someone knows $p$, but $p$ is not part of their evidence. 
 
-Alvin @Goldman20xx provides one reason for believing in such cases. Imagine that S has seen a lot of $F$s that are $G$s in a wide variety of circumstances. And imagine that the following are both true.
+Alvin @Goldman2009 provides one reason for believing in such cases. Imagine that S has seen a lot of $F$s that are $G$s in a wide variety of circumstances. And imagine that the following are both true.
 
 * On the basis of these observations, S believes, and knows, that the nearest unobserved $F$ is also $G$.
 * S does not know that all $F$s are $G$s.
@@ -14,7 +14,7 @@ Assume for reductio that S's evidence is all that she knows. She knows the neare
 
 I think Goldman's kind of 'chain reaction' argument shows that we need to distinguish between evidence and knowledge. There are nearby $F$s that S knows are $G$. But that they are $G$ is no part of her evidence. When she observes them, and they become part of her evidence, she can make further inferences. So I'm not worried by the fact that my theory of evidence is inconsistent with E=K.
 
-There is a nice link between Goldman's arguments against E=K, at least as I'm interpreting them, and Shyam Nair's work on inferential cut-elimination [@Nair2019, Nair2020]. In logic, cut-elimination is the following rule of proof. Assume that some premises $\Gamma$ entail $A$. And assume that the union of some further premises $\Delta$ with $\{A\}$ entail $B$. Then the union of $\Gamma$ and $\Delta$ entails $B$. Intuitively, if half of your premises let you infer $A$, and the other half plus $A$ let you infer $B$, then the premises together let you infer $B$. And most logical systems will validate such a rule.^[A lot of what follows draws on ideas I learned from @Weisberg2010.]
+There is a nice link between Goldman's arguments against E=K, at least as I'm interpreting them, and Shyam Nair's work on inferential cut-elimination [@Nair2019, @Nair2020]. In logic, cut-elimination is the following rule of proof. Assume that some premises $\Gamma$ entail $A$. And assume that the union of some further premises $\Delta$ with $\{A\}$ entail $B$. Then the union of $\Gamma$ and $\Delta$ entails $B$. Intuitively, if half of your premises let you infer $A$, and the other half plus $A$ let you infer $B$, then the premises together let you infer $B$. And most logical systems will validate such a rule.^[A lot of what follows draws on ideas I learned from @Weisberg2010.]
 
 Indeed, in most logical systems, we can go further than this. Let **Cut** be a new logical rule that lets you infer $B$ from $\Gamma \cup \Delta$ whenever there is an $A$ such that $\Gamma$ entails $A$, and $\Delta \cup \{A\}$ entails $B$. Then in many proof systems, **Cut** will be redundant; what you can prove with it is just what you can prove without it. A proof of this is sometimes called a cut-elimination proof; it shows that the rule **Cut** can be eliminated without loss.
 
