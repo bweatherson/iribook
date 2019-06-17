@@ -1,7 +1,5 @@
 ## Objections and Replies {#evsolution}
 
-I'll end this chapter by going over some worries that one might have about the arguments and models that I've used.
-
 *Objection*: The formal results of the previous section only go through if we assume that the agents do not know precisely what the payoffs are in the game. We shouldn't assume that what holds for arbitrarily small margins of error will hold in the limit, i.e., when they do know the payoffs.
 
 *Reply*: If pushed, I would defend the use limit assumptions like this to resolve hard cases like Stag Hunt. But I don't strictly need that assumption here, What is needed is that Parveen doesn't know precisely the probability of Rahul being in the restaurant given the rest of her evidence. Given that evidence is not luminous, as @Williamson2000 shows, this is a reasonable assumption. So the margin of error assumption that Carlsson and van Damme make is not, in this case, an assumption that merely makes the math easier; it is built into the case.
