@@ -1,6 +1,6 @@
 ## Holism and Defeaters {#neta}
 
-The picture of evidence I've outlined here grounds a natural response to a nice puzzle case due to Ram @Neta2007.^[This section draws on section 5 of my -@Weatherson2011.]
+The picture of evidence I've outlined here grounds a natural response to a nice puzzle case due to Ram @Neta2007.^[This section draws on section 5 of my -@Weatherson2011-WEADIR.]
 
 > Kate needs to get to Main Street by noon: her life depends upon it. She is desperately searching for Main Street when she comes to an intersection and looks up at the perpendicular street signs at that intersection. One street sign says "State Street" and the perpendicular street sign says "Main Street." Now, it is a matter of complete indifference to Kate whether she is on State Street--nothing whatsoever depends upon it. [@Neta2007, 182]
 
