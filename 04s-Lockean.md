@@ -1,4 +1,4 @@
-## Puzzles for Lockeans
+## Puzzles for Lockeans {#lockepuzzles}
 
 The phrase "the Lockean theory of belief" is sometimes used for a metaphysical claim, and sometimes for a normative claim. The two claims are closely related. The metaphysical claim is that what it is to believe $p$ is to have a credence in $p$ above some threshold $t$. The normative claim is that one should believe $p$ if and only if one's (rational) credence in $p$ is above some threshold $t$. Crucially, this threshold is meant to be interest-invariant. If we restrict our attention to rational agents, then there won't be a huge difference between the metaphysical and normative versions of the Lockean theory. At the very least, one of them will be extensionally adequate if and only if the other is. So that's what I'll do in this section. I'll look at various rational agents, and show what puzzles arise if we assume that belief goes with high credence.
 
