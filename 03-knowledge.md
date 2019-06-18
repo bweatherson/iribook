@@ -18,9 +18,8 @@ The argument here will be in two parts. First, I'll focus on practical inquiries
 # Section name: structure
 ```
 
-## Theoretical Interests
-
-S knows that p only if for any question S is interested in, and any propositons S is interested in, S can rationally answer the queston given those propositions by answering the same (conditional) question conditional on p.
+```{r child='03s-theoretical.md'}
+```
 
 ```{r child='03s-closure.md'}
 ```
