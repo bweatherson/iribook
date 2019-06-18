@@ -21,6 +21,9 @@ The argument here will be in two parts. First, I'll focus on practical inquiries
 ```{r child='03s-theoretical.md'}
 ```
 
+```{r child='03s-bigtheory.md'}
+```
+
 ```{r child='03s-closure.md'}
 ```
 
@@ -29,11 +32,9 @@ The argument here will be in two parts. First, I'll focus on practical inquiries
 ```{r child='03s-ClosureNotes.md'}
 ```
 
-## Puzzles
+### Multiple Premise Closure {#andintro}
 
-* Anisa and Blaise - actually in section 1
-* Coraline
-* And-introduction
-* Same source
+## Leftovers
+
 * Modals (I don't remember what I had in mind here, though maybe it is the stuff about marbles from GBC)
-* Miners and doctors (I don't remember what I had in mind here, though maybe it is just 2.2 from KBI)
+* Miners and doctors (I don't remember what I had in mind here, though maybe it is just 2.2 from KBI, and that goes to objections)
