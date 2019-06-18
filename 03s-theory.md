@@ -1,4 +1,4 @@
-## Theoretical Knowledge
+## Theoretical Knowledge {#theoreticalknowledge}
 
 Knowledge structures proper practical deliberation. And because what things can be taken as structural assumptions differs between different pieces of practical reasoning, knowledge is sensitive to the interests of the inquirer. But this isn't the only way in which knowledge is sensitive to interests. It is also sensitive to which purely theoretical questions the inquirer is taking an interest in.
 
