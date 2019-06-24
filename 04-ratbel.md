@@ -25,11 +25,6 @@ This chapter discusses the role of rational belief in the version of IRT that I 
 # Section name: lockean
 ```
 
-```{r child='04s-probone.md'}
-# The probability one folks
-# Section name: probone
-```
-
 ```{r child='04s-solving.md'}
 # Solving all problems but closure
 # Section name: solving

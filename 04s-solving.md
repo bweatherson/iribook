@@ -1,6 +1,6 @@
 ## Solving the Challenges {#solving}
 
-It's not fair to criticise other theories for their inability to meet a challenge that one's own theory cannot meet. So I'll end this chapter by noting that the six problems I've raised so far for Lockeans are not problems for my interest-relative theory of (rational) belief. I've already discussed the points about correctness in subsection \@ref(mecorrect), and about closure in chapter \@(knowledge), and there isn't much to be added. But it's worth saying a few words about the other four problems.
+It's not fair to criticise other theories for their inability to meet a challenge that one's own theory cannot meet. So I'll end this chapter by noting that the six problems I've raised so far for Lockeans are not problems for my interest-relative theory of (rational) belief. I've already discussed the points about correctness in subsection \@ref(mecorrect), and about closure in chapter \@ref(knowledge), and there isn't much to be added. But it's worth saying a few words about the other four problems.
 
 ### Coins
 
