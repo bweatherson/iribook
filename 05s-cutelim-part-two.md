@@ -1,4 +1,4 @@
-## Basic Knowledge and Non-Inferential Knowledge {basic}
+## Basic Knowledge and Non-Inferential Knowledge {#basic}
 
 It would be natural to conclude from the examples I've discussed that evidence is something like non-inferential knowledge. This is very similar to a view defended by Patrick @Maher1996. And it is, I will argue, close to the right view. But it can't be exactly right, for reasons Alexander @Bird2004 brings out.
 

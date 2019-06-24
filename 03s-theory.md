@@ -1,4 +1,4 @@
-## Theoretical Knowledge
+## Theoretical Knowledge {#theoreticalknowledge}
 
 Knowledge structures proper practical deliberation. And because what things can be taken as structural assumptions differs between different pieces of practical reasoning, knowledge is sensitive to the interests of the inquirer. But this isn't the only way in which knowledge is sensitive to interests. It is also sensitive to which purely theoretical questions the inquirer is taking an interest in.
 
@@ -70,8 +70,6 @@ As Wright points out, there is something wrong with the step from 2 to 3 here. A
 Here's one natural suggestion about what's wrong.^[This is far from an original suggestion. See @Weisberg2010 for discussion of it, and of related proposals, and for more discussion of the literature on Wright's examples.] It's too simple to be the full story, but it's a start. The transition Ada makes from 1 to 2 presupposes 3. And that's her only evidence for 2. When those two conditions are met, it is wrong to infer from 2 to 3. More generally, there is something wrong with inferring a conclusion from an intermediate step in reasoning if that conclusion must be presupposed in order to even reach that intermediate step.
 
 This is too rough as it stands to be a full theory of what is going on in cases like Ada's. But the details aren't important here. (Though they will be in the next chapter.) What is important is that there might be some kind of holistic constraint on reasoning. In some sense, Ada goes wrong in taking 2 for granted when she infers 3. But this doesn't intuitively undermine her claim to know 2.
-
-
 
 One important commonality between the last two cases, the moral encroachment and the transmission failure cases, is that the reasoning is not subject to the following kind of criticism. The speaker can't be criticised for taking as a premise something that might be false. Maybe there is something wrong with inferring something is probably true of an individual because it is true of most people in the group the individual is part of. But this restriction applies to the inference; not to the premises. We wouldn't say to the person who made this inference, "You shouldn't reason like that; it might not be true that most people in the group have this feature." If we did say that, they would have an easy reply. And if Ada does do the problematic reasoning, it would be wrong to reply to her "You shouldn't reason like this; it might not have been a goal." She could simply, and correctly, say that it quite clearly was a goal.
 

@@ -30,39 +30,48 @@
 \contentsline {section}{\numberline {3.8}Weak Belief}{73}{section.3.8}
 \contentsline {chapter}{\numberline {4}Knowledge}{75}{chapter.4}
 \contentsline {section}{\numberline {4.1}Knowledge and Practical Interests}{76}{section.4.1}
-\contentsline {section}{\numberline {4.2}Theoretical Interests}{82}{section.4.2}
-\contentsline {section}{\numberline {4.3}Knowledge and Closure}{82}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Single Premise Closure}{83}{subsection.4.3.1}
-\contentsline {section}{\numberline {4.4}Puzzles}{86}{section.4.4}
-\contentsline {chapter}{\numberline {5}Evidence}{87}{chapter.5}
-\contentsline {section}{\numberline {5.1}A Puzzle About Evidence}{87}{section.5.1}
-\contentsline {section}{\numberline {5.2}A Simple, but Incomplete, Solution}{90}{section.5.2}
-\contentsline {section}{\numberline {5.3}The Radical Interpreter}{91}{section.5.3}
-\contentsline {section}{\numberline {5.4}Motivating Risk-Dominant Equilibria}{94}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}The Dominance Argument for Risk-Dominant Equilibria}{97}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}Making One Signal Precise}{101}{subsection.5.4.2}
-\contentsline {section}{\numberline {5.5}Objections and Replies}{102}{section.5.5}
-\contentsline {section}{\numberline {5.6}Evidence, Knowledge and Cut-Elimination}{104}{section.5.6}
-\contentsline {section}{\numberline {5.7}Holism and Defeaters \{neta\}}{110}{section.5.7}
-\contentsline {chapter}{\numberline {6}Rational Belief}{115}{chapter.6}
-\contentsline {section}{\numberline {6.1}Atomism about Rational Belief}{115}{section.6.1}
-\contentsline {section}{\numberline {6.2}Coin Puzzles}{120}{section.6.2}
-\contentsline {section}{\numberline {6.3}Playing Games}{122}{section.6.3}
-\contentsline {section}{\numberline {6.4}Puzzles for Lockeans}{129}{section.6.4}
-\contentsline {subsection}{\numberline {6.4.1}Arbitrariness}{129}{subsection.6.4.1}
-\contentsline {subsection}{\numberline {6.4.2}Correctness}{131}{subsection.6.4.2}
-\contentsline {subsection}{\numberline {6.4.3}Moorean Paradoxes}{132}{subsection.6.4.3}
-\contentsline {subsection}{\numberline {6.4.4}Closure and the Lockean Theory}{133}{subsection.6.4.4}
-\contentsline {section}{\numberline {6.5}Belief as Probability One}{134}{section.6.5}
-\contentsline {section}{\numberline {6.6}Solving the Challenges}{134}{section.6.6}
-\contentsline {subsection}{\numberline {6.6.1}Coins}{134}{subsection.6.6.1}
-\contentsline {subsection}{\numberline {6.6.2}Games}{134}{subsection.6.6.2}
-\contentsline {subsection}{\numberline {6.6.3}Arbitrariness}{135}{subsection.6.6.3}
-\contentsline {subsection}{\numberline {6.6.4}Moore}{135}{subsection.6.6.4}
-\contentsline {chapter}{\numberline {7}Hard Choices}{137}{chapter.7}
-\contentsline {chapter}{\numberline {8}Stakes}{139}{chapter.8}
-\contentsline {chapter}{\numberline {9}Facing the Changes}{141}{chapter.9}
-\contentsline {chapter}{\numberline {10}The Preface Paradox}{143}{chapter.10}
-\contentsline {section}{\numberline {10.1}Solving the Paradox}{143}{section.10.1}
-\contentsline {section}{\numberline {10.2}Too Little Closure?}{148}{section.10.2}
-\contentsline {chapter}{\numberline {11}Conclusion}{153}{chapter.11}
+\contentsline {section}{\numberline {4.2}Theoretical Knowledge}{82}{section.4.2}
+\contentsline {section}{\numberline {4.3}Knowledge and Closure}{89}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Single Premise Closure}{90}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Multiple Premise Closure}{93}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}Leftovers}{93}{section.4.4}
+\contentsline {chapter}{\numberline {5}Evidence}{95}{chapter.5}
+\contentsline {section}{\numberline {5.1}A Puzzle About Evidence}{95}{section.5.1}
+\contentsline {section}{\numberline {5.2}A Simple, but Incomplete, Solution}{97}{section.5.2}
+\contentsline {section}{\numberline {5.3}The Radical Interpreter}{99}{section.5.3}
+\contentsline {section}{\numberline {5.4}Motivating Risk-Dominant Equilibria}{101}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}The Dominance Argument for Risk-Dominant Equilibria}{105}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Making One Signal Precise}{108}{subsection.5.4.2}
+\contentsline {section}{\numberline {5.5}Objections and Replies}{109}{section.5.5}
+\contentsline {section}{\numberline {5.6}Evidence, Knowledge and Cut-Elimination}{111}{section.5.6}
+\contentsline {section}{\numberline {5.7}Basic Knowledge and Non-Inferential Knowledge \{basic\}}{116}{section.5.7}
+\contentsline {section}{\numberline {5.8}Epistemic Weakness}{120}{section.5.8}
+\contentsline {section}{\numberline {5.9}Holism and Defeaters}{122}{section.5.9}
+\contentsline {chapter}{\numberline {6}Rational Belief}{127}{chapter.6}
+\contentsline {section}{\numberline {6.1}Atomism about Rational Belief}{127}{section.6.1}
+\contentsline {section}{\numberline {6.2}Coin Puzzles}{132}{section.6.2}
+\contentsline {section}{\numberline {6.3}Playing Games}{134}{section.6.3}
+\contentsline {section}{\numberline {6.4}Puzzles for Lockeans}{141}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Arbitrariness}{141}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Correctness}{143}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}Moorean Paradoxes}{144}{subsection.6.4.3}
+\contentsline {subsection}{\numberline {6.4.4}Closure and the Lockean Theory}{145}{subsection.6.4.4}
+\contentsline {section}{\numberline {6.5}Solving the Challenges}{146}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Coins}{146}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.2}Games}{146}{subsection.6.5.2}
+\contentsline {subsection}{\numberline {6.5.3}Arbitrariness}{147}{subsection.6.5.3}
+\contentsline {subsection}{\numberline {6.5.4}Moore}{147}{subsection.6.5.4}
+\contentsline {chapter}{\numberline {7}Hard Choices}{149}{chapter.7}
+\contentsline {section}{\numberline {7.1}An Example}{150}{section.7.1}
+\contentsline {section}{\numberline {7.2}Responding to the Challenge, Quickly}{153}{section.7.2}
+\contentsline {section}{\numberline {7.3}Back to Earth}{155}{section.7.3}
+\contentsline {section}{\numberline {7.4}I Have Questions}{157}{section.7.4}
+\contentsline {section}{\numberline {7.5}You'll Never Be Satisfied (If You Try to Maximise)}{158}{section.7.5}
+\contentsline {section}{\numberline {7.6}Ignorance is Bliss}{160}{section.7.6}
+\contentsline {section}{\numberline {7.7}What does the Maximiser Know about Choosing?}{163}{section.7.7}
+\contentsline {chapter}{\numberline {8}Stakes}{165}{chapter.8}
+\contentsline {chapter}{\numberline {9}Facing the Changes}{167}{chapter.9}
+\contentsline {chapter}{\numberline {10}The Preface Paradox}{169}{chapter.10}
+\contentsline {section}{\numberline {10.1}Solving the Paradox}{169}{section.10.1}
+\contentsline {section}{\numberline {10.2}Too Little Closure?}{174}{section.10.2}
+\contentsline {chapter}{\numberline {11}Conclusion}{179}{chapter.11}

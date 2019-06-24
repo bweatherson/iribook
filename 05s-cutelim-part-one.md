@@ -36,7 +36,7 @@ These cases will matter in what follows, but they are rather different from the 
 
 Here's the crucial background assumption for the example. (I'll come back to how plausible this is after setting the example up.) The nature of $F$s around here varies, but it varies very very slowly. If we find a pattern in common to all the $F$s within distance $d$ of here, we can rationally infer that the pattern extends another mile. That's just boring induction. But we can't infer that it extends to infinity - this isn't like working out the mass of an electron. (It's more like working out the details of the diet of some animal.) Now here is the counterexample.
 
-> $\Gamma = \Delta = $ \{All the $F$s within 3 miles of here are $G$s.\}    
+> $\Gamma = \Delta = \{$All the $F$s within 3 miles of here are $G$s.\$}$    
 > $A = $ All the $F$s between 3 and 4 miles from here are $G$s.    
 > $B = $ All the $F$s between 4 and 5 miles from here are $G$s.
 

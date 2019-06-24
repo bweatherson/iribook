@@ -18,10 +18,7 @@ The argument here will be in two parts. First, I'll focus on practical inquiries
 # Section name: structure
 ```
 
-```{r child='03s-theoretical.md'}
-```
-
-```{r child='03s-bigtheory.md'}
+```{r child='03s-theory.md'}
 ```
 
 ```{r child='03s-closure.md'}

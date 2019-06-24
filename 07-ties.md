@@ -31,7 +31,7 @@ On a common reading of this, Judas Priest isn't just asking Frankie Lee how much
 
 Assume something else that isn't in the text, but which isn't an implausible addition to the story. The world Frankie Lee and Judas Priest live in is not completely free of counterfeit notes. And it would be bad for Frankie Lee to take a counterfeit note. It won't matter just how common these notes are, or how bad it would be. But our puzzle will be most vivid if each of these are relatively small quantities. So there aren't that many counterfeit notes in circulation, and the (expected) disutility to Frankie Lee of having one of them is not great. There is some chance that he will get in trouble, but the chance isn't high, and the trouble isn't any worse than he's suffered before. Still, other things exactly equal, Frankie Lee would prefer a genuine note to a counterfeit one.
 
-Now for some terminology to help us state the problem Frankie Lee is in. Assume there are $k$ notes on the footstool. Call them $n_1, \dots, \n_k$. Let $c_i$ be the proposition that note $n_i$ is counterfeit, and its negation $g_i$ be that it is genuine. Let $g$, without a subscript, be the conjunction $g_1 \wedge \dots \wedge g_n$; i.e., the proposition that all the notes are genuine. Let $t_i$ be the act of taking note $n_i$. Let $U$ be Frankie Lee's utility function, and $Cr$ his credence function.
+Now for some terminology to help us state the problem Frankie Lee is in. Assume there are $k$ notes on the footstool. Call them $n_1, \dots, n_k$. Let $c_i$ be the proposition that note $n_i$ is counterfeit, and its negation $g_i$ be that it is genuine. Let $g$, without a subscript, be the conjunction $g_1 \wedge \dots \wedge g_n$; i.e., the proposition that all the notes are genuine. Let $t_i$ be the act of taking note $n_i$. Let $U$ be Frankie Lee's utility function, and $Cr$ his credence function.
 
 In our first version of the example, we'll make two more assumptions. Apart from the issue of whether the note is real or counterfeit, Frankie Lee is indifferent between the notes, so for some $h, l$, $U(t_i | g_i) = h$ and $U(t_i | c_i) = l$ for all $i$, with of course $h > l$. And Frankie Lee thinks each of the banknotes is equally likely to be genuine, so for some $p$, $Cr(g_i) = p$ for all $i$. (And the probability of any of them being a counterfeit is independent of the probability of any of the others being counterfeit.)
 
@@ -117,22 +117,8 @@ When David is facing the shelf of chickpeas, he can rationally take any one of t
 
 The common thread to the last paragraph is that these objects on the shelves are almost duplicates, but the most careful quality control doesn't produce consumer goods that are actual duplicates. This is particularly true in Frankie Lee's choice situation. If all the notes he looks at are really duplicates, down to the serial numbers, he should run away. There are always some differences. It is unlikely that these differences make precisely zero difference to the expected utility of each choice. And even if they do, discovering that is hard work.
 
-
-
-
-
 A better model of search and choice says that the chooser should look at features of each choice such the cost of evaluating each choice for this feature and processing this information is less than the expected gain from including the feature in the search choice. Other features should be simply assumed to be equal and irrelevant to the search and choice. 
-=======
-I'm going to assume maximising expected utility means maximising expected utility given facts that are readily available. So if one simply doesn't process a relevant but observationally obvious fact, that can lead to an irrational choice. I might alternatively have said that the choice was rational (given the facts the chooser was aware of), but the observational process was irrational. But I suspect that terminology would just add needless complication.
 
-And I'm going to call any search procedure that is sensitive to resource considerations a satisficing procedure. This isn't uncommon in philosophical works, such as @XXX2017 and @YYY2017, but the standard usage in economics is considerably narrower. There the term 'satisficer' is restricted to agents who start a search with a 'reservation level' of quality, and choose when they find something meeting that level. So what @XXX2011 call a 'hybrid' search procedure, in contrast to a satisficing procedure, is what I'll call satisficing. But even there it is complicated. @YYY2011 have models that they call satisficing models where the reservation level is sensitive to the quality of goods already seen, and to the costs of search. And that ends up being not dissimilar to the hybrid models of @XXX2011. And it's those kinds of search procedures, ones which are satisficing models in the broader sense of being resource-sensitive, but not in the narrower sense of only aiming to clear a pre-established threshold, that I think rational agents adopt.
-
-When David is facing the shelf of chickpeas, he can rationally take any one of them - apart perhaps from ones that are seriously damaged. How can the expected utility theory capture that fact? It says that more than one choice is permissible only if the choices are equal in expected utility. So the different cans are equal in expected utility. But on reflection, this is a wild claim. Some of the cans are ever so slightly easier to reach. Some of the cans will have ever so slight damage - a tiny dint here, a small tear in the label there - that just might indicate a more serious flaw. Of course, these small damages are almost always irrelevant, but as long as the probability that they indicate damage is positive, it breaks the equality of the expected utility of the cans. Even if there is no visible damage, some of the labels will be ever so slightly more faded, which indicates that the cans are older, which ever so slightly increases the probability that the goods will go bad before David gets to use them. Of course in reality this won't matter more than one time in a million, but one in a million chances matter if you are asking whether two expected utilities are strictly equal.
-
-The common thread to the last paragraph is that these objects on the shelves are almost duplicates, but the most careful quality control doesn't produce consumer goods that are actual duplicates. This is particularly true in Frankie's choice situation. If all the notes he looks at are really duplicates, down to the serial numbers, he should run away. There are always some differences. It is unlikely that these differences make precisely zero difference to the expected utility of each choice. And even if they do, discovering that is hard work.
-
-A better model of search and choice says that the chooser should at features of each choice such the cost of evaluating each choice for this feature and processing this information is less than the expected gain from including the feature in the search choice. Other features should be simply assumed to be equal and irrelevant to the search and choice. 
->>>>>>> 09a092464d9992cfdbcbcb7ff8b3d769e76fb557
 
 The costs of doing an expanded search are non-trivial, so this could rule out considering a lot of features. I don't know of any experimental work on this particular choice problem - choosing a token from an array of almost indiscriminable types. But experimental work on related choice situations seems to back up the kind of model I have in mind, such as @@@XXX2011 seems to back up the idea that subjects do not maximise, but rather choose in a resource sensitive way.
 
@@ -173,8 +159,3 @@ So none of the cases raise problems if the person making the choice is choosing 
 I said a little while ago that there were two problems - how to handle the other cases, and how to handle people who don't make choices in the right way. The latter problem is a little harder, and we'll end with it.
 
 ## What does the Maximiser Know about Choosing?
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 09a092464d9992cfdbcbcb7ff8b3d769e76fb557
