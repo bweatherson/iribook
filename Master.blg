@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Master.aux
+The style file: philreview.bst
+Database file #1: ../OldPapers/CollBib.bib
+Warning--I didn't find a database entry for "Brandenburger2008"
+You've used 121 entries,
+            2953 wiz_defined-function locations,
+            1427 strings with 19712 characters,
+and the built_in function-call counts, 57576 in all, are:
+= -- 4587
+> -- 1654
+< -- 112
++ -- 654
+- -- 505
+* -- 3556
+:= -- 9495
+add.period$ -- 590
+call.type$ -- 121
+change.case$ -- 679
+chr.to.int$ -- 117
+cite$ -- 121
+duplicate$ -- 4897
+empty$ -- 4900
+format.name$ -- 708
+if$ -- 11516
+int.to.chr$ -- 5
+int.to.str$ -- 1
+missing$ -- 1019
+newline$ -- 692
+num.names$ -- 501
+pop$ -- 1989
+preamble$ -- 2
+purify$ -- 648
+quote$ -- 0
+skip$ -- 1852
+stack$ -- 0
+substring$ -- 1433
+swap$ -- 2183
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1011
+warning$ -- 0
+while$ -- 383
+width$ -- 0
+write$ -- 1645
+(There was 1 warning)

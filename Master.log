@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.3.17)  24 JUN 2019 15:54
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.3.17)  24 JUN 2019 22:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1199,218 +1199,93 @@ Overfull \hbox (0.12479pt too wide) in paragraph at lines 537--538
 ossible languages, let’s re-
  []
 
-[28] [29] [30] [31]
-
-Package natbib Warning: Citation `Williamson2005' on page 32 undefined on input
- line 605.
-
-[32] [33] [34]
-
-Package natbib Warning: Citation `Stalney2005' on page 35 undefined on input li
-ne 651.
-
-[35] [36] [37] [38]
+[28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38]
 Underfull \hbox (badness 1152) in paragraph at lines 700--701
 \TU/AdobeCaslonPro(0)/m/n/10.95 then probability, justification, rationality, a
 nd evidential support are
  []
 
-[39] [40]
-
-LaTeX Warning: Reference `kaprinciple' on page 41 undefined on input line 730.
-
-[41] [42]
+[39] [40] [41] [42]
 Chapter 3.
 [43
 
 ] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [5
-9] [60] [61] [62] [63] [64] [65] [66]
-
-LaTeX Warning: Reference `lockecoins' on page 67 undefined on input line 1156.
-
-[67] [68] [69] [70] [71] [72] [73] [74
+9] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74
 
 ]
 Chapter 4.
-[75] [76] [77] [78] [79] [80] [81] [82]
-
-Package natbib Warning: Citation `Hieronymi2013' on page 83 undefined on input 
-line 1387.
-
-[83] [84] [85]
-
-Package natbib Warning: Citation `Basu201x' on page 86 undefined on input line 
-1430.
-
-[86] [87] [88] [89]
-Underfull \hbox (badness 2343) in paragraph at lines 1508--1509
+[75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89]
+Underfull \hbox (badness 2343) in paragraph at lines 1511--1512
 \TU/AdobeCaslonPro(0)/m/n/10.95 competently deduces $[]$ from those premises, t
 hereby coming
  []
-
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/bx/n' will be
-(Font)              scaled to size 9.36955pt on input line 1516.
-
-Package natbib Warning: Citation `Zweber2017' on page 90 undefined on input lin
-e 1516.
 
 [90] [91] [92] [93] [94
 
 ]
 Chapter 5.
-[95] [96] [97] [98]
-
-Package natbib Warning: Citation `Harper1986' on page 99 undefined on input lin
-e 1668.
-
-[99] [100] [101] [102] [103] [104] [105] [106]
+[95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106]
 Overfull \vbox (0.17685pt too high) has occurred while \output is active []
 
-[107] [108] [109] [110]
-
-Package natbib Warning: Citation `Nair2019' on page 111 undefined on input line
- 1938.
-
-[111] [112] [113] [114]
-
-Package natbib Warning: Citation `Weisberg' on page 115 undefined on input line
- 2003.
-
-[115]
-
-Package natbib Warning: Citation `Bird2004' on page 116 undefined on input line
- 2013.
-
-
-Underfull \hbox (badness 1377) in paragraph at lines 2017--2018
+[107] [108] [109] [110] [111] [112] [113] [114] [115]
+Underfull \hbox (badness 1377) in paragraph at lines 2020--2021
 []\TU/AdobeCaslonPro(0)/m/n/10.95 The real problems for E=K come from the monot
 onic counter-
  []
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 2020--2020
+Underfull \hbox (badness 1622) in paragraph at lines 2023--2023
 []\TU/AdobeCaslonPro(0)/bx/n/14.4 Basic Knowledge and Non-Inferential Knowl-
  []
 
-
-Package natbib Warning: Citation `Maher1996' on page 116 undefined on input lin
-e 2022.
-
-
-Package natbib Warning: Citation `Bird2004' on page 116 undefined on input line
- 2022.
-
 [116]
-Underfull \hbox (badness 1163) in paragraph at lines 2030--2031
+Underfull \hbox (badness 1163) in paragraph at lines 2033--2034
 []\TU/AdobeCaslonPro(0)/m/n/10.95 So I agree with Bird that we can’t identify e
 vidence with non-
  []
 
 
-Underfull \hbox (badness 1014) in paragraph at lines 2030--2031
+Underfull \hbox (badness 1014) in paragraph at lines 2033--2034
 \TU/AdobeCaslonPro(0)/m/n/10.95 inferential knowledge, if by that we mean knowl
 edge that was not
  []
 
-[117]
-
-Package natbib Warning: Citation `Dogramaci2015' on page 118 undefined on input
- line 2036.
-
-[118] [119] [120] [121] [122] [123] [124] [125] [126
+[117] [118] [119] [120] [121] [122] [123] [124] [125] [126
 
 ]
 Chapter 6.
-[127] [128] [129] [130] [131] [132] [133]
+[127] [128] [129] [130] [131] [132] [133] [134] [135]
+LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/bx/n' will be
+(Font)              scaled to size 9.36955pt on input line 2284.
 
-LaTeX Warning: Reference `probone' on page 134 undefined on input line 2248.
-
-[134] [135]
-
-Package natbib Warning: Citation `Brandenberger2008' on page 136 undefined on i
-nput line 2281.
+Package natbib Warning: Citation `Brandenburger2008' on page 136 undefined on i
+nput line 2284.
 
 [136] [137] [138] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148
 
 ]
 Chapter 7.
+[149] [150] [151] [152] [153] [154] [155] [156] [157]
 
-Package natbib Warning: Citation `Zweber2017' on page 149 undefined on input li
-ne 2472.
+Package natbib Warning: Citation `Conlisk1996' on page 158 undefined on input l
+ine 2610.
 
-[149]
+[158] [159]
 
-Package natbib Warning: Citation `Dylan1985' on page 150 undefined on input lin
-e 2505.
+Package natbib Warning: Citation `SchwartzEtAl2002' on page 160 undefined on in
+put line 2622.
 
-[150] [151] [152] [153] [154] [155] [156]
-
-Package natbib Warning: Citation `Joyce2018' on page 157 undefined on input lin
-e 2592.
-
-
-Package natbib Warning: Citation `Quiggin1983' on page 157 undefined on input l
-ine 2594.
-
-
-Package natbib Warning: Citation `Buchak2010' on page 157 undefined on input li
-ne 2594.
-
-[157]
-
-Package natbib Warning: Citation `Manski2017' on page 158 undefined on input li
-ne 2607.
-
-
-Package natbib Warning: Citation `Papi2013' on page 158 undefined on input line
- 2607.
-
-
-Package natbib Warning: Citation `Tucker2016' on page 158 undefined on input li
-ne 2607.
-
-
-Package natbib Warning: Citation `Reutskaja2011' on page 158 undefined on input
- line 2607.
-
-
-Package natbib Warning: Citation `Caplin2011' on page 158 undefined on input li
-ne 2607.
-
-
-Package natbib Warning: Citation `Conslik1996' on page 158 undefined on input l
-ine 2607.
-
-[158]
-
-Package natbib Warning: Citation `XXX2011' on page 159 undefined on input line 
-2615.
-
-[159]
-
-Package natbib Warning: Citation `Citation' on page 160 undefined on input line
- 2617.
-
-
-Package natbib Warning: Citation `Citation' on page 160 undefined on input line
- 2617.
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 2628--2629
+[160]
+Underfull \hbox (badness 1292) in paragraph at lines 2635--2636
 []\TU/AdobeCaslonPro(0)/m/n/10.95 But these possibilities, while serious, have 
 two quite distinctive
  []
 
-[160]
-
-Package natbib Warning: Citation `SperberEtAl2011' on page 161 undefined on inp
-ut line 2630.
-
-[161] [162] [163] [164
-
-]
+[161] [162] [163] [164]
 Chapter 8.
-[165] [166
+[165
+
+] [166
 
 ]
 Chapter 9.
@@ -1419,16 +1294,16 @@ Chapter 9.
 ]
 Chapter 10.
 
-LaTeX Warning: Reference `lockean' on page 169 undefined on input line 2673.
+LaTeX Warning: Reference `lockean' on page 169 undefined on input line 2680.
 
 
-Underfull \hbox (badness 4108) in paragraph at lines 2693--2694
+Underfull \hbox (badness 4108) in paragraph at lines 2700--2701
 []\TU/AdobeCaslonPro(0)/m/n/10.95 If someone rationally believes $[]$, and rati
 onally
  []
 
 [169] [170]
-Underfull \hbox (badness 3884) in paragraph at lines 2711--2712
+Underfull \hbox (badness 3884) in paragraph at lines 2718--2719
 []\TU/AdobeCaslonPro(0)/m/n/10.95 Alternatively, we might try to use an argumen
 t by Timothy
  []
@@ -1452,83 +1327,114 @@ ational Journal of Game Theory \TU/AdobeCaslonPro(0)/m/n/10.95 28: 263-300,
  []
 
 [181]
-Underfull \hbox (badness 1874) in paragraph at lines 78--83
+Underfull \hbox (badness 3049) in paragraph at lines 78--83
+\TU/AdobeCaslonPro(0)/m/n/10.95 and Satisficing.”  \TU/AdobeCaslonPro(0)/m/it/1
+0.95 American Economic Review \TU/AdobeCaslonPro(0)/m/n/10.95 101: 2899-2922,
+ []
+
+
+Underfull \hbox (badness 1874) in paragraph at lines 110--115
 []\TU/AdobeCaslonPro(0)/m/n/10.95 Cohen, Stewart. 2004.  “Knowledge, assertion,
  and practical rea-
  []
 
 
-Underfull \hbox (badness 3679) in paragraph at lines 78--83
+Underfull \hbox (badness 3679) in paragraph at lines 110--115
 \TU/AdobeCaslonPro(0)/m/n/10.95 soning.”  \TU/AdobeCaslonPro(0)/m/it/10.95 Phil
 osophical Issues \TU/AdobeCaslonPro(0)/m/n/10.95 14: 482-491, []doi:10.1111/j.1
 533-
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--148
+[]\TU/AdobeCaslonPro(0)/m/n/10.95 Dogramaci, Sinan. 2015.  “Forget and Forgive:
+ A Practi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--148
+\TU/AdobeCaslonPro(0)/m/n/10.95 cal Approach to Forgotten Evidence.”  \TU/Adobe
+CaslonPro(0)/m/it/10.95 Ergo \TU/AdobeCaslonPro(0)/m/n/10.95 2: 645-677,
+ []
+
 [182]
-Underfull \hbox (badness 6461) in paragraph at lines 223--228
+Underfull \hbox (badness 2941) in paragraph at lines 257--262
+\TU/AdobeCaslonPro(0)/m/n/10.95 the Use of Earmarks in Arguments).”  \TU/AdobeC
+aslonPro(0)/m/it/10.95 Ethics \TU/AdobeCaslonPro(0)/m/n/10.95 124: 114-127,
+ []
+
+[183]
+Underfull \hbox (badness 6461) in paragraph at lines 304--309
 []\TU/AdobeCaslonPro(0)/m/n/10.95 Kohlberg, Elon and Mertens, Jean-Francois. 19
 86.  “On the
  []
 
 
-Underfull \hbox (badness 1701) in paragraph at lines 223--228
+Underfull \hbox (badness 1701) in paragraph at lines 304--309
 \TU/AdobeCaslonPro(0)/m/n/10.95 Strategic Stability of Equilibria.”  \TU/AdobeC
 aslonPro(0)/m/it/10.95 Econometrica \TU/AdobeCaslonPro(0)/m/n/10.95 54: 1003-10
 37,
  []
 
-[183]
-Underfull \hbox (badness 10000) in paragraph at lines 286--291
+[184]
+Underfull \hbox (badness 10000) in paragraph at lines 367--372
 []\TU/AdobeCaslonPro(0)/m/n/10.95 —. 1988.  “Desire as Belief.”  \TU/AdobeCaslo
 nPro(0)/m/it/10.95 Mind \TU/AdobeCaslonPro(0)/m/n/10.95 97: 323-332,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 293--298
+Underfull \hbox (badness 10000) in paragraph at lines 374--379
 []\TU/AdobeCaslonPro(0)/m/n/10.95 —. 1996.  “Desire as Belief II.”  \TU/AdobeCa
 slonPro(0)/m/it/10.95 Mind \TU/AdobeCaslonPro(0)/m/n/10.95 105: 303-313,
  []
 
-[184]
-Underfull \hbox (badness 5771) in paragraph at lines 363--369
+[185]
+Underfull \hbox (badness 5771) in paragraph at lines 476--482
 \TU/AdobeCaslonPro(0)/m/n/10.95 ability.”  \TU/AdobeCaslonPro(0)/m/it/10.95 Stu
 dies In History and Philosophy of Science Part B:
  []
 
 
-Underfull \hbox (badness 3612) in paragraph at lines 363--369
+Underfull \hbox (badness 3612) in paragraph at lines 476--482
 \TU/AdobeCaslonPro(0)/m/it/10.95 Studies In History and Philosophy of Modern Ph
 ysics \TU/AdobeCaslonPro(0)/m/n/10.95 41: 27-40,
  []
 
-[185]
-Underfull \hbox (badness 10000) in paragraph at lines 458--463
+[186] [187]
+Underfull \hbox (badness 10000) in paragraph at lines 610--615
 []\TU/AdobeCaslonPro(0)/m/n/10.95 —. 1996.  “Knowledge, Belief and Counterfactu
 al Reason-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 458--463
+Underfull \hbox (badness 10000) in paragraph at lines 610--615
 \TU/AdobeCaslonPro(0)/m/n/10.95 ing in Games.”  \TU/AdobeCaslonPro(0)/m/it/10.9
 5 Economics and Philosophy \TU/AdobeCaslonPro(0)/m/n/10.95 12: 133-163,
  []
 
-[186]
-Underfull \hbox (badness 1571) in paragraph at lines 558--563
+[188]
+Underfull \hbox (badness 1571) in paragraph at lines 718--723
 []\TU/AdobeCaslonPro(0)/m/n/10.95 Weisberg, Jonathan. 2010.  “Bootstrapping in 
 General.”  \TU/AdobeCaslonPro(0)/m/it/10.95 Philoso-
  []
 
-[187])
+
+Underfull \hbox (badness 2158) in paragraph at lines 754--760
+\TU/AdobeCaslonPro(0)/m/n/10.95 edge of Knowledge.”  \TU/AdobeCaslonPro(0)/m/it
+/10.95 The Philosophical Quarterly \TU/AdobeCaslonPro(0)/m/n/10.95 55: 213-235,
+
+ []
+
+[189])
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2820.
-[188]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2820.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2827.
+[190]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2827.
 (./Master.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2820.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2820.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2827.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2827.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1537,12 +1443,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 23798 strings out of 493007
- 440531 string characters out of 6134605
- 569998 words of memory out of 5000000
- 27510 multiletter control sequences out of 15000+600000
+ 23843 strings out of 493007
+ 441557 string characters out of 6134605
+ 570964 words of memory out of 5000000
+ 27555 multiletter control sequences out of 15000+600000
  552819 words of font info for 82 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 46i,11n,116p,10447b,626s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,11n,116p,10447b,672s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Master.pdf (188 pages).
+Output written on Master.pdf (190 pages).

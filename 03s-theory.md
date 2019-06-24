@@ -43,7 +43,7 @@ An inquiry with these features looks pretty good. And if there is really nothing
 
 Unfortunately, there are puzzle cases that suggest that even an inquiry with those four features may be flawed. I'll just mention two such cases here. The point of these cases is that they suggest inquiry can be flawed in ever so many ways, and we should not be confident about putting together a complete list of the ways inquiry can go wrong.
 
-First, there might be moral constraints on inquiry. Consider the following example, drawn from @Basu201x. Casey is at a fancy fundraising party, where the guests and the wait staff are all wearing suits. The person next to Casey is black, and Casey reasons as follows.
+First, there might be moral constraints on inquiry. Consider the following example, drawn from @BasuSchroeder2019. Casey is at a fancy fundraising party, where the guests and the wait staff are all wearing suits. The person next to Casey is black, and Casey reasons as follows.
 
 1. Almost all the black people here are on the wait staff.
 2. The person next to me is black.

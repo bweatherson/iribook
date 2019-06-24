@@ -38,4 +38,6 @@
 # Section name: leitgeb
 ```
 
-## Weak Belief
+## Weak Belief {#weakbelief}
+
+## Belief as Probability One {#probone}

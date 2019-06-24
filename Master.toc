@@ -28,6 +28,7 @@
 \contentsline {subsection}{\numberline {3.7.2}Ross and Schroeder's Theory}{68}{subsection.3.7.2}
 \contentsline {subsection}{\numberline {3.7.3}Leitgeb's Stability Theory}{73}{subsection.3.7.3}
 \contentsline {section}{\numberline {3.8}Weak Belief}{73}{section.3.8}
+\contentsline {section}{\numberline {3.9}Belief as Probability One}{73}{section.3.9}
 \contentsline {chapter}{\numberline {4}Knowledge}{75}{chapter.4}
 \contentsline {section}{\numberline {4.1}Knowledge and Practical Interests}{76}{section.4.1}
 \contentsline {section}{\numberline {4.2}Theoretical Knowledge}{82}{section.4.2}
@@ -44,7 +45,7 @@
 \contentsline {subsection}{\numberline {5.4.2}Making One Signal Precise}{108}{subsection.5.4.2}
 \contentsline {section}{\numberline {5.5}Objections and Replies}{109}{section.5.5}
 \contentsline {section}{\numberline {5.6}Evidence, Knowledge and Cut-Elimination}{111}{section.5.6}
-\contentsline {section}{\numberline {5.7}Basic Knowledge and Non-Inferential Knowledge \{basic\}}{116}{section.5.7}
+\contentsline {section}{\numberline {5.7}Basic Knowledge and Non-Inferential Knowledge}{116}{section.5.7}
 \contentsline {section}{\numberline {5.8}Epistemic Weakness}{120}{section.5.8}
 \contentsline {section}{\numberline {5.9}Holism and Defeaters}{122}{section.5.9}
 \contentsline {chapter}{\numberline {6}Rational Belief}{127}{chapter.6}
@@ -67,8 +68,8 @@
 \contentsline {section}{\numberline {7.3}Back to Earth}{155}{section.7.3}
 \contentsline {section}{\numberline {7.4}I Have Questions}{157}{section.7.4}
 \contentsline {section}{\numberline {7.5}You'll Never Be Satisfied (If You Try to Maximise)}{158}{section.7.5}
-\contentsline {section}{\numberline {7.6}Ignorance is Bliss}{160}{section.7.6}
-\contentsline {section}{\numberline {7.7}What does the Maximiser Know about Choosing?}{163}{section.7.7}
+\contentsline {section}{\numberline {7.6}Ignorance is Bliss}{161}{section.7.6}
+\contentsline {section}{\numberline {7.7}What does the Maximiser Know about Choosing?}{164}{section.7.7}
 \contentsline {chapter}{\numberline {8}Stakes}{165}{chapter.8}
 \contentsline {chapter}{\numberline {9}Facing the Changes}{167}{chapter.9}
 \contentsline {chapter}{\numberline {10}The Preface Paradox}{169}{chapter.10}

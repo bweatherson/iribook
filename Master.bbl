@@ -1,5 +1,5 @@
 \newcommand{\SortNoop}[1]{}
-\begin{thebibliography}{96}
+\begin{thebibliography}{121}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -31,6 +31,11 @@ Aumann, Robert~J. 1999.
   \href{http://dx.doi.org/10.1007/s001820050111}%
 {doi:10.1007/s001820050111}.
 
+\bibitem[{Basu and Schroeder(2019)}]{BasuSchroeder2019}
+Basu, Rima and Schroeder, Mark. 2019.
+\newblock \enquote{Doxastic Wrongings.}
+\newblock In  \cite{KimMcGrath}, 181-205.
+
 \bibitem[{Bhatt(1999)}]{Bhatt1999}
 Bhatt, Rajesh. 1999.
 \newblock \emph{Covert Modality in Non-finite Contexts}.
@@ -40,6 +45,13 @@ Bhatt, Rajesh. 1999.
 Binmore, Ken. 2007.
 \newblock \emph{Playing for Real: A Text on Game Theory}.
 \newblock Oxford: Oxford University Press.
+
+\bibitem[{Bird(2004)}]{Bird2004}
+Bird, Alexander. 2004.
+\newblock \enquote{Is evidence non-inferential?}
+\newblock \emph{Philosophical Quarterly} 54: 252-265,
+  \href{http://dx.doi.org/10.1111/j.0031-8094.2004.00350.x}%
+{doi:10.1111/j.0031-8094.2004.00350.x}.
 
 \bibitem[{Boyd(2016)}]{Boyd2015}
 Boyd, Kenneth. 2016.
@@ -57,12 +69,32 @@ Brown, Jessica. 2008.
   \href{http://dx.doi.org/10.1111/j.1468-0068.2008.00677.x}%
 {doi:10.1111/j.1468-0068.2008.00677.x}.
 
+\bibitem[{Buchak(2013)}]{BuchakRisk}
+Buchak, Lara. 2013.
+\newblock \emph{Risk and Rationality}.
+\newblock Oxford: Oxford University Press.
+
+\bibitem[{Caplin et~al.(2011)Caplin, Dean, and Martin}]{Caplin2011}
+Caplin, Andrew, Dean, Mark, and Martin, Daniel. 2011.
+\newblock \enquote{Search and Satisficing.}
+\newblock \emph{American Economic Review} 101: 2899-2922,
+  \href{http://dx.doi.org/10.1257/aer.101.7.2899}%
+{doi:10.1257/aer.101.7.2899}.
+
 \bibitem[{Carlsson and van Damme(1993)}]{CarlssonVanDamme1993}
 Carlsson, Hans and van Damme, Eric. 1993.
 \newblock \enquote{Global Games and Equilibrium Selection.}
 \newblock \emph{Econometrica} 61: 989-1018,
   \href{http://dx.doi.org/10.2307/2951491}%
 {doi:10.2307/2951491}.
+
+\bibitem[{Chernev et~al.(2015)Chernev, B{\"o}ckenholt, and
+  Goodman}]{ChernevEtAl2015}
+Chernev, Alexander, B{\"o}ckenholt, Ulf, and Goodman, Joseph. 2015.
+\newblock \enquote{Choice overload: A conceptual review and meta‐analysis.}
+\newblock \emph{Journal of Consumer Psychology} 25: 333-358,
+  \href{http://dx.doi.org/10.1016/j.jcps.2014.08.002}%
+{doi:10.1016/j.jcps.2014.08.002}.
 
 \bibitem[{Christensen(2005)}]{Christensen2005}
 Christensen, David. 2005.
@@ -81,6 +113,11 @@ Cohen, Stewart. 2004.
   \href{http://dx.doi.org/10.1111/j.1533-6077.2004.00040.x}%
 {doi:10.1111/j.1533-6077.2004.00040.x}.
 
+\bibitem[{Conlisk(1996)}]{Conlisk1996}
+Conlisk, John. 1996.
+\newblock \enquote{Why Bounded Rationality?}
+\newblock \emph{Journal of Economic Literature} 34: 669-700.
+
 \bibitem[{Cross and Roelofsen(2018)}]{sep-questions}
 Cross, Charles and Roelofsen, Floris. 2018.
 \newblock \enquote{Questions.}
@@ -95,10 +132,29 @@ DeRose, Keith. 2002.
   \href{http://dx.doi.org/10.2307/3182618}%
 {doi:10.2307/3182618}.
 
+\bibitem[{Diab et~al.(2008)Diab, Gillespie, and Highhouse}]{DiabEtAl2008}
+Diab, Dalia~L., Gillespie, Michael~A., and Highhouse, Scott. 2008.
+\newblock \enquote{Are maximizers really unhappy? The measurement of maximizing
+  tendency.}
+\newblock \emph{Judgment and Decision Making} 3: 364-370.
+
 \bibitem[{Dixit and Skeath(2004)}]{DixitSkeath2004}
 Dixit, Avinash~K. and Skeath, Susan. 2004.
 \newblock \emph{Games of Strategy}.
 \newblock New York: W. W. Norton \& Company, second edition.
+
+\bibitem[{Dogramaci(2015)}]{Dogramaci2015}
+Dogramaci, Sinan. 2015.
+\newblock \enquote{Forget and Forgive: A Practical Approach to Forgotten
+  Evidence.}
+\newblock \emph{Ergo} 2: 645-677,
+  \href{http://dx.doi.org/10.3998/ergo.12405314.0002.026}%
+{doi:10.3998/ergo.12405314.0002.026}.
+
+\bibitem[{Dylan(2016)}]{Dylan2016}
+Dylan, Bob. 2016.
+\newblock \emph{The Lyrics: 1961-2012}.
+\newblock New York: Simon \& Schuster.
 
 \bibitem[{Evnine(1999)}]{Evnine1999}
 Evnine, Simon. 1999.
@@ -175,6 +231,14 @@ Harman, Gilbert. 1973.
 \newblock \emph{Change in View}.
 \newblock Cambridge, MA: Bradford.
 
+\bibitem[{Harper(1986)}]{Harper1986}
+Harper, William. 1986.
+\newblock \enquote{Mixed Strategies and Ratifiability in Causal Decision
+  Theory.}
+\newblock \emph{Erkenntnis} 24: 25-36,
+  \href{http://dx.doi.org/10.1007/BF00183199}%
+{doi:10.1007/BF00183199}.
+
 \bibitem[{Hawthorne(2004)}]{Hawthorne2004}
 Hawthorne, John. 2004.
 \newblock \emph{Knowledge and Lotteries}.
@@ -194,6 +258,13 @@ Hawthorne, John and Stanley, Jason. 2008.
   \href{http://dx.doi.org/10.5840/jphil20081051022}%
 {doi:10.5840/jphil20081051022}.
 
+\bibitem[{Hieronymi(2013)}]{Hieronymi2013}
+Hieronymi, Pamela. 2013.
+\newblock \enquote{The Use of Reasons in Thought (and the Use of Earmarks in
+  Arguments).}
+\newblock \emph{Ethics} 124: 114-127, \href{http://dx.doi.org/10.1086/671402}%
+{doi:10.1086/671402}.
+
 \bibitem[{Humberstone(1981)}]{Humberstone1981}
 Humberstone, I.~L. 1981.
 \newblock \enquote{From Worlds to Possibilities.}
@@ -207,6 +278,21 @@ Hunter, Daniel. 1996.
   Belief.}
 \newblock \emph{No{\^u}s} 30: 75-98, \href{http://dx.doi.org/10.2307/2216304}%
 {doi:10.2307/2216304}.
+
+\bibitem[{Iyengar et~al.(2006)Iyengar, Wells, and Schwartz}]{IyengarEtAl2006}
+Iyengar, Sheena~S., Wells, Rachael~E., and Schwartz, Barry. 2006.
+\newblock \enquote{Doing Better but Feeling Worse: Looking for the ``Best'' Job
+  Undermines Satisfaction.}
+\newblock \emph{Psychological Science} 17: 143-150,
+  \href{http://dx.doi.org/10.1111/j.1467-9280.2006.01677.x}%
+{doi:10.1111/j.1467-9280.2006.01677.x}.
+
+\bibitem[{Joyce(2018)}]{Joyce2018}
+Joyce, James. 2018.
+\newblock \enquote{Deliberation and Stability in Newcomb Problems and
+  Pseudo-Newcomb Problems.}
+\newblock In Arif Ahmed (ed.), \emph{Newcomb's Problem}, 138-159. Cambridge:
+  Cambridge University Press.
 
 \bibitem[{Kelly(2010)}]{Kelly2010-KELPDA}
 Kelly, Thomas. 2010.
@@ -307,6 +393,13 @@ MacFarlane, John. 2005.
 \newblock \enquote{The Assessment Sensitivity of Knowledge Attributions.}
 \newblock \emph{Oxford Studies in Epistemology} 1: 197-233.
 
+\bibitem[{Maher(1996)}]{Maher1996}
+Maher, Patrick. 1996.
+\newblock \enquote{Subjective and Objective Confirmation.}
+\newblock \emph{Philosophy of Science} 63: 149-174,
+  \href{http://dx.doi.org/10.1086/289906}%
+{doi:10.1086/289906}.
+
 \bibitem[{Maitra(2010)}]{Maitra2010}
 Maitra, Ishani. 2010.
 \newblock \enquote{Assertion, Norms and Games.}
@@ -319,6 +412,14 @@ Maitra, Ishani and Weatherson, Brian. 2010.
 \newblock \emph{Philosophical Studies} 149: 99-118,
   \href{http://dx.doi.org/10.1007/s11098-010-9542-z}%
 {doi:10.1007/s11098-010-9542-z}.
+
+\bibitem[{Manski(2017)}]{Manski2017}
+Manski, Charles~F. 2017.
+\newblock \enquote{Optimize, satisfice, or choose without deliberation? A
+  simple minimax-regret assessment.}
+\newblock \emph{Theory and Decision} 83: 155-173,
+  \href{http://dx.doi.org/10.1007/s11238-017-9592-1}%
+{doi:10.1007/s11238-017-9592-1}.
 
 \bibitem[{McGrath and Kim(2019)}]{McGrathKim2019}
 McGrath, Matthew and Kim, Brian. 2019.
@@ -352,12 +453,29 @@ Nagel, Jennifer. 2008.
 \newblock \emph{Knowledge: A Very Short Introduction}.
 \newblock Oxford: Oxford University Press.
 
+\bibitem[{Nair(2019)}]{Nair2019}
+Nair, Shyam. 2019.
+\newblock \enquote{Must Good Reasoning Satisfy Cumulative Transitivity?}
+\newblock \emph{Philosophy and Phenomenological Research} 98: 123-146,
+  \href{http://dx.doi.org/10.1111/phpr.12431}%
+{doi:10.1111/phpr.12431}.
+
 \bibitem[{Neta(2007)}]{Neta2007}
 Neta, Ram. 2007.
 \newblock \enquote{Anti-intellectualism and the Knowledge-Action Principle.}
 \newblock \emph{Philosophy and Phenomenological Research} 75: 180-187,
   \href{http://dx.doi.org/10.1111/j.1933-1592.2007.00069.x}%
 {doi:10.1111/j.1933-1592.2007.00069.x}.
+
+\bibitem[{Newman et~al.(2018)Newman, Schug, Yuki, Yamada, and
+  Nezlek}]{NewmanEtAl2018}
+Newman, David~B., Schug, Joanna, Yuki, Masaki, Yamada, Junko, and Nezlek,
+  John~B. 2018.
+\newblock \enquote{The negative consequences of maximizing in friendship
+  selection.}
+\newblock \emph{Journal of Personality and Social Psychology} 114: 804-824,
+  \href{http://dx.doi.org/10.1037/pspp0000141}%
+{doi:10.1037/pspp0000141}.
 
 \bibitem[{North(2010)}]{North2010}
 North, Jill. 2010.
@@ -372,6 +490,14 @@ Nozick, Robert. 1981.
 \newblock \emph{Philosophical Explorations}.
 \newblock Cambridge, MA: Harvard University Press.
 
+\bibitem[{Papi(2013)}]{Papi2013}
+Papi, Mario. 2013.
+\newblock \enquote{Satisficing and maximizing consumers in a monopolistic
+  screening model.}
+\newblock \emph{Mathematical Social Sciences} 66: 385-389,
+  \href{http://dx.doi.org/10.1016/j.mathsocsci.2013.08.005}%
+{doi:10.1016/j.mathsocsci.2013.08.005}.
+
 \bibitem[{Pryor(2004)}]{Pryor2004}
 Pryor, James. 2004.
 \newblock \enquote{What's Wrong with Moore's Argument?}
@@ -379,11 +505,28 @@ Pryor, James. 2004.
   \href{http://dx.doi.org/10.1111/j.1533-6077.2004.00034.x}%
 {doi:10.1111/j.1533-6077.2004.00034.x}.
 
+\bibitem[{Quiggin(1982)}]{Quiggin1982}
+Quiggin, John. 1982.
+\newblock \enquote{A theory of anticipated utility.}
+\newblock \emph{Journal of Economic Behavior \& Organization} 3: 323-343,
+  \href{http://dx.doi.org/10.1016/0167-2681(82)90008-7}%
+{doi:10.1016/0167-2681(82)90008-7}.
+
 \bibitem[{Ramsey(1990)}]{RamseyGeneralProp}
 Ramsey, Frank. 1990.
 \newblock \enquote{General Propositions and Causality.}
 \newblock In D.~H. Mellor (ed.), \emph{Philosophical Papers}, 145-163.
   Cambridge: Cambridge University Press.
+
+\bibitem[{Reutskaja et~al.(2011)Reutskaja, Nagel, Camerer, and
+  Rangel}]{Reutskaja2011}
+Reutskaja, Elena, Nagel, Rosemarie, Camerer, Colin~F., and Rangel, Antonio.
+  2011.
+\newblock \enquote{Search Dynamics in Consumer Choice under Time Pressure: An
+  Eye-Tracking Study.}
+\newblock \emph{American Economic Review} 101: 900-926,
+  \href{http://dx.doi.org/10.1257/aer.101.2.900}%
+{doi:10.1257/aer.101.2.900}.
 
 \bibitem[{Richter(1984)}]{Richter1984}
 Richter, Reed. 1984.
@@ -418,6 +561,15 @@ Ryle, Gilbert. 1949.
 \newblock \emph{The Concept of Mind}.
 \newblock New York: Barnes and Noble.
 
+\bibitem[{Scheibehenne et~al.(2010)Scheibehenne, Greifeneder, and
+  Todd}]{ScheibehenneEtAl2010}
+Scheibehenne, Benjamin, Greifeneder, Rainer, and Todd, Peter~M. 2010.
+\newblock \enquote{Can There Ever Be Too Many Options? A Meta-Analytic Review
+  of Choice Overload.}
+\newblock \emph{Journal of Consumer Research} 37: 409-425,
+  \href{http://dx.doi.org/10.1086/651235}%
+{doi:10.1086/651235}.
+
 \bibitem[{Schoenfield(2013)}]{Schoenfield2013}
 Schoenfield, Miriam. 2013.
 \newblock \enquote{Permission to Believe: Why Permissivism Is True and What It
@@ -425,6 +577,21 @@ Schoenfield, Miriam. 2013.
 \newblock \emph{No{\^u}s} 47: 193-218,
   \href{http://dx.doi.org/10.1111/nous.12006}%
 {doi:10.1111/nous.12006}.
+
+\bibitem[{Schwartz(2004)}]{Schwartz2004}
+Schwartz, Barry. 2004.
+\newblock \emph{The Paradox of Choice: Why More is Less}.
+\newblock New York: Harper Collins.
+
+\bibitem[{Schwartz et~al.(2002)Schwartz, Ward, Monterosso, Lyubomirsky, White,
+  and Lehman}]{SchwartzEtAl2002}
+Schwartz, Barry, Ward, Andrew, Monterosso, John, Lyubomirsky, Sonja, White,
+  Katherine, and Lehman, Darrin~R. 2002.
+\newblock \enquote{Maximizing versus satisficing: Happiness is a matter of
+  choice.}
+\newblock \emph{Journal of Personality and Social Psychology} 83: 1178-1197,
+  \href{http://dx.doi.org/10.1037/0022-3514.83.5.1178}%
+{doi:10.1037/0022-3514.83.5.1178}.
 
 \bibitem[{Schwitzgebel(2008)}]{Schwitzgebel2008}
 Schwitzgebel, Eric. 2008.
@@ -484,6 +651,14 @@ Stanley, Jason. 2005.
 ---. 2011.
 \newblock \emph{Know How}.
 \newblock Oxford: Oxford University Press.
+
+\bibitem[{Tucker(2016)}]{Tucker2016}
+Tucker, Chris. 2016.
+\newblock \enquote{Satisficing and Motivated Submaximization (in the Philosophy
+  of Religion).}
+\newblock \emph{Philosophy and Phenomenological Research} 93: 127-143,
+  \href{http://dx.doi.org/10.1111/phpr.12191}%
+{doi:10.1111/phpr.12191}.
 
 \bibitem[{Unger(1975)}]{Unger1975}
 Unger, Peter. 1975.
@@ -589,6 +764,14 @@ Williamson, Timothy. 1994.
 ---. 2000.
 \newblock \emph{{Knowledge and its Limits}}.
 \newblock Oxford University Press.
+
+\bibitem[{Williamson(2005)}]{Williamson2005}
+---. 2005.
+\newblock \enquote{{Contextualism, Subject-Sensitive Invariantism and Knowledge
+  of Knowledge}.}
+\newblock \emph{The Philosophical Quarterly} 55: 213-235,
+  \href{http://dx.doi.org/10.1111/j.0031-8094.2005.00396.x}%
+{doi:10.1111/j.0031-8094.2005.00396.x}.
 
 \bibitem[{Williamson(2007)}]{Williamson2007}
 ---. 2007.

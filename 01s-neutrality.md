@@ -1,4 +1,4 @@
-## Neutrality
+## Neutrality {#neutrality}
 
 This book defends, at some length, the idea that knowledge is interest-relative. But I'm staying neutral on a number of other topics in the vicinity.
 
@@ -13,7 +13,7 @@ I endorse principle B, and that's why I endorse an interest-relative theory of k
 
 It isn't hard to see why cases like Anisa and Blaise can move one to endorse principle A, and hence contextualism. It would be very odd for Anisa to say "This morning, I knew the Battle of Agincourt was in 1415." That's odd because she can't now take it as given that the Battle of Agincourt was in 1415, and in some sense she wasn't in any better or worse evidential position this morning with respect to the date of the battle. Perhaps, and this is the key point, it would even be false for Anisa to say this now. The contextualist, especially the contextualist who endorses principle A, has a good explanation for why that's false. The interest-relative theorist doesn't have anything to say about that. Personally I think it's not obvious whether this would be false for Anisa to say, or merely inappropriate, and even if it is false, there may be decent explanations of this that are not contextualist. But there is clearly an argument for contextualism here. And it isn't one that I'm going to endorse or reject.
 
-As I've already noted, I'm making heavy use of the principle that Jessica Brown calls K-Suff. I'm going to defend that at much greater length in chapter \@ref(kaprinciple). What I'm not defending is the converse of that principle, what she calls K-Nec.
+As I've already noted, I'm making heavy use of the principle that Jessica Brown calls K-Suff. I'm going to defend that at much greater length in what follows. What I'm not defending is the converse of that principle, what she calls K-Nec.
 
 K-Nec
 :    An agent can properly use $p$ as a reason for action only if she knows that $p$.
