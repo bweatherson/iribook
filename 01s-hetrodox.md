@@ -62,7 +62,7 @@ But rather than thinking about these merely possible languages, let's return to 
 > You: You probably knew when the battle was, but you don't now know it?    
 > Chamari: No, I definitely didn't know when the battle was, but it was probably right to have said it was in 1415.
 
-And you can probably see all sorts of ways of making Chamari's position sound terrible. The argument I'm giving here is of course just a version of the argument John @McFarlane2005-Knowledge gives arguing that contextualists have a problem with retraction. And Chamari's position does sound very bad here.
+And you can probably see all sorts of ways of making Chamari's position sound terrible. The argument I'm giving here is of course just a version of the argument John @MacFarlane2005-Knowledge gives arguing that contextualists have a problem with retraction. And Chamari's position does sound very bad here.
 
 But I don't want to lean too much weight on how she sounds. Every position in this area ends up saying some strange things. The very idea that the epistemic standard for assertion could be meta-linguistic is, to my mind, even more implausible than the idea that we should end up where Chamari does.
 
