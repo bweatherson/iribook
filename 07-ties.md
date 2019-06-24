@@ -91,6 +91,7 @@ Frankie Lee's situation is weird. Who lays out some ten dollar bills and asks yo
 
 So far in this chapter I've assumed that these two questions are equivalent:
 
+
 1. Which option has highest expected utility?
 2. What to do?
 
@@ -121,6 +122,17 @@ The common thread to the last paragraph is that these objects on the shelves are
 
 
 A better model of search and choice says that the chooser should look at features of each choice such the cost of evaluating each choice for this feature and processing this information is less than the expected gain from including the feature in the search choice. Other features should be simply assumed to be equal and irrelevant to the search and choice. 
+=======
+I'm going to assume maximising expected utility means maximising expected utility given facts that are readily available. So if one simply doesn't process a relevant but observationally obvious fact, that can lead to an irrational choice. I might alternatively have said that the choice was rational (given the facts the chooser was aware of), but the observational process was irrational. But I suspect that terminology would just add needless complication.
+
+And I'm going to call any search procedure that is sensitive to resource considerations a satisficing procedure. This isn't uncommon in philosophical works, such as @XXX2017 and @YYY2017, but the standard usage in economics is considerably narrower. There the term 'satisficer' is restricted to agents who start a search with a 'reservation level' of quality, and choose when they find something meeting that level. So what @XXX2011 call a 'hybrid' search procedure, in contrast to a satisficing procedure, is what I'll call satisficing. But even there it is complicated. @YYY2011 have models that they call satisficing models where the reservation level is sensitive to the quality of goods already seen, and to the costs of search. And that ends up being not dissimilar to the hybrid models of @XXX2011. And it's those kinds of search procedures, ones which are satisficing models in the broader sense of being resource-sensitive, but not in the narrower sense of only aiming to clear a pre-established threshold, that I think rational agents adopt.
+
+When David is facing the shelf of chickpeas, he can rationally take any one of them - apart perhaps from ones that are seriously damaged. How can the expected utility theory capture that fact? It says that more than one choice is permissible only if the choices are equal in expected utility. So the different cans are equal in expected utility. But on reflection, this is a wild claim. Some of the cans are ever so slightly easier to reach. Some of the cans will have ever so slight damage - a tiny dint here, a small tear in the label there - that just might indicate a more serious flaw. Of course, these small damages are almost always irrelevant, but as long as the probability that they indicate damage is positive, it breaks the equality of the expected utility of the cans. Even if there is no visible damage, some of the labels will be ever so slightly more faded, which indicates that the cans are older, which ever so slightly increases the probability that the goods will go bad before David gets to use them. Of course in reality this won't matter more than one time in a million, but one in a million chances matter if you are asking whether two expected utilities are strictly equal.
+
+The common thread to the last paragraph is that these objects on the shelves are almost duplicates, but the most careful quality control doesn't produce consumer goods that are actual duplicates. This is particularly true in Frankie's choice situation. If all the notes he looks at are really duplicates, down to the serial numbers, he should run away. There are always some differences. It is unlikely that these differences make precisely zero difference to the expected utility of each choice. And even if they do, discovering that is hard work.
+
+A better model of search and choice says that the chooser should at features of each choice such the cost of evaluating each choice for this feature and processing this information is less than the expected gain from including the feature in the search choice. Other features should be simply assumed to be equal and irrelevant to the search and choice. 
+>>>>>>> 09a092464d9992cfdbcbcb7ff8b3d769e76fb557
 
 The costs of doing an expanded search are non-trivial, so this could rule out considering a lot of features. I don't know of any experimental work on this particular choice problem - choosing a token from an array of almost indiscriminable types. But experimental work on related choice situations seems to back up the kind of model I have in mind, such as @@@XXX2011 seems to back up the idea that subjects do not maximise, but rather choose in a resource sensitive way.
 
@@ -161,3 +173,8 @@ So none of the cases raise problems if the person making the choice is choosing 
 I said a little while ago that there were two problems - how to handle the other cases, and how to handle people who don't make choices in the right way. The latter problem is a little harder, and we'll end with it.
 
 ## What does the Maximiser Know about Choosing?
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 09a092464d9992cfdbcbcb7ff8b3d769e76fb557
