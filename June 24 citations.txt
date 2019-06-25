@@ -65,4 +65,14 @@ On Agent-Based Modeling of Complex
 Systems: Learning and Bounded Rationality
 Sanmay Das
 
-* I think unpublished
+* I think unpublished; skip
+
+Cognitive Economics
+Miles Kimball
+First published: 07 May 2015 https://doi.org/10.1111/jere.12070 Cited by: 2
+Jpn Econ Rev (Oxf). 2015 Jun; 66(2): 167–181. (Japan)
+
+* Four techniques for solving problem; first is a bit relevant to ours
+
+"Least transgressive are models in which an agent sits down once in a long while to think very carefully about how carefully to think about decisions of a frequently encountered type. For example, it is not impossible that someone might spend one afternoon considering how much time to spend on each of many grocery-shopping trips in comparison shopping." (174)
+ - Though don't have to think about it too hard!!
