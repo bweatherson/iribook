@@ -1,1 +1,68 @@
-https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?article=1004&context=psych_pub
+Pingle, Mark (2006). Deliberation Cost as a Foundation for Behavioral Economics. In Handbook of Contemporary Behavioral Economics: Foundations and Developments, ed. Morris Altman. Routledge: New York and Abingdon, 340–55.
+
+* Says that the regress problem means that there is no rational solution, so have to be behavioural economists
+
+Leonard Savage “Difficulties in the Theory of Personal Probability,” Philosophy of Science
+34 (1967): 305-310.
+
+* Says the regress problem is probably unsolvable, but without argument
+
+Gigerenzer, G. and Selton, R. (2001). ‚Rethinking Rationality”, In (G. Gigerenzer and R. Selton ,
+eds.), Bounded Rationality: The Adaptive Toolbox, Cambridge, MA: MIT Press. 
+
+* Bounded rationality is not optimization elsewhere
+
+Student finance, information and decision making
+Author(s): Jean Mangan, Amanda Hughes and Kim Slack
+Source: Higher Education, Vol. 60, No. 5 (November 2010), pp. 459-472
+
+ * One of many quick dismissals via regress argument
+ * 10.1007/s10734-010-9309-7
+ 
+ Bounded Rationality and World Political Economy
+In book: Governing the World's Money, ed. David M. Andrews, C. Randall Henning, Louis W. Pauly, Publisher: Cornell University Press, pp.168-93
+John S. Odell
+
+* Another cheap dismissal
+
+Behavioral Economics: Toward a New Economics by Integration with Traditional Economics
+By Masao Ogaki, Saori C. Tanaka
+Springer, Singapore, 2017
+
+* Dismissal as a theory of *rationality* on page 74 - so have to use experimental methods
+
+Artificial Intelligence
+Volume 94, Issues 1–2, July 1997, Pages 57-77
+Artificial Intelligence
+Rationality and intelligence
+Stuart J.Russell
+10.1016/S0004-3702(97)00026-X
+
+* Mentions regress problem
+* Advocates looking outside the agent
+* Cites Cherniak1986 (Minimal Rationality) and Harman, Change in View, as inspirations
+* Focus on good programming rather than good reasoning
+* Not clear why expected utility will have any benefit here
+
+On the Origins of Imperfection and Apparent Non-rationality
+Miroslav Kárný AND Tatiana V. Guy
+in Decision Making: Uncertainty, Imperfection, Deliberation and Scalability, edited Tatiana V. Guy and Miroslav Kárný and David H. Wolpert, Springer International Publishing Switzerland (Basel) 2015, 55-89
+10.1007/978-3-319-15144-1_3
+
+* Say it is only a finite regress
+* Not sure this always helps
+
+Imperfect Information and Opportunism
+Ashok Chakravarti
+Pages 1114-1136 | Published online: 21 Dec 2017
+Download citation  https://doi.org/10.1080/00213624.2017.1391594
+Journal of Economic Issues 
+Volume 51, 2017 - Issue 4
+
+* Another quick dismissal, though does point to the "intuitive grounds" rule - that might be useful to link to
+
+On Agent-Based Modeling of Complex
+Systems: Learning and Bounded Rationality
+Sanmay Das
+
+* I think unpublished
