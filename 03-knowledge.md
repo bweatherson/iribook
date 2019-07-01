@@ -30,8 +30,3 @@ The argument here will be in two parts. First, I'll focus on practical inquiries
 ```
 
 ### Multiple Premise Closure {#andintro}
-
-## Leftovers
-
-* Modals (I don't remember what I had in mind here, though maybe it is the stuff about marbles from GBC)
-* Miners and doctors (I don't remember what I had in mind here, though maybe it is just 2.2 from KBI, and that goes to objections)
