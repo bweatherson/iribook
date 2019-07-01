@@ -28,7 +28,7 @@ That **Cut** fails in non-monotonic cases is fairly obvious. We can see this wit
 
 > $\Gamma =$ {Tweety is a bird}    
 > $\Delta =$ {Tweety is a penguin}    
-> $A = B = $ Tweety can fly    
+> $A = B =$ Tweety can fly    
 
 From Tweety is a bird we can rationally infer that Tweety flies. And given that Tweety is a flying penguin, we can infer that she flies. But given that Tweety is a penguin and a bird, we cannot infer this. So principles 1 and 2 in **Cut** are true, but 3 is false. And the same pattern will recur any time $\Delta$ provides a defeater for the link between $\Gamma$ and $A$.
 
@@ -37,8 +37,8 @@ These cases will matter in what follows, but they are rather different from the 
 Here's the crucial background assumption for the example. (I'll come back to how plausible this is after setting the example up.) The nature of $F$s around here varies, but it varies very very slowly. If we find a pattern in common to all the $F$s within distance $d$ of here, we can rationally infer that the pattern extends another mile. That's just boring induction. But we can't infer that it extends to infinity - this isn't like working out the mass of an electron. (It's more like working out the details of the diet of some animal.) Now here is the counterexample.
 
 > $\Gamma = \Delta = \{$All the $F$s within 3 miles of here are $G$s.\$}$    
-> $A = $ All the $F$s between 3 and 4 miles from here are $G$s.    
-> $B = $ All the $F$s between 4 and 5 miles from here are $G$s.
+> $A =$ All the $F$s between 3 and 4 miles from here are $G$s.    
+> $B =$ All the $F$s between 4 and 5 miles from here are $G$s.
 
 If what I said was right, then this is a counterexample to **Cut**. $\Gamma \vDash A$ is true because it says given evidence about all the $F$s within 3 miles of here, we can infer that all the $F$s within 4 miles are like them. And $\{A\} \cup \vDash B$ is true because because it says given evidence about all the $F$s within 4 miles of here, we can infer that all the $F$s within 5 miles are like them. But $\Gamma \cup \Delta \vDash A$ is false, because it purports to say that given evidence about the $F$s within 3 miles of here, we can infer that all the $F$s within 5 miles are alike. And that's an inductive bridge too far.
 
