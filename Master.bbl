@@ -1,5 +1,5 @@
 \newcommand{\SortNoop}[1]{}
-\begin{thebibliography}{121}
+\begin{thebibliography}{137}
 \newcommand{\enquote}[1]{``#1''}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -61,6 +61,14 @@ Boyd, Kenneth. 2016.
   \href{http://dx.doi.org/10.1007/s11229-015-0878-y}%
 {doi:10.1007/s11229-015-0878-y}.
 
+\bibitem[{Brandenburger et~al.(2008)Brandenburger, Friedenberg, and
+  Keisler}]{Brandenburger2008}
+Brandenburger, Adam, Friedenberg, Amanda, and Keisler, H.~Jerome. 2008.
+\newblock \enquote{Admissibility in Games.}
+\newblock \emph{Econometrica} 76: 307-352,
+  \href{http://dx.doi.org/10.1111/j.1468-0262.2008.00835.x}%
+{doi:10.1111/j.1468-0262.2008.00835.x}.
+
 \bibitem[{Brown(2008)}]{Brown2008}
 Brown, Jessica. 2008.
 \newblock \enquote{Subject-Sensitive Invariantism and the Knowledge Norm for
@@ -88,6 +96,13 @@ Carlsson, Hans and van Damme, Eric. 1993.
   \href{http://dx.doi.org/10.2307/2951491}%
 {doi:10.2307/2951491}.
 
+\bibitem[{Chakravarti(2017)}]{Chakravarti2017}
+Chakravarti, Ashok. 2017.
+\newblock \enquote{Imperfect Information and Opportunism.}
+\newblock \emph{Journal of Economic Issues} 51: 1114-1136,
+  \href{http://dx.doi.org/10.1080/00213624.2017.1391594}%
+{doi:10.1080/00213624.2017.1391594}.
+
 \bibitem[{Chernev et~al.(2015)Chernev, B{\"o}ckenholt, and
   Goodman}]{ChernevEtAl2015}
 Chernev, Alexander, B{\"o}ckenholt, Ulf, and Goodman, Joseph. 2015.
@@ -96,10 +111,21 @@ Chernev, Alexander, B{\"o}ckenholt, Ulf, and Goodman, Joseph. 2015.
   \href{http://dx.doi.org/10.1016/j.jcps.2014.08.002}%
 {doi:10.1016/j.jcps.2014.08.002}.
 
+\bibitem[{Cherniak(1986)}]{Cherniak1986}
+Cherniak, Christopher. 1986.
+\newblock \emph{Minimal Rationality}.
+\newblock Cambridge, MA: MIT Press.
+
 \bibitem[{Christensen(2005)}]{Christensen2005}
 Christensen, David. 2005.
 \newblock \emph{Putting Logic in Its Place}.
 \newblock Oxford: Oxford University Press.
+
+\bibitem[{Christensen(2007)}]{Christensen2007}
+---. 2007.
+\newblock \enquote{Does Murphy's Law Apply in Epistemology? Self-Doubt and
+  Rational Ideals.}
+\newblock \emph{Oxford Studies in Epistemology} 2: 3-31.
 
 \bibitem[{Clark(2012)}]{Clark2012}
 Clark, Christopher. 2012.
@@ -156,6 +182,12 @@ Dylan, Bob. 2016.
 \newblock \emph{The Lyrics: 1961-2012}.
 \newblock New York: Simon \& Schuster.
 
+\bibitem[{Elster(1979)}]{Elster1979}
+Elster, Jon. 1979.
+\newblock \emph{Ulysses and the Sirens: Studies in Rationality and
+  Irrationality}.
+\newblock Cambridge: Cambridge University Press.
+
 \bibitem[{Evnine(1999)}]{Evnine1999}
 Evnine, Simon. 1999.
 \newblock \enquote{Believing Conjunctions.}
@@ -207,6 +239,11 @@ Gettier, Edmund~L. 1963.
 \newblock \emph{Analysis} 23: 121-123,
   \href{http://dx.doi.org/10.2307/3326922}%
 {doi:10.2307/3326922}.
+
+\bibitem[{Gigerenzer and Selten(2001)}]{GigerenzerSelton2001}
+Gigerenzer, Gerd and Selten, Reinhard. 2001.
+\newblock \emph{Bounded Rationality: The Adaptive Toolbox}.
+\newblock Cambridge, MA: MIT Press.
 
 \bibitem[{Gillies(2010)}]{Gillies2010}
 Gillies, Anthony~S. 2010.
@@ -294,6 +331,11 @@ Joyce, James. 2018.
 \newblock In Arif Ahmed (ed.), \emph{Newcomb's Problem}, 138-159. Cambridge:
   Cambridge University Press.
 
+\bibitem[{Joyce(1999)}]{Joyce1999}
+Joyce, James~M. 1999.
+\newblock \emph{The Foundations of Causal Decision Theory}.
+\newblock Cambridge: Cambridge University Press.
+
 \bibitem[{Kelly(2010)}]{Kelly2010-KELPDA}
 Kelly, Thomas. 2010.
 \newblock \enquote{Peer disagreement and higher order evidence.}
@@ -304,6 +346,18 @@ Kelly, Thomas. 2010.
 Kim, Brian and McGrath, Matthew (eds.). 2019.
 \newblock \emph{Pragmatic Encroachment in Epistemology}.
 \newblock New York: Routledge.
+
+\bibitem[{Kimball(2015)}]{Kimball2015}
+Kimball, Miles. 2015.
+\newblock \enquote{Cognitive Economics.}
+\newblock \emph{The Japanese Economic Review} 66: 167-181,
+  \href{http://dx.doi.org/10.1111/jere.12070}%
+{doi:10.1111/jere.12070}.
+
+\bibitem[{Knight(1921)}]{Knight1921}
+Knight, Frank. 1921.
+\newblock \emph{Risk, Uncertainty and Profit}.
+\newblock Chicago: University of Chicago Press.
 
 \bibitem[{Kohlberg and Mertens(1986)}]{KohlbergMertens1986}
 Kohlberg, Elon and Mertens, Jean-Francois. 1986.
@@ -413,6 +467,13 @@ Maitra, Ishani and Weatherson, Brian. 2010.
   \href{http://dx.doi.org/10.1007/s11098-010-9542-z}%
 {doi:10.1007/s11098-010-9542-z}.
 
+\bibitem[{Mangan et~al.(2010)Mangan, Hughes, and Slack}]{ManganEtAl2010}
+Mangan, Jean, Hughes, Amanda, and Slack, Kim. 2010.
+\newblock \enquote{Student Finance, Information and Decision Making.}
+\newblock \emph{Higher Education} 60: 459-472,
+  \href{http://dx.doi.org/10.1007/s10734-010-9309-7}%
+{doi:10.1007/s10734-010-9309-7}.
+
 \bibitem[{Manski(2017)}]{Manski2017}
 Manski, Charles~F. 2017.
 \newblock \enquote{Optimize, satisfice, or choose without deliberation? A
@@ -490,6 +551,19 @@ Nozick, Robert. 1981.
 \newblock \emph{Philosophical Explorations}.
 \newblock Cambridge, MA: Harvard University Press.
 
+\bibitem[{Odell(2002)}]{Odell2002}
+Odell, John~S. 2002.
+\newblock \enquote{Bounded Rationality and World Political Economy.}
+\newblock In David~M. Andrews, C.~Randall Henning, and Louis~W. Pauly (eds.),
+  \emph{Governing the World's Money}, 168-193. Ithaca: Cornell University
+  Press.
+
+\bibitem[{Ogaki and Tanaka(2017)}]{OgakiTanaka2017}
+Ogaki, Masao and Tanaka, Saori~C. 2017.
+\newblock \emph{Behavioral Economics: Toward a New Economics by Integration
+  with Traditional Economics}.
+\newblock Singapore: Springer.
+
 \bibitem[{Papi(2013)}]{Papi2013}
 Papi, Mario. 2013.
 \newblock \enquote{Satisficing and maximizing consumers in a monopolistic
@@ -497,6 +571,12 @@ Papi, Mario. 2013.
 \newblock \emph{Mathematical Social Sciences} 66: 385-389,
   \href{http://dx.doi.org/10.1016/j.mathsocsci.2013.08.005}%
 {doi:10.1016/j.mathsocsci.2013.08.005}.
+
+\bibitem[{Pingle(2006)}]{Pingle2006}
+Pingle, Mark. 2006.
+\newblock \enquote{Deliberation Cost as a Foundation for Behavioral Economics.}
+\newblock In Morris Altman (ed.), \emph{In Handbook of Contemporary Behavioral
+  Economics: Foundations and Developments}, 340-355. New York: Routledge.
 
 \bibitem[{Pryor(2004)}]{Pryor2004}
 Pryor, James. 2004.
@@ -556,10 +636,24 @@ Rousseau, Jean-Jacques. 1913.
 \newblock New York: J. M. Dent \& Sons.
 \newblock Translated by G. D. H. Cole.
 
+\bibitem[{Russell(1997)}]{Russell1997}
+Russell, Stuart~J. 1997.
+\newblock \enquote{Rationality and Intelligence.}
+\newblock \emph{Artificial Intelligence} 94: 57-77,
+  \href{http://dx.doi.org/10.1016/S0004-3702(97)00026-X}%
+{doi:10.1016/S0004-3702(97)00026-X}.
+
 \bibitem[{Ryle(1949)}]{Ryle1949}
 Ryle, Gilbert. 1949.
 \newblock \emph{The Concept of Mind}.
 \newblock New York: Barnes and Noble.
+
+\bibitem[{Savage(1967)}]{Savage1967}
+Savage, Leonard. 1967.
+\newblock \enquote{Difficulties in the Theory of Personal Probability.}
+\newblock \emph{Philosophy of Science} 34: 305-310,
+  \href{http://dx.doi.org/10.1086/288168}%
+{doi:10.1086/288168}.
 
 \bibitem[{Scheibehenne et~al.(2010)Scheibehenne, Greifeneder, and
   Todd}]{ScheibehenneEtAl2010}
@@ -786,6 +880,11 @@ Williamson, Timothy. 1994.
 \newblock \emph{Inquiry} 56: 1-14,
   \href{http://dx.doi.org/10.1080/0020174X.2013.775010}%
 {doi:10.1080/0020174X.2013.775010}.
+
+\bibitem[{Wittgenstein(1953)}]{Wittgenstein1953}
+Wittgenstein, Ludwig. 1953.
+\newblock \emph{Philosophical Investigations}.
+\newblock London: Macmillan.
 
 \bibitem[{Wright(2002)}]{Wright2002}
 Wright, Crispin. 2002.
