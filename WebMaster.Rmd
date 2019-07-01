@@ -5,23 +5,21 @@ mainfont: SF Pro Text Light
 mainfontoptions: BoldFont = SF Pro Text Semibold
 documentclass: book
 output: 
-  bookdown::pdf_book:
+  bookdown::gitbook:
     md_extensions: +example_lists+fancy_lists+startnum+line_blocks
-    citation_package: natbib
-    keep_tex: yes
-    latex_engine: xelatex
     number_sections: yes
-    toc: true
-    includes:
-        in_header: iri-book-style.tex
-fontsize: 11pt
-indent: true
-bibliography: "../OldPapers/CollBib"
-biblio-style: philreview
-geometry: "left=1.95in,right=1.95in,top=1.78in,bottom=1.78in"
+bibliography: "../OldPapers/CollBib.bib"
+url: 'https\://brian.weatherson.org/kahis/'
+cover-image: "tree.jpg"
 author: Brian Weatherson
 date: \today
 ---
+
+# Front Matter {-}
+
+![A Tree](tree.jpg)
+
+A defence of an interest-relative theory of knowledge
 
 ```{r child='00-prologue.md'}
 ```
@@ -55,3 +53,5 @@ date: \today
 
 ```{r child='11-conclusion.md'}
 ```
+
+# References {-}

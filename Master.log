@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.3.17)  24 JUN 2019 22:08
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.3.17)  29 JUN 2019 22:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -520,65 +520,66 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 .................................................
 . fontspec info: "set-scale"
 . 
-. Adobe Caslon Pro scale = 1.041064444249968.
+. SF Pro Text Light scale = 0.8195802120403519.
 .................................................
-\g__fontspec_family_AdobeCaslonPro_int=\count197
-.................................................
-. fontspec info: "set-scale"
-. 
-. Adobe Caslon Pro scale = 1.041064444249968.
-.................................................
+\g__fontspec_family_SFProTextLight_int=\count197
 .................................................
 . fontspec info: "set-scale"
 . 
-. Adobe Caslon Pro scale = 1.041064444249968.
+. SF Pro Text Light scale = 0.8195802120403519.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Adobe Caslon Pro/B scale = 1.041064444249968.
+. SF Pro Text Light scale = 0.8195802120403519.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Adobe Caslon Pro/B scale = 1.041064444249968.
+. SF Pro Text Semibold scale = 0.8075835472222294.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Adobe Caslon Pro/I scale = 1.041064444249968.
+. SF Pro Text Semibold scale = 0.8075835472222294.
 .................................................
 .................................................
 . fontspec info: "set-scale"
 . 
-. Adobe Caslon Pro/BI scale = 1.041064444249968.
+. SF Pro Text Light/I scale = 0.8195802120403519.
+.................................................
+.................................................
+. fontspec info: "set-scale"
+. 
+. SF Pro Text Semibold/I scale = 0.8068440905936797.
 .................................................
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'AdobeCaslonPro(0)' created for font 'Adobe Caslon Pro' with
-. options [Ligatures=TeX,Scale=MatchLowercase,Ligatures=TeX].
+. Font family 'SFProTextLight(0)' created for font 'SF Pro Text Light' with
+. options [Ligatures=TeX,Scale=MatchLowercase,Ligatures=TeX,BoldFont = SF Pro
+. Text Semibold].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
-. - 'normal' (m/n) with NFSS spec.: <->s*[1.041064444249968]"Adobe Caslon
-. Pro/OT:script=latn;language=DFLT;mapping=tex-text;"
-. - 'small caps'  (m/sc) with NFSS spec.: <->s*[1.041064444249968]"Adobe
-. Caslon Pro/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
-. - 'bold' (bx/n) with NFSS spec.: <->s*[1.041064444249968]"Adobe Caslon
-. Pro/B/OT:script=latn;language=DFLT;mapping=tex-text;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: <->s*[1.041064444249968]"Adobe
-. Caslon Pro/B/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
-. - 'italic' (m/it) with NFSS spec.: <->s*[1.041064444249968]"Adobe Caslon
-. Pro/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'normal' (m/n) with NFSS spec.: <->s*[0.8195802120403519]"SF Pro Text
+. Light/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: <->s*[0.8195802120403519]"SF Pro
+. Text Light/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'bold' (bx/n) with NFSS spec.: <->s*[0.8075835472222294]"SF Pro Text
+. Semibold/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: <->s*[0.8075835472222294]"SF
+. Pro Text Semibold/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'italic' (m/it) with NFSS spec.: <->s*[0.8195802120403519]"SF Pro Text
+. Light/I/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'italic small caps'  (m/itsc) with NFSS spec.: 
-. - 'bold italic' (bx/it) with NFSS spec.: <->s*[1.041064444249968]"Adobe
-. Caslon Pro/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold italic' (bx/it) with NFSS spec.: <->s*[0.8068440905936797]"SF Pro
+. Text Semibold/I/OT:script=latn;language=DFLT;mapping=tex-text;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
 LaTeX Info: Redefining \rmfamily on input line 16.
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/m/n' will be
-(Font)              scaled to size 11.39961pt on input line 16.
+LaTeX Font Info:    Font shape `TU/SFProTextLight(0)/m/n' will be
+(Font)              scaled to size 8.9744pt on input line 16.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
@@ -903,36 +904,36 @@ Package: mathastext 2016/11/06 v1.3r Use the text font in math mode (JFB)
 \symmtletterfont=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathnormalbold' in version `nor
 mal'
-(Font)                  TU/AdobeCaslonPro(0)/bx/it --> TU/AdobeCaslonPro(0)/bx/
+(Font)                  TU/SFProTextLight(0)/bx/it --> TU/SFProTextLight(0)/bx/
 it on input line 1102.
 LaTeX Font Info:    Overwriting math alphabet `\mathnormalbold' in version `bol
 d'
-(Font)                  TU/AdobeCaslonPro(0)/bx/it --> TU/AdobeCaslonPro(0)/bx/
+(Font)                  TU/SFProTextLight(0)/bx/it --> TU/SFProTextLight(0)/bx/
 it on input line 1102.
 LaTeX Font Info:    Overwriting symbol font `mtletterfont' in version `normal'
-(Font)                  TU/AdobeCaslonPro(0)/m/it --> TU/AdobeCaslonPro(0)/m/it
+(Font)                  TU/SFProTextLight(0)/m/it --> TU/SFProTextLight(0)/m/it
  on input line 1102.
 LaTeX Font Info:    Overwriting symbol font `mtletterfont' in version `bold'
-(Font)                  TU/AdobeCaslonPro(0)/m/it --> TU/AdobeCaslonPro(0)/bx/i
+(Font)                  TU/SFProTextLight(0)/m/it --> TU/SFProTextLight(0)/bx/i
 t on input line 1102.
 LaTeX Font Info:    Overwriting symbol font `mtoperatorfont' in version `normal
 '
-(Font)                  TU/AdobeCaslonPro(0)/m/n --> TU/AdobeCaslonPro(0)/m/n o
+(Font)                  TU/SFProTextLight(0)/m/n --> TU/SFProTextLight(0)/m/n o
 n input line 1102.
 LaTeX Font Info:    Overwriting symbol font `mtoperatorfont' in version `bold'
-(Font)                  TU/AdobeCaslonPro(0)/m/n --> TU/AdobeCaslonPro(0)/bx/n 
+(Font)                  TU/SFProTextLight(0)/m/n --> TU/SFProTextLight(0)/bx/n 
 on input line 1102.
 LaTeX Font Info:    Overwriting math alphabet `\Mathbf' in version `normal'
-(Font)                  TU/AdobeCaslonPro(0)/bx/n --> TU/AdobeCaslonPro(0)/bx/n
+(Font)                  TU/SFProTextLight(0)/bx/n --> TU/SFProTextLight(0)/bx/n
  on input line 1102.
 LaTeX Font Info:    Overwriting math alphabet `\Mathbf' in version `bold'
-(Font)                  TU/AdobeCaslonPro(0)/bx/n --> TU/AdobeCaslonPro(0)/bx/n
+(Font)                  TU/SFProTextLight(0)/bx/n --> TU/SFProTextLight(0)/bx/n
  on input line 1102.
 LaTeX Font Info:    Overwriting math alphabet `\Mathit' in version `normal'
-(Font)                  TU/AdobeCaslonPro(0)/m/it --> TU/AdobeCaslonPro(0)/m/it
+(Font)                  TU/SFProTextLight(0)/m/it --> TU/SFProTextLight(0)/m/it
  on input line 1102.
 LaTeX Font Info:    Overwriting math alphabet `\Mathit' in version `bold'
-(Font)                  TU/AdobeCaslonPro(0)/m/it --> TU/AdobeCaslonPro(0)/bx/i
+(Font)                  TU/SFProTextLight(0)/m/it --> TU/SFProTextLight(0)/bx/i
 t on input line 1102.
 LaTeX Font Info:    Overwriting math alphabet `\Mathsf' in version `normal'
 (Font)                  TU/lmss/m/n --> TU/lmss/m/n on input line 1102.
@@ -943,7 +944,7 @@ LaTeX Font Info:    Overwriting math alphabet `\Mathtt' in version `normal'
 LaTeX Font Info:    Overwriting math alphabet `\Mathtt' in version `bold'
 (Font)                  TU/lmtt/m/n --> TU/lmtt/bx/n on input line 1102.
 ** Latin letters in the normal (resp. bold) math versions are now
-** set up to use the fonts TU/AdobeCaslonPro(0)/m(bx)/it
+** set up to use the fonts TU/SFProTextLight(0)/m(bx)/it
 ** Other characters (digits, ...) and \log-like names will be
 ** typeset with the n shape.
 ** ! and ?
@@ -1010,7 +1011,7 @@ Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
 Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `AdobeCaslonPro' (encoding: TU).
+(microtype)             `SFProTextLight' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 *geometry* driver: auto-detecting
@@ -1067,7 +1068,7 @@ Package mathastext Info: current meaning of amsmath \resetMathstrut@ saved on i
 nput line 149.
 \symgns@font=\mathgroup8
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/AdobeCaslonPro(0)/m/n --> TS1/AdobeCaslonPro(0)/bx/
+(Font)                  TS1/SFProTextLight(0)/m/n --> TS1/SFProTextLight(0)/bx/
 n on input line 149.
 Package gensymb Info: Math companion symbols declared on input line 149.
 LaTeX Info: Redefining \degree on input line 149.
@@ -1077,26 +1078,26 @@ erthousand on input line 149.
 LaTeX Info: Redefining \ohm on input line 149.
 Package gensymb Info: Using \textohm for \ohm on input line 149.
 Package gensymb Info: Using \textmu for \micro on input line 149.
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/m/n' will be
-(Font)              scaled to size 21.59161pt on input line 150.
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/m/n' will be
-(Font)              scaled to size 12.49274pt on input line 150.
+LaTeX Font Info:    Font shape `TU/SFProTextLight(0)/m/n' will be
+(Font)              scaled to size 16.9981pt on input line 150.
+LaTeX Font Info:    Font shape `TU/SFProTextLight(0)/m/n' will be
+(Font)              scaled to size 9.83496pt on input line 150.
 [1
 
 
 ]
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/m/it' will be
-(Font)              scaled to size 11.39961pt on input line 154.
+LaTeX Font Info:    Font shape `TU/SFProTextLight(0)/m/it' will be
+(Font)              scaled to size 8.9744pt on input line 154.
 [2
 
 ]
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/m/n' will be
-(Font)              scaled to size 25.90161pt on input line 154.
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/bx/n' will be
-(Font)              scaled to size 25.90161pt on input line 154.
+LaTeX Font Info:    Font shape `TU/SFProTextLight(0)/m/n' will be
+(Font)              scaled to size 20.39114pt on input line 154.
+LaTeX Font Info:    Font shape `TU/SFProTextLight(0)/bx/n' will be
+(Font)              scaled to size 20.09276pt on input line 154.
 (./Master.toc
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/bx/n' will be
-(Font)              scaled to size 11.39961pt on input line 1.
+LaTeX Font Info:    Font shape `TU/SFProTextLight(0)/bx/n' will be
+(Font)              scaled to size 8.84306pt on input line 1.
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 3.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1135,306 +1136,316 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/m/n' will be
-(Font)              scaled to size 8.32849pt on input line 3.
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/m/n' will be
-(Font)              scaled to size 6.24637pt on input line 3.
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/m/it' will be
-(Font)              scaled to size 8.32849pt on input line 3.
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/m/it' will be
-(Font)              scaled to size 6.24637pt on input line 3.
-LaTeX Font Info:    Try loading font information for TS1+AdobeCaslonPro(0) on i
+LaTeX Font Info:    Font shape `TU/SFProTextLight(0)/m/n' will be
+(Font)              scaled to size 6.55664pt on input line 3.
+LaTeX Font Info:    Font shape `TU/SFProTextLight(0)/m/n' will be
+(Font)              scaled to size 4.91748pt on input line 3.
+LaTeX Font Info:    Font shape `TU/SFProTextLight(0)/m/it' will be
+(Font)              scaled to size 6.55664pt on input line 3.
+LaTeX Font Info:    Font shape `TU/SFProTextLight(0)/m/it' will be
+(Font)              scaled to size 4.91748pt on input line 3.
+LaTeX Font Info:    Try loading font information for TS1+SFProTextLight(0) on i
 nput line 3.
-LaTeX Font Info:    No file TS1AdobeCaslonPro(0).fd. on input line 3.
+LaTeX Font Info:    No file TS1SFProTextLight(0).fd. on input line 3.
 
-LaTeX Font Warning: Font shape `TS1/AdobeCaslonPro(0)/m/n' undefined
+LaTeX Font Warning: Font shape `TS1/SFProTextLight(0)/m/n' undefined
 (Font)              using `TS1/cmr/m/n' instead on input line 3.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
-) [3])
+) [3]
+Overfull \hbox (1.32597pt too wide) detected at line 46
+ \TU/SFProTextLight(0)/m/n/10.95 100
+ []
+
+
+Overfull \hbox (1.02362pt too wide) detected at line 47
+ \TU/SFProTextLight(0)/m/n/10.95 102
+ []
+
+
+Overfull \hbox (0.58102pt too wide) detected at line 48
+ \TU/SFProTextLight(0)/m/n/10.95 107
+ []
+
+
+Overfull \hbox (0.98418pt too wide) detected at line 53
+ \TU/SFProTextLight(0)/m/n/10.95 120
+ []
+
+
+Overfull \hbox (0.74754pt too wide) detected at line 54
+ \TU/SFProTextLight(0)/m/n/10.95 122
+ []
+
+
+Overfull \hbox (1.03676pt too wide) detected at line 55
+ \TU/SFProTextLight(0)/m/n/10.95 128
+ []
+
+
+Overfull \hbox (0.94035pt too wide) detected at line 60
+ \TU/SFProTextLight(0)/m/n/10.95 132
+ []
+
+
+Overfull \hbox (1.21643pt too wide) detected at line 66
+ \TU/SFProTextLight(0)/m/n/10.95 136
+ []
+
+
+Overfull \hbox (1.22957pt too wide) detected at line 67
+ \TU/SFProTextLight(0)/m/n/10.95 139
+ []
+
+
+Overfull \hbox (1.39171pt too wide) detected at line 68
+ \TU/SFProTextLight(0)/m/n/10.95 140
+ []
+
+
+Overfull \hbox (1.03238pt too wide) detected at line 69
+ \TU/SFProTextLight(0)/m/n/10.95 142
+ []
+
+
+Overfull \hbox (1.2953pt too wide) detected at line 70
+ \TU/SFProTextLight(0)/m/n/10.95 143
+ []
+
+
+Overfull \hbox (1.418pt too wide) detected at line 71
+ \TU/SFProTextLight(0)/m/n/10.95 146
+ []
+
+
+Overfull \hbox (1.06305pt too wide) detected at line 72
+ \TU/SFProTextLight(0)/m/n/10.95 153
+ []
+
+
+Overfull \hbox (1.37856pt too wide) detected at line 77
+ \TU/SFProTextLight(0)/m/n/10.95 166
+ []
+
+)
 \tf@toc=\write4
 \openout4 = `Master.toc'.
 
 [4]
 Chapter 1.
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/bx/n' will be
-(Font)              scaled to size 21.59161pt on input line 157.
+LaTeX Font Info:    Font shape `TU/SFProTextLight(0)/bx/n' will be
+(Font)              scaled to size 16.74934pt on input line 157.
 [5
 
 ] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16
 
 ]
 Chapter 2.
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/m/n' will be
-(Font)              scaled to size 14.99127pt on input line 347.
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/bx/n' will be
-(Font)              scaled to size 14.99127pt on input line 347.
-[17] [18] [19] [20]
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/m/n' will be
-(Font)              scaled to size 9.36955pt on input line 424.
+LaTeX Font Info:    Font shape `TU/SFProTextLight(0)/m/n' will be
+(Font)              scaled to size 11.80194pt on input line 347.
+LaTeX Font Info:    Font shape `TU/SFProTextLight(0)/bx/n' will be
+(Font)              scaled to size 11.62924pt on input line 347.
+[17] [18] [19]
+Underfull \hbox (badness 1661) in paragraph at lines 411--412
+[]\TU/SFProTextLight(0)/m/n/10.95 When Anisa starts playing the Red-Blue game, 
+her practical situation
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 413--414
+\TU/SFProTextLight(0)/m/n/10.95 of \TU/SFProTextLight(0)/bx/n/10.95 subject-sen
+sitive invariantism\TU/SFProTextLight(0)/m/n/10.95 , since they make knowledge 
+relevant to
+ []
+
+[20]
+LaTeX Font Info:    Font shape `TU/SFProTextLight(0)/m/n' will be
+(Font)              scaled to size 7.37622pt on input line 424.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <9> on input line 424.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 424.
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/m/n' will be
-(Font)              scaled to size 5.2053pt on input line 424.
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/m/it' will be
-(Font)              scaled to size 9.36955pt on input line 424.
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/m/it' will be
-(Font)              scaled to size 5.2053pt on input line 424.
+LaTeX Font Info:    Font shape `TU/SFProTextLight(0)/m/n' will be
+(Font)              scaled to size 4.0979pt on input line 424.
+LaTeX Font Info:    Font shape `TU/SFProTextLight(0)/m/it' will be
+(Font)              scaled to size 7.37622pt on input line 424.
+LaTeX Font Info:    Font shape `TU/SFProTextLight(0)/m/it' will be
+(Font)              scaled to size 4.0979pt on input line 424.
 [21] [22] [23] [24]
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/bx/n' will be
-(Font)              scaled to size 12.49274pt on input line 496.
-[25] [26]
-Overfull \hbox (0.11853pt too wide) in paragraph at lines 527--528
-\TU/AdobeCaslonPro(0)/m/n/10.95 how much trouble non-contextualist orthodox the
-orists get into with these
- []
-
-[27]
-Overfull \hbox (0.12479pt too wide) in paragraph at lines 537--538
-[]\TU/AdobeCaslonPro(0)/m/n/10.95 But rather than thinking about these merely p
-ossible languages, let’s re-
- []
-
-[28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38]
-Underfull \hbox (badness 1152) in paragraph at lines 700--701
-\TU/AdobeCaslonPro(0)/m/n/10.95 then probability, justification, rationality, a
-nd evidential support are
- []
-
-[39] [40] [41] [42]
+LaTeX Font Info:    Font shape `TU/SFProTextLight(0)/bx/n' will be
+(Font)              scaled to size 9.69104pt on input line 496.
+[25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40]
 Chapter 3.
-[43
 
-] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [5
-9] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74
+Underfull \hbox (badness 1838) in paragraph at lines 754--755
+\TU/SFProTextLight(0)/m/n/10.95 Pragmatic Encroachment”, I argued for a belief-
+first approach to interest-
+ []
 
-]
+
+Underfull \hbox (badness 2057) in paragraph at lines 754--755
+\TU/SFProTextLight(0)/m/n/10.95 norms, combined with interest-relative metaphys
+ics, could explain all the
+ []
+
+[41
+
+] [42] [43] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [5
+7] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68]
 Chapter 4.
-[75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89]
-Underfull \hbox (badness 2343) in paragraph at lines 1511--1512
-\TU/AdobeCaslonPro(0)/m/n/10.95 competently deduces $[]$ from those premises, t
-hereby coming
- []
+[69
 
-[90] [91] [92] [93] [94
-
-]
+] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [8
+5] [86]
 Chapter 5.
-[95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106]
-Overfull \vbox (0.17685pt too high) has occurred while \output is active []
+[87
 
-[107] [108] [109] [110] [111] [112] [113] [114] [115]
-Underfull \hbox (badness 1377) in paragraph at lines 2020--2021
-[]\TU/AdobeCaslonPro(0)/m/n/10.95 The real problems for E=K come from the monot
-onic counter-
- []
-
-
-Underfull \hbox (badness 1622) in paragraph at lines 2023--2023
-[]\TU/AdobeCaslonPro(0)/bx/n/14.4 Basic Knowledge and Non-Inferential Knowl-
- []
-
-[116]
-Underfull \hbox (badness 1163) in paragraph at lines 2033--2034
-[]\TU/AdobeCaslonPro(0)/m/n/10.95 So I agree with Bird that we can’t identify e
-vidence with non-
- []
-
-
-Underfull \hbox (badness 1014) in paragraph at lines 2033--2034
-\TU/AdobeCaslonPro(0)/m/n/10.95 inferential knowledge, if by that we mean knowl
-edge that was not
- []
-
-[117] [118] [119] [120] [121] [122] [123] [124] [125] [126
-
-]
+] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102]
+[103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114]
 Chapter 6.
-[127] [128] [129] [130] [131] [132] [133] [134] [135]
-LaTeX Font Info:    Font shape `TU/AdobeCaslonPro(0)/bx/n' will be
-(Font)              scaled to size 9.36955pt on input line 2284.
+[115
 
-Package natbib Warning: Citation `Brandenburger2008' on page 136 undefined on i
-nput line 2284.
+] [116] [117] [118] [119] [120] [121]
+Overfull \vbox (2.23315pt too high) has occurred while \output is active []
 
-[136] [137] [138] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148
+[122] [123] [124] [125] [126] [127] [128] [129] [130] [131] [132] [133] [134
 
 ]
 Chapter 7.
-[149] [150] [151] [152] [153] [154] [155] [156] [157]
-
-Package natbib Warning: Citation `Conlisk1996' on page 158 undefined on input l
-ine 2610.
-
-[158] [159]
-
-Package natbib Warning: Citation `SchwartzEtAl2002' on page 160 undefined on in
-put line 2622.
-
-[160]
-Underfull \hbox (badness 1292) in paragraph at lines 2635--2636
-[]\TU/AdobeCaslonPro(0)/m/n/10.95 But these possibilities, while serious, have 
-two quite distinctive
- []
-
-[161] [162] [163] [164]
+[135] [136] [137] [138] [139] [140] [141] [142] [143] [144] [145] [146] [147] [
+148] [149] [150] [151] [152] [153] [154] [155] [156]
 Chapter 8.
-[165
+[157
 
-] [166
+] [158
 
 ]
 Chapter 9.
-[167] [168
+[159] [160
 
 ]
 Chapter 10.
 
-LaTeX Warning: Reference `lockean' on page 169 undefined on input line 2680.
+LaTeX Warning: Reference `lockean' on page 161 undefined on input line 2767.
 
-
-Underfull \hbox (badness 4108) in paragraph at lines 2700--2701
-[]\TU/AdobeCaslonPro(0)/m/n/10.95 If someone rationally believes $[]$, and rati
-onally
+[161] [162] [163]
+Underfull \hbox (badness 1983) in paragraph at lines 2826--2827
+[]\TU/SFProTextLight(0)/m/n/10.95 It is undoubtedly true that ordinary humans c
+annot entertain
  []
 
-[169] [170]
-Underfull \hbox (badness 3884) in paragraph at lines 2718--2719
-[]\TU/AdobeCaslonPro(0)/m/n/10.95 Alternatively, we might try to use an argumen
-t by Timothy
- []
-
-[171] [172] [173] [174] [175] [176] [177] [178
-
-]
+[164] [165] [166] [167] [168]
 Chapter 11.
-(./Master.bbl [179] [180
+(./Master.bbl [169
+
+] [170
 
 ]
-Underfull \hbox (badness 3623) in paragraph at lines 28--33
-[]\TU/AdobeCaslonPro(0)/m/n/10.95 Aumann, Robert J. 1999.  “Interactive Epistem
-ology I: Knowl-
+Underfull \hbox (badness 1303) in paragraph at lines 66--71
+\TU/SFProTextLight(0)/m/n/10.95 “Admissibility in Games.”  \TU/SFProTextLight(0
+)/m/it/10.95 Econometrica \TU/SFProTextLight(0)/m/n/10.95 76: 307-352, []doi:10
+.1111/j.1468-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--33
-\TU/AdobeCaslonPro(0)/m/n/10.95 edge.”  \TU/AdobeCaslonPro(0)/m/it/10.95 Intern
-ational Journal of Game Theory \TU/AdobeCaslonPro(0)/m/n/10.95 28: 263-300,
+Underfull \hbox (badness 2809) in paragraph at lines 73--79
+\TU/SFProTextLight(0)/m/n/10.95 Norm for Practical Reasoning.”  \TU/SFProTextLi
+ght(0)/m/it/10.95 Noûs \TU/SFProTextLight(0)/m/n/10.95 42: 167-189, []doi:10.11
+11/j.1468-
  []
 
-[181]
-Underfull \hbox (badness 3049) in paragraph at lines 78--83
-\TU/AdobeCaslonPro(0)/m/n/10.95 and Satisficing.”  \TU/AdobeCaslonPro(0)/m/it/1
-0.95 American Economic Review \TU/AdobeCaslonPro(0)/m/n/10.95 101: 2899-2922,
- []
-
-
-Underfull \hbox (badness 1874) in paragraph at lines 110--115
-[]\TU/AdobeCaslonPro(0)/m/n/10.95 Cohen, Stewart. 2004.  “Knowledge, assertion,
- and practical rea-
- []
-
-
-Underfull \hbox (badness 3679) in paragraph at lines 110--115
-\TU/AdobeCaslonPro(0)/m/n/10.95 soning.”  \TU/AdobeCaslonPro(0)/m/it/10.95 Phil
-osophical Issues \TU/AdobeCaslonPro(0)/m/n/10.95 14: 482-491, []doi:10.1111/j.1
-533-
+[171]
+Missing character: There is no ‐ in font SF Pro Text Light/OT:script=latn;langu
+age=DFLT;mapping=tex-text;!
+[172]
+Underfull \hbox (badness 1365) in paragraph at lines 192--197
+[]\TU/SFProTextLight(0)/m/n/10.95 Evnine, Simon. 1999.  “Believing Conjunctions
+.”  \TU/SFProTextLight(0)/m/it/10.95 Synthese \TU/SFProTextLight(0)/m/n/10.95 1
+18: 201-227,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--148
-[]\TU/AdobeCaslonPro(0)/m/n/10.95 Dogramaci, Sinan. 2015.  “Forget and Forgive:
- A Practi-
+Underfull \hbox (badness 1033) in paragraph at lines 249--254
+[]\TU/SFProTextLight(0)/m/n/10.95 Gillies, Anthony S. 2010.  “Iffiness.”  \TU/S
+FProTextLight(0)/m/it/10.95 Semantics and Pragmatics \TU/SFProTextLight(0)/m/n/
+10.95 3: 1-42,
+ []
+
+[173] [174]
+Underfull \hbox (badness 6268) in paragraph at lines 396--401
+[]\TU/SFProTextLight(0)/m/n/10.95 Lee, Matthew Brandon. 2017b.  “Credence and C
+orrectness: In De-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--148
-\TU/AdobeCaslonPro(0)/m/n/10.95 cal Approach to Forgotten Evidence.”  \TU/Adobe
-CaslonPro(0)/m/it/10.95 Ergo \TU/AdobeCaslonPro(0)/m/n/10.95 2: 645-677,
- []
-
-[182]
-Underfull \hbox (badness 2941) in paragraph at lines 257--262
-\TU/AdobeCaslonPro(0)/m/n/10.95 the Use of Earmarks in Arguments).”  \TU/AdobeC
-aslonPro(0)/m/it/10.95 Ethics \TU/AdobeCaslonPro(0)/m/n/10.95 124: 114-127,
- []
-
-[183]
-Underfull \hbox (badness 6461) in paragraph at lines 304--309
-[]\TU/AdobeCaslonPro(0)/m/n/10.95 Kohlberg, Elon and Mertens, Jean-Francois. 19
-86.  “On the
+Underfull \hbox (badness 7397) in paragraph at lines 396--401
+\TU/SFProTextLight(0)/m/n/10.95 fense of Credal Reductivism.”  \TU/SFProTextLig
+ht(0)/m/it/10.95 Philosophical Papers \TU/SFProTextLight(0)/m/n/10.95 46: 273-2
+96,
  []
 
 
-Underfull \hbox (badness 1701) in paragraph at lines 304--309
-\TU/AdobeCaslonPro(0)/m/n/10.95 Strategic Stability of Equilibria.”  \TU/AdobeC
-aslonPro(0)/m/it/10.95 Econometrica \TU/AdobeCaslonPro(0)/m/n/10.95 54: 1003-10
-37,
+Underfull \hbox (badness 3635) in paragraph at lines 471--476
+[]\TU/SFProTextLight(0)/m/n/10.95 Mangan, Jean, Hughes, Amanda, and Slack, Kim.
+ 2010.  “Student Fi-
  []
 
-[184]
-Underfull \hbox (badness 10000) in paragraph at lines 367--372
-[]\TU/AdobeCaslonPro(0)/m/n/10.95 —. 1988.  “Desire as Belief.”  \TU/AdobeCaslo
-nPro(0)/m/it/10.95 Mind \TU/AdobeCaslonPro(0)/m/n/10.95 97: 323-332,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 374--379
-[]\TU/AdobeCaslonPro(0)/m/n/10.95 —. 1996.  “Desire as Belief II.”  \TU/AdobeCa
-slonPro(0)/m/it/10.95 Mind \TU/AdobeCaslonPro(0)/m/n/10.95 105: 303-313,
- []
-
-[185]
-Underfull \hbox (badness 5771) in paragraph at lines 476--482
-\TU/AdobeCaslonPro(0)/m/n/10.95 ability.”  \TU/AdobeCaslonPro(0)/m/it/10.95 Stu
-dies In History and Philosophy of Science Part B:
+[175] [176]
+Underfull \hbox (badness 2426) in paragraph at lines 568--574
+[]\TU/SFProTextLight(0)/m/n/10.95 Papi, Mario. 2013.  “Satisficing and maximizi
+ng consumers in a monop-
  []
 
 
-Underfull \hbox (badness 3612) in paragraph at lines 476--482
-\TU/AdobeCaslonPro(0)/m/it/10.95 Studies In History and Philosophy of Modern Ph
-ysics \TU/AdobeCaslonPro(0)/m/n/10.95 41: 27-40,
+Underfull \hbox (badness 2229) in paragraph at lines 568--574
+\TU/SFProTextLight(0)/m/n/10.95 olistic screening model.”  \TU/SFProTextLight(0
+)/m/it/10.95 Mathematical Social Sciences \TU/SFProTextLight(0)/m/n/10.95 66: 3
+85-389,
  []
 
-[186] [187]
-Underfull \hbox (badness 10000) in paragraph at lines 610--615
-[]\TU/AdobeCaslonPro(0)/m/n/10.95 —. 1996.  “Knowledge, Belief and Counterfactu
-al Reason-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 610--615
-\TU/AdobeCaslonPro(0)/m/n/10.95 ing in Games.”  \TU/AdobeCaslonPro(0)/m/it/10.9
-5 Economics and Philosophy \TU/AdobeCaslonPro(0)/m/n/10.95 12: 133-163,
- []
-
-[188]
-Underfull \hbox (badness 1571) in paragraph at lines 718--723
-[]\TU/AdobeCaslonPro(0)/m/n/10.95 Weisberg, Jonathan. 2010.  “Bootstrapping in 
-General.”  \TU/AdobeCaslonPro(0)/m/it/10.95 Philoso-
+[177] [178]
+Underfull \hbox (badness 3919) in paragraph at lines 763--768
+[]\TU/SFProTextLight(0)/m/n/10.95 Weatherson, Brian. 2005a.  “Can We Do Without
+ Pragmatic Encroach-
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 754--760
-\TU/AdobeCaslonPro(0)/m/n/10.95 edge of Knowledge.”  \TU/AdobeCaslonPro(0)/m/it
-/10.95 The Philosophical Quarterly \TU/AdobeCaslonPro(0)/m/n/10.95 55: 213-235,
-
+Underfull \hbox (badness 4479) in paragraph at lines 763--768
+\TU/SFProTextLight(0)/m/n/10.95 ment?”  \TU/SFProTextLight(0)/m/it/10.95 Philos
+ophical Perspectives \TU/SFProTextLight(0)/m/n/10.95 19: 417-443, []doi:10.1111
+/j.1520-
  []
 
-[189])
 
-Package natbib Warning: There were undefined citations.
+Underfull \hbox (badness 3449) in paragraph at lines 777--782
+[]\TU/SFProTextLight(0)/m/n/10.95 —. 2005c.  “True, Truer, Truest.”  \TU/SFProT
+extLight(0)/m/it/10.95 Philosophical Studies \TU/SFProTextLight(0)/m/n/10.95 12
+3: 47-70,
+ []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2827.
-[190]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2827.
+
+Underfull \hbox (badness 6510) in paragraph at lines 834--839
+[]\TU/SFProTextLight(0)/m/n/10.95 —. 2013.  “Knowledge in Action.”  \TU/SFProTe
+xtLight(0)/m/it/10.95 Philosophers’ Imprint \TU/SFProTextLight(0)/m/n/10.95 13:
+ 1-23,
+ []
+
+[179]
+Underfull \hbox (badness 8113) in paragraph at lines 878--883
+[]\TU/SFProTextLight(0)/m/n/10.95 —. 2013.  “Gettier Cases in Epistemic Logic.”
+  \TU/SFProTextLight(0)/m/it/10.95 Inquiry \TU/SFProTextLight(0)/m/n/10.95 56: 
+1-14,
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2914.
+[180]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2914.
 (./Master.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2827.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2827.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 2914.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 2914.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1443,12 +1454,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 23843 strings out of 493007
- 441557 string characters out of 6134605
- 570964 words of memory out of 5000000
- 27555 multiletter control sequences out of 15000+600000
- 552819 words of font info for 82 fonts, out of 8000000 for 9000
+ 23891 strings out of 493007
+ 442542 string characters out of 6134605
+ 572649 words of memory out of 5000000
+ 27604 multiletter control sequences out of 15000+600000
+ 552811 words of font info for 81 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 46i,11n,116p,10447b,672s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,11n,116p,10447b,692s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Master.pdf (190 pages).
+Output written on Master.pdf (180 pages).
